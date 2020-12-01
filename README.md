@@ -9,3 +9,5 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Python `oneliner`](https://github.com/pelma24/AdventOfCode/blob/master/2020/day1.py) by [pelma24](https://github.com/pelma24)
 * [C++ `foreach`](https://github.com/Gronner/aoc-2020/blob/main/src/day1.cpp) by [Gronner](https://github.com/Gronner)
 * [JS/Node.JS](https://github.com/seriousManual/aoc_1) by [SeriousManual](https://github.com/seriousmanual)
+* [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day01.rs)
+  by [yogan](https://github.com/yogan), [t-animal](https://github.com/t-animal), [RussellSnyder](https://github.com/RussellSnyder)
