@@ -12,5 +12,6 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day01.rs)
   by [yogan](https://github.com/yogan), [t-animal](https://github.com/t-animal), [RussellSnyder](https://github.com/RussellSnyder)
 * [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day1.dart) by [yudansha](https://github.com/yudansha)
+* [Go](https://github.com/pituser/aoc-2020-go/blob/main/day01/day01.go) by [Mike](https://github.com/pituser)
   
   
