@@ -4,4 +4,4 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 
 ## Day 1
 
-* *link to some solution*
+* [Rust with `itertools`](https://github.com/migerh/aoc-2020-rs/blob/main/src/day1/mod.rs) by [migerh](https://github.com/migerh)
