@@ -14,7 +14,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-02) by [Halid Ali](https://github.com/halid-ali)
 * [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day02.rs)
   by [yogan](https://github.com/yogan), [dnnr](https://github.com/dnnr), [RussellSnyder](https://github.com/RussellSnyder)
-* [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/02.jl)
+* [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/02.jl) by [tsbr][]
 
 ## Day 1
 
@@ -29,4 +29,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Go](https://github.com/pituser/aoc-2020-go/blob/main/day01/day01.go) by [Mike](https://github.com/pituser)
 * [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-01) by [Halid Ali](https://github.com/halid-ali)
 * [Pyton with `brute force`](https://github.com/JonathanKuebler/advent-of-code/blob/master/1_dez/result.py) by [jnkr](https://github.com/JonathanKuebler)
-* [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/01.jl)
+* [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/01.jl) by [tsbr][]
+
+
+[tsbr]: https://github.com/CmdQ/AoC2020/tree/main/AoC2020
