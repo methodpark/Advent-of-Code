@@ -5,6 +5,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 ## Day 2
 
 * [Rust solution](https://github.com/migerh/aoc-2020-rs/blob/main/src/day2/mod.rs) by [migerh](https://github.com/migerh) using the [`regex` crate](https://crates.io/crates/regex) for parsing
+* [Python with `regex`](https://github.com/ohaz/adventofcode2020/blob/main/day2/day2.py) by [ohaz](https://github.com/ohaz)
 
 ## Day 1
 
