@@ -11,6 +11,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day2.dart) by [yudansha](https://github.com/yudansha)
 * [Pyton with `str.split` and a little `regex`](https://github.com/JonathanKuebler/advent-of-code/blob/master/2_dez/solver.py) by [jnkr](https://github.com/JonathanKuebler)
 * [Go with regexp](https://github.com/pituser/aoc-2020-go/blob/main/day02/day02.go) by [Mike](https://github.com/pituser)
+* [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-02) by [Halid Ali](https://github.com/halid-ali)
 
 ## Day 1
 
