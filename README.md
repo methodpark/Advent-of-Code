@@ -9,6 +9,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Python with `regex`](https://github.com/ohaz/adventofcode2020/blob/main/day2/day2.py) by [ohaz](https://github.com/ohaz)
 * [C++ with `regex`](https://github.com/Gronner/aoc-2020/blob/main/src/day2.cpp) by [Gronner](https://github.com/Gronner)
 * [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day2.dart) by [yudansha](https://github.com/yudansha)
+* [Pyton with `str.split` and a little `regex`](https://github.com/JonathanKuebler/advent-of-code/blob/master/2_dez/solver.py) by [jnkr](https://github.com/JonathanKuebler)
 
 ## Day 1
 
@@ -22,3 +23,4 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 * [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day1.dart) by [yudansha](https://github.com/yudansha)
 * [Go](https://github.com/pituser/aoc-2020-go/blob/main/day01/day01.go) by [Mike](https://github.com/pituser)
 * [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-01) by [Halid Ali](https://github.com/halid-ali)
+* [Pyton with `brute force`](https://github.com/JonathanKuebler/advent-of-code/blob/master/1_dez/result.py) by [jnkr](https://github.com/JonathanKuebler)
