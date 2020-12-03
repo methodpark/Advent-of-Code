@@ -2,7 +2,7 @@
 
 We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
-## Day 2
+## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
 1. [Python with `regex`](https://github.com/pelma24/AdventOfCode/blob/master/2020/day2.py) by [pelma24](https://github.com/pelma24)
 1. [Rust solution](https://github.com/migerh/aoc-2020-rs/blob/main/src/day2/mod.rs) by [migerh](https://github.com/migerh) using the [`regex` crate](https://crates.io/crates/regex) for parsing
@@ -18,7 +18,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day02/day02.py) by [poschi3](https://github.com/poschi3)
 
 
-## Day 1
+## [Day 1: Report Repair](https://adventofcode.com/2020/day/1)
 
 1. [Rust with `itertools`](https://github.com/migerh/aoc-2020-rs/blob/main/src/day1/mod.rs) by [migerh](https://github.com/migerh)
 1. [Python with `itertools`](https://github.com/ohaz/adventofcode2020/blob/main/day1/day1.py) by [ohaz](https://github.com/ohaz)
