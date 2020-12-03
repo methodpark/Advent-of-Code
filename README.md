@@ -2,6 +2,10 @@
 
 We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
+
+1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day3/mod.rs) by [migerh]
+
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
 1. [Python with `regex`](https://github.com/pelma24/AdventOfCode/blob/master/2020/day2.py) by [pelma24](https://github.com/pelma24)
