@@ -12,6 +12,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [C++ just counting trees while sliding](https://github.com/Gronner/aoc-2020/blob/main/src/day3.cpp) by [Gronner]
 1. [Julia with 1-based indexing but nice reading](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/03.jl) by [tsbr]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day3.dart) by [yudansha]
+1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-03/Program.cs) by [Halid Ali]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
@@ -22,7 +23,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day2.dart) by [yudansha]
 1. [Python with `str.split` and a little `regex`](https://github.com/JonathanKuebler/advent-of-code/blob/master/2_dez/solver.py) by [jnkr]
 1. [Go with regexp](https://github.com/pituser/aoc-2020-go/blob/main/day02/day02.go) by [Mike]
-1. [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-02) by [Halid Ali]
+1. [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-02/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day02.rs) by [yogan], [dnnr], [RussellSnyder]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/02.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day02/day02.py) by [poschi3]
@@ -38,7 +39,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day01.rs) by [yogan], [t-animal], [RussellSnyder]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day1.dart) by [yudansha]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day01/day01.go) by [Mike]
-1. [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-01) by [Halid Ali]
+1. [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-01/Program.cs) by [Halid Ali]
 1. [Python with `brute force`](https://github.com/JonathanKuebler/advent-of-code/blob/master/1_dez/result.py) by [jnkr]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/01.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day01/day01.py) by [poschi3]
