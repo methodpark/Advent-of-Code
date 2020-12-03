@@ -6,6 +6,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day3/mod.rs) by [migerh]
 2. [Python with rotating deques](https://github.com/ohaz/adventofcode2020/blob/main/day3/day3.py) by [ohaz]
+3. [Python with nothing special](https://github.com/pelma24/AdventOfCode/blob/master/2020/day3.py) by [pelma24]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
