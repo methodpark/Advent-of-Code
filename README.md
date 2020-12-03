@@ -11,6 +11,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/03/main.py) by [lusiux]
 1. [C++ just counting trees while sliding](https://github.com/Gronner/aoc-2020/blob/main/src/day3.cpp) by [Gronner]
 1. [Julia with 1-based indexing but nice reading](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/03.jl) by [tsbr]
+1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day3.dart) by [yudansha]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
