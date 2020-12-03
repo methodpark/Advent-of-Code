@@ -5,9 +5,10 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day3/mod.rs) by [migerh]
-2. [Python with rotating deques](https://github.com/ohaz/adventofcode2020/blob/main/day3/day3.py) by [ohaz]
-3. [Python with nothing special](https://github.com/pelma24/AdventOfCode/blob/master/2020/day3.py) by [pelma24]
-4. [Python with an array](https://github.com/JonathanKuebler/advent-of-code/blob/master/3_dez/solver.py) by [jnkr]
+1. [Python with rotating deques](https://github.com/ohaz/adventofcode2020/blob/main/day3/day3.py) by [ohaz]
+1. [Python with nothing special](https://github.com/pelma24/AdventOfCode/blob/master/2020/day3.py) by [pelma24]
+1. [Python with an array](https://github.com/JonathanKuebler/advent-of-code/blob/master/3_dez/solver.py) by [jnkr]
+1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/03/main.py) by [lusiux]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
@@ -23,6 +24,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
   by [yogan], [dnnr], [RussellSnyder]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/02.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day02/day02.py) by [poschi3]
+1. [Python](https://github.com/lusiux/aoc2020/blob/main/02/main.py) by [lusiux]
 
 ## [Day 1: Report Repair](https://adventofcode.com/2020/day/1)
 
@@ -39,6 +41,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Python with `brute force`](https://github.com/JonathanKuebler/advent-of-code/blob/master/1_dez/result.py) by [jnkr]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/01.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day01/day01.py) by [poschi3]
+1. [Python](https://github.com/lusiux/aoc2020/blob/main/01/main.py) by [lusiux]
 
 [dnnr]: https://github.com/dnnr
 [Gronner]: https://github.com/Gronner
@@ -55,3 +58,4 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 [tsbr]: https://github.com/CmdQ/AoC2020/tree/main/AoC2020
 [yogan]: https://github.com/yogan
 [yudansha]: https://github.com/yudansha
+[lusiux]: https://github.com/lusiux
