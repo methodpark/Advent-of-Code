@@ -9,6 +9,7 @@ We'll collect solutions to the [Advent of Code 2020](https://adventofcode.com/20
 1. [Python with nothing special](https://github.com/pelma24/AdventOfCode/blob/master/2020/day3.py) by [pelma24]
 1. [Python with an array](https://github.com/JonathanKuebler/advent-of-code/blob/master/3_dez/solver.py) by [jnkr]
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/03/main.py) by [lusiux]
+1. [C++ just counting trees while sliding](https://github.com/Gronner/aoc-2020/blob/main/src/day3.cpp) by [Gronner]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
