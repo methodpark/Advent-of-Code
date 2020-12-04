@@ -8,6 +8,7 @@
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day4/day4.py) by [ohaz]
 1. [Julia after killing a Heisenbug, first-class ranges FTW](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/04.jl) by [tsbr]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day4.dart) by [yudansha]
+1. [C++ `overengineered`](https://github.com/Gronner/aoc-2020/tree/main/src/day4) by [Gronner]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
