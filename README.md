@@ -10,6 +10,7 @@
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day4.dart) by [yudansha]
 1. [C++ `could've just used a std::map`](https://github.com/Gronner/aoc-2020/tree/main/src/day4) by [Gronner]
 1. [Rust 'lifetime annotations everywhere'](https://github.com/migerh/aoc-2020-rs/blob/main/src/day4/mod.rs) by [migerh]
+1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day04/day04.go) by [Mike]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
@@ -22,6 +23,7 @@
 1. [Julia with 1-based indexing >:( but nice reading :)](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/03.jl) by [tsbr]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day3.dart) by [yudansha]
 1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-03/Program.cs) by [Halid Ali]
+1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day03/day03.go) by [Mike]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
