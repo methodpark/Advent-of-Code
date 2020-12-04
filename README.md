@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
+
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day4/day4.py) by [ohaz]
+
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day3/mod.rs) by [migerh]
