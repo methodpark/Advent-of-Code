@@ -4,6 +4,7 @@
 
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day4.py) by [pelma24]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day4/day4.py) by [ohaz]
 1. [Julia after killing a Heisenbug, first-class ranges FTW](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/04.jl) by [tsbr]
 
