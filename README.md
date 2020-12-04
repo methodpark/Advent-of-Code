@@ -12,6 +12,7 @@
 1. [Rust 'lifetime annotations everywhere'](https://github.com/migerh/aoc-2020-rs/blob/main/src/day4/mod.rs) by [migerh]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day04/day04.go) by [Mike]
 1. [Python with `Schema`](https://github.com/JonathanKuebler/advent-of-code/blob/master/4_dez/passport_processing.py) by [jnkr]
+1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/04/main.py) by [lusiux]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
