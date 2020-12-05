@@ -9,6 +9,7 @@
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day05/day05.go) by [Mike]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day5/day5.py) by [ohaz]
 1. [Rust without loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day5/mod.rs) by [migerh]
+1. [Julia can already parse binary](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/05.jl) by [tsbr]
 
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
