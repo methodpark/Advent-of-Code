@@ -42,6 +42,7 @@
 1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-03/Program.cs) by [Halid Ali]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day03/day03.go) by [Mike]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day03.rs) by [dnnr], [RussellSnyder], [yogan]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day03/day03.py) by [poschi3]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
