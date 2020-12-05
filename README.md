@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
+
+1. [Python with again a bit of OO](https://github.com/lusiux/aoc2020/blob/main/05/main.py) by [lusiux]
+
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day4.py) by [pelma24]
