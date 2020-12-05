@@ -8,6 +8,7 @@
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day5.cpp) by [Gronner]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day05/day05.go) by [Mike]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day5/day5.py) by [ohaz]
+1. [Rust without loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day5/mod.rs) by [migerh]
 
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
