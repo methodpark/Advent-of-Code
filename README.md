@@ -26,6 +26,7 @@
 1. [Python with `Schema`](https://github.com/JonathanKuebler/advent-of-code/blob/master/4_dez/passport_processing.py) by [jnkr]
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/04/main.py) by [lusiux]
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-04/Program.cs) by [Halid Ali]
+1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day04.rs) by [dnnr]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
