@@ -14,6 +14,7 @@
 1. [C# with `Math.Pow()`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-05/Program.cs) by [Halid Ali]
 1. [Python with recursion](https://github.com/JonathanKuebler/advent-of-code/blob/master/5_dez/boarding_pass.py) by [jnkr]
 1. [Rust "oh look we found how unit tests work"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day05.rs) by [yogan], [dnnr]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day05/day05.py) by [poschi3]
 
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
