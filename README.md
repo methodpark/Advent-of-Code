@@ -28,6 +28,7 @@
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/04/main.py) by [lusiux]
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-04/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day04.rs) by [dnnr], [RussellSnyder], [yogan]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day04/day04.py) by [poschi3]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
