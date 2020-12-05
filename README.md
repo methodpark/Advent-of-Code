@@ -11,6 +11,7 @@
 1. [Rust without loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day5/mod.rs) by [migerh]
 1. [Julia can already parse binary](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/05.jl) by [tsbr]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day5.py) by [pelma24]
+1. [C# with `Math.Pow()`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-05/Program.cs) by [Halid Ali]
 
 ## [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
