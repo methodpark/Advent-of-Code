@@ -5,7 +5,7 @@
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
 1. [Python with again a bit of OO](https://github.com/lusiux/aoc2020/blob/main/05/main.py) by [lusiux]
-1. [C++ `vectors everywhere`](https://github.com/Gronner/aoc-2020/blob/main/src/day5.cpp) by [Gronner]
+1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day5.cpp) by [Gronner]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day05/day05.go) by [Mike]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day5/day5.py) by [ohaz]
 
