@@ -26,7 +26,7 @@
 1. [Python with `Schema`](https://github.com/JonathanKuebler/advent-of-code/blob/master/4_dez/passport_processing.py) by [jnkr]
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/04/main.py) by [lusiux]
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-04/Program.cs) by [Halid Ali]
-1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day04.rs) by [dnnr]
+1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day04.rs) by [dnnr], [RussellSnyder], [yogan]
 
 ## [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
@@ -40,7 +40,7 @@
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day3.dart) by [yudansha]
 1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-03/Program.cs) by [Halid Ali]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day03/day03.go) by [Mike]
-1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day03.rs) by [dnnr]
+1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day03.rs) by [dnnr], [RussellSnyder], [yogan]
 
 ## [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
 
