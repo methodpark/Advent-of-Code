@@ -14,6 +14,7 @@
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day06.rs) by [dnnr], [yogan]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day06/day06.py) by [poschi3]
+1. [C# in single pass with `HashSet<char> and Enumerable.Intersect<char>()`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-06/Program.cs) by [Halid Ali]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
