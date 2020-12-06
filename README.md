@@ -5,6 +5,7 @@
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
 1. [Python - just dirty](https://github.com/lusiux/aoc2020/blob/main/06/main.py) by [lusiux]
+1. [Go - with maps (but also dirty) ](https://github.com/pituser/aoc-2020-go/blob/main/day06/day06.go) by [Mike]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
