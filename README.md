@@ -8,7 +8,7 @@
 1. [Go - with maps (but also dirty) ](https://github.com/pituser/aoc-2020-go/blob/main/day06/day06.go) by [Mike]
 1. [C++](https://github.com/Gronner/aoc-2020/tree/main/src/day6) by [Gronner]
 1. [Python with sets](https://github.com/ohaz/adventofcode2020/blob/main/day6/day6.py) by [ohaz]
-1. [Julia loop-less with sets nad no one-off :)](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/06.jl) by [tsbr]
+1. [Julia with sets and no one-off :)](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/06.jl) by [tsbr]
 1. [Rust with a few copies but still no loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day6/mod.rs) by [migerh]
 1. [Python with sets](https://github.com/pelma24/AdventOfCode/blob/master/2020/day6.py) by [pelma24]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
