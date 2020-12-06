@@ -8,6 +8,7 @@
 1. [Go - with maps (but also dirty) ](https://github.com/pituser/aoc-2020-go/blob/main/day06/day06.go) by [Mike]
 1. [C++ - this solution needs a shower](https://github.com/Gronner/aoc-2020/blob/main/src/day6.cpp) by [Gronner]
 1. [Python with sets](https://github.com/ohaz/adventofcode2020/blob/main/day6/day6.py) by [ohaz]
+1. [Julia with sets](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/06.jl) by [tsbr]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
