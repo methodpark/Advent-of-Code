@@ -11,6 +11,7 @@
 1. [Julia with sets](https://github.com/CmdQ/AoC2020/blob/main/AoC2020/src/06.jl) by [tsbr]
 1. [Rust with a few copies but still no loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day6/mod.rs) by [migerh]
 1. [Python with sets](https://github.com/pelma24/AdventOfCode/blob/master/2020/day6.py) by [pelma24]
+1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
