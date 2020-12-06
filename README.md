@@ -13,6 +13,7 @@
 1. [Python with sets](https://github.com/pelma24/AdventOfCode/blob/master/2020/day6.py) by [pelma24]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day06.rs) by [dnnr], [yogan]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day06/day06.py) by [poschi3]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
