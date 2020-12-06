@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
+
+1. [Python - just dirty](https://github.com/lusiux/aoc2020/blob/main/06/main.py) by [lusiux]
+
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
 1. [Python with again a bit of OO](https://github.com/lusiux/aoc2020/blob/main/05/main.py) by [lusiux]
