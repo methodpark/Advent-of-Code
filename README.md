@@ -12,6 +12,7 @@
 1. [Rust with a few copies but still no loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day6/mod.rs) by [migerh]
 1. [Python with sets](https://github.com/pelma24/AdventOfCode/blob/master/2020/day6.py) by [pelma24]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
+1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day06.rs) by [dnnr], [yogan]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
