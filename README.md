@@ -6,6 +6,7 @@
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
 1. [Rust no copies but one loop](https://github.com/migerh/aoc-2020-rs/blob/main/src/day7/mod.rs) by [migerh]
+2. [Python with a dictionary](https://github.com/pelma24/AdventOfCode/blob/master/2020/day7.py) by [pelma24]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
