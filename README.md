@@ -12,6 +12,7 @@
 1. [C# with `OOP, Trees and Recursive`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-07/Program.cs) by [Halid Ali]
 1. [Rust with enough String to hang yourself](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day07.rs) by [dnnr], [t-animal]
 1. [C++ with `regex`, `(multi)maps`, recursion and lot's of graphing pains](https://github.com/Gronner/aoc-2020/tree/main/src/day7) by [Gronner]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day07/day07.py) by [poschi3]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
