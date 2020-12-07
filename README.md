@@ -10,6 +10,7 @@
 1. [Ugly Python](https://github.com/lusiux/aoc2020/blob/main/07/main.py) by [lusiux]
 1. [Even uglier Python 🤪](https://github.com/ohaz/adventofcode2020/blob/main/day7/day7.py) by [ohaz]
 1. [C# with `OOP, Trees and Recursive`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-07/Program.cs) by [Halid Ali]
+1. [Rust with enough String to hang yourself](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day07.rs) by [dnnr], [t-animal]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
