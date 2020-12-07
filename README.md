@@ -2,6 +2,11 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+
+## [Day 7: https://adventofcode.com/2020/day/7](https://adventofcode.com/2020/day/7)
+
+1. [Rust no copies but one loop](https://github.com/migerh/aoc-2020-rs/blob/main/src/day7/mod.rs) by [migerh]
+
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
 1. [Python - just dirty](https://github.com/lusiux/aoc2020/blob/main/06/main.py) by [lusiux]
