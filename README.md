@@ -9,6 +9,7 @@
 1. [Python with a dictionary](https://github.com/pelma24/AdventOfCode/blob/master/2020/day7.py) by [pelma24]
 1. [Ugly Python](https://github.com/lusiux/aoc2020/blob/main/07/main.py) by [lusiux]
 1. [Even uglier Python 🤪](https://github.com/ohaz/adventofcode2020/blob/main/day7/day7.py) by [ohaz]
+1. [C# with `OOP, Trees and Recursive`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-07/Program.cs) by [Halid Ali]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
@@ -22,7 +23,7 @@
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day6.dart) by [yudansha]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day06.rs) by [dnnr], [yogan]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day06/day06.py) by [poschi3]
-1. [C# in single pass with `HashSet<char> and Enumerable.Intersect<char>()`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-06/Program.cs) by [Halid Ali]
+1. [C# in single pass with `HashSet<char> and Enumerable.Intersect<char>()`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-06/Program.cs) by [Halid Ali]
 
 ## [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
@@ -33,7 +34,7 @@
 1. [Rust without loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day5/mod.rs) by [migerh]
 1. [Julia can already parse binary](https://github.com/CmdQ/AoC2020/blob/main/src/05.jl) by [tsbr]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day5.py) by [pelma24]
-1. [C# with `Math.Pow()`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-05/Program.cs) by [Halid Ali]
+1. [C# with `Math.Pow()`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-05/Program.cs) by [Halid Ali]
 1. [Python with recursion](https://github.com/JonathanKuebler/advent-of-code/blob/master/5_dez/boarding_pass.py) by [jnkr]
 1. [Rust "oh look we found how unit tests work"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day05.rs) by [yogan], [dnnr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day05/day05.py) by [poschi3]
@@ -50,7 +51,7 @@
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day04/day04.go) by [Mike]
 1. [Python with `Schema`](https://github.com/JonathanKuebler/advent-of-code/blob/master/4_dez/passport_processing.py) by [jnkr]
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/04/main.py) by [lusiux]
-1. [C#](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-04/Program.cs) by [Halid Ali]
+1. [C#](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-04/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day04.rs) by [dnnr], [RussellSnyder], [yogan]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day04/day04.py) by [poschi3]
 
@@ -64,7 +65,7 @@
 1. [C++ just counting trees while sliding](https://github.com/Gronner/aoc-2020/blob/main/src/day3.cpp) by [Gronner]
 1. [Julia with 1-based indexing >:( but nice reading :)](https://github.com/CmdQ/AoC2020/blob/main/src/03.jl) by [tsbr]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day3.dart) by [yudansha]
-1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-03/Program.cs) by [Halid Ali]
+1. [C# with `IList<char[]>`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-03/Program.cs) by [Halid Ali]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day03/day03.go) by [Mike]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day03.rs) by [dnnr], [RussellSnyder], [yogan]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day03/day03.py) by [poschi3]
@@ -78,7 +79,7 @@
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day2.dart) by [yudansha]
 1. [Python with `str.split` and a little `regex`](https://github.com/JonathanKuebler/advent-of-code/blob/master/2_dez/solver.py) by [jnkr]
 1. [Go with regexp](https://github.com/pituser/aoc-2020-go/blob/main/day02/day02.go) by [Mike]
-1. [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-02/Program.cs) by [Halid Ali]
+1. [C# with `string.Split` and `xor`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-02/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day02.rs) by [yogan], [dnnr], [RussellSnyder]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/02.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day02/day02.py) by [poschi3]
@@ -94,7 +95,7 @@
 1. [Rust](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day01.rs) by [yogan], [t-animal], [RussellSnyder]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day1.dart) by [yudansha]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day01/day01.go) by [Mike]
-1. [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/tree/main/day-01/Program.cs) by [Halid Ali]
+1. [C# with `foreach` and `IDictionary`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-01/Program.cs) by [Halid Ali]
 1. [Python with `brute force`](https://github.com/JonathanKuebler/advent-of-code/blob/master/1_dez/result.py) by [jnkr]
 1. [Julia now with my first macro](https://github.com/CmdQ/AoC2020/blob/main/src/01.jl) by [tsbr]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day01/day01.py) by [poschi3]
