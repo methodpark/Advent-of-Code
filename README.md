@@ -13,6 +13,7 @@
 1. [Go - just easy go-ing ](https://github.com/pituser/aoc-2020-go/blob/main/day08/day08.go) by [Mike]
 1. [C# with `OOP, BruteForce on JMP and NOP commands`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-08/Program.cs) by [Halid Ali]
 1. [Rust can solve the halting problem](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day08.rs) 🤯 by [yogan], [dnnr]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day08/day08.py) by [poschi3]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
