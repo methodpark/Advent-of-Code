@@ -10,6 +10,7 @@
 1. [C++ return of the intcode operator?](https://github.com/Gronner/aoc-2020/blob/main/src/day8.cpp) by Gronner
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day8/day8.py) by [ohaz]
 1. [Julia with backtracking](https://github.com/CmdQ/AoC2020/blob/main/src/08.jl) by [tsbr]
+1. [Go - just easy go-ing ](https://github.com/pituser/aoc-2020-go/blob/main/day08/day08.go) by [Mike]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
