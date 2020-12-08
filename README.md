@@ -6,6 +6,7 @@
 
 1. [Rust copies and loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day8/mod.rs) by [migerh]
 1. [Python with deeeeeepcopy](https://github.com/lusiux/aoc2020/blob/main/08/main.py) by [lusiux]
+2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day8.py) by [pelma24]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
