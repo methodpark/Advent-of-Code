@@ -11,6 +11,7 @@
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day8/day8.py) by [ohaz]
 1. [Julia with backtracking](https://github.com/CmdQ/AoC2020/blob/main/src/08.jl) by [tsbr]
 1. [Go - just easy go-ing ](https://github.com/pituser/aoc-2020-go/blob/main/day08/day08.go) by [Mike]
+1. [C# with `OOP, BruteForce on JMP and NOP commands`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-08/Program.cs) by [Halid Ali]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
