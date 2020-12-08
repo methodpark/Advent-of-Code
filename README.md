@@ -8,6 +8,7 @@
 1. [Python with deeeeeepcopy](https://github.com/lusiux/aoc2020/blob/main/08/main.py) by [lusiux]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day8.py) by [pelma24]
 1. [C++ return of the intcode operator?](https://github.com/Gronner/aoc-2020/blob/main/src/day8.cpp) by Gronner
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day8/day8.py) by [ohaz]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
