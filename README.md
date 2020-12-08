@@ -2,6 +2,9 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
+
+1. [Rust copies and loops](https://github.com/migerh/aoc-2020-rs/blob/main/src/day8/mod.rs) by [migerh]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
