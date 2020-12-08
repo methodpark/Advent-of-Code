@@ -14,6 +14,7 @@
 1. [C++ with `regex`, `(multi)maps`, recursion and lots of graphing pains](https://github.com/Gronner/aoc-2020/tree/main/src/day7) by [Gronner]
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day07/day07.py) by [poschi3]
 1. [Rust "it's very late edition (part 1 only)"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day07.rs) by [yogan]
+1. [Go - with split, regexp, map, recursion (and sweat) ](https://github.com/pituser/aoc-2020-go/blob/main/day07/day07.go) by [Mike]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
