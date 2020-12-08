@@ -9,6 +9,7 @@
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day8.py) by [pelma24]
 1. [C++ return of the intcode operator?](https://github.com/Gronner/aoc-2020/blob/main/src/day8.cpp) by Gronner
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day8/day8.py) by [ohaz]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/08.jl) by [tsbr]
 
 ## [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
