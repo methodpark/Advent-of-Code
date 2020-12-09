@@ -8,6 +8,7 @@
 1. [Python](https://github.com/lusiux/aoc2020/blob/main/09/main.py) by [lusiux]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day9/day9.py) by [ohaz]
 1. [Julia with views](https://github.com/CmdQ/AoC2020/blob/main/src/09.jl) by [tsbr]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day9.py) by [pelma24]
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
