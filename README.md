@@ -12,6 +12,8 @@
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/9_dez/encoding_error.py) by [jnkr]
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day9.cpp) by [Gronner]
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-09/Program.cs) by [Halid Ali]
+1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day09.rs) by [dnnr], [yogan], [RussellSnyder]
+
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
