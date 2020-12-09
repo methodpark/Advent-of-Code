@@ -37,6 +37,7 @@
 1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day07/day07.py) by [poschi3]
 1. [Rust "to understand recursion, first you have to understand recursion"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day07.rs) by [yogan]
 1. [Go - with split, regexp, map, recursion (and sweat) ](https://github.com/pituser/aoc-2020-go/blob/main/day07/day07.go) by [Mike]
+1. [Julia simple after not making it complicated](https://github.com/CmdQ/AoC2020/blob/main/src/07.jl) by [tsbr]
 
 ## [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
