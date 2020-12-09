@@ -2,9 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
-## [Day 9: Encoding Erro](https://adventofcode.com/2020/day/9)
+## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day9/mod.rs) by [migerh]
+1. [Python](https://github.com/lusiux/aoc2020/blob/main/09/main.py) by [lusiux]
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
