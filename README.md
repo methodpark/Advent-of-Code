@@ -6,6 +6,7 @@
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day10/mod.rs) by [migerh]
+1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/10_dez/jolts.py) by [jnkr]
 
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
