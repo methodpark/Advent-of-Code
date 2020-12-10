@@ -4,7 +4,7 @@
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
-1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
+1. [Python using dynamic programming](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day10/mod.rs) by [migerh]
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/10_dez/jolts.py) by [jnkr]
 1. [Python with grrrrrrrrrrr](https://github.com/lusiux/aoc2020/blob/main/10/main.py) by [lusiux]
