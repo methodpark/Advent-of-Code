@@ -5,6 +5,7 @@
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
+1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day10/mod.rs) by [migerh]
 
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
