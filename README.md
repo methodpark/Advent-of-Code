@@ -10,6 +10,7 @@
 1. [Python with grrrrrrrrrrr](https://github.com/lusiux/aoc2020/blob/main/10/main.py) by [lusiux] 
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day10.cpp) by [Gronner]
 1. [Python that I don't understand](https://github.com/pelma24/AdventOfCode/blob/master/2020/day10.py) by [pelma24]
+1. [C# `Math is everything, everything is Math`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-10/Program.cs) by [Halid Ali]
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
