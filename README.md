@@ -9,6 +9,7 @@
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/10_dez/jolts.py) by [jnkr]
 1. [Python with grrrrrrrrrrr](https://github.com/lusiux/aoc2020/blob/main/10/main.py) by [lusiux] 
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day10.cpp) by [Gronner]
+1. [Python that I don't understand](https://github.com/pelma24/AdventOfCode/blob/master/2020/day10.py) by [pelma24]
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
