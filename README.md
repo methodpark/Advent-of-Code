@@ -7,6 +7,7 @@
 1. [Rust "game of loops"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day11/mod.rs) by [migerh]
 1. [Python "You must construct additional ~~Pylons~~ Loops"](https://github.com/ohaz/adventofcode2020/blob/main/day11/day11.py) by [ohaz]
 1. [C++, with all types of loops](https://github.com/Gronner/aoc-2020/blob/main/src/day11.cpp) by [Gronner]
+1. [C# with lots of duplicate code](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-11/Program.cs) by [Halid Ali]
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
