@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
+
+1. [Rust "game of loops"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day11/mod.rs) by [migerh]
+
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
 1. [Python using dynamic programming](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
