@@ -5,6 +5,7 @@
 ## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
 1. [Rust "game of loops"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day11/mod.rs) by [migerh]
+1. [Python "You must construct additional ~~Pylons~~ Loops"](https://github.com/ohaz/adventofcode2020/blob/main/day11/day11.py) by [ohaz]
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
