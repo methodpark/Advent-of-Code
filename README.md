@@ -6,7 +6,7 @@
 
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/12/main.py) by [lusiux]
 1. Rust with OO [Part 1](https://github.com/migerh/aoc-2020-rs/blob/266c86fd/src/day12/mod.rs) and [Part 2](https://github.com/migerh/aoc-2020-rs/blob/main/src/day12/mod.rs) by [migerh]
-1. [C++ spinning in circles](https://github.com/Gronner/aoc-2020/blob/main/src/day12.cpp) by [Gronner]
+1. [C++ spinning in circles](https://github.com/Gronner/aoc-2020/tree/main/src/day12) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day12/day12.py) by [ohaz]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day12.py) by [pelma24]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day12/day12.go) by [Mike]
