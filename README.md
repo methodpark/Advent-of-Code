@@ -5,6 +5,7 @@
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/12/main.py) by [lusiux]
+1. Rust with OO [Part 1](https://github.com/migerh/aoc-2020-rs/blob/266c86fd/src/day12/mod.rs) and [Part 2](https://github.com/migerh/aoc-2020-rs/blob/main/src/day12/mod.rs) by [migerh]
 
 # [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
