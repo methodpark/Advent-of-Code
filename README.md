@@ -10,6 +10,7 @@
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day12/day12.py) by [ohaz]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day12.py) by [pelma24]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day12/day12.go) by [Mike]
+1. [Julia solves with a simple `foldl`—all the magic in heavy operator overloading](https://github.com/CmdQ/AoC2020/blob/main/src/12.jl) by [tsbr]
 
 ## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
