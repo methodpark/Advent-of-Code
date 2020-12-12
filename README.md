@@ -9,7 +9,7 @@
 1. [C++ spinning in circles](https://github.com/Gronner/aoc-2020/blob/main/src/day12.cpp) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day12/day12.py) by [ohaz]
 
-# [Day 11: Seating System](https://adventofcode.com/2020/day/11)
+## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
 1. [Rust "game of loops"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day11/mod.rs) by [migerh]
 1. [Python "You must construct additional ~~Pylons~~ Loops"](https://github.com/ohaz/adventofcode2020/blob/main/day11/day11.py) by [ohaz]
