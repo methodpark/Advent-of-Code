@@ -9,6 +9,7 @@
 1. [C++ spinning in circles](https://github.com/Gronner/aoc-2020/blob/main/src/day12.cpp) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day12/day12.py) by [ohaz]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day12.py) by [pelma24]
+1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day12/day12.go) by [Mike]
 
 ## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
@@ -18,6 +19,7 @@
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-11/Program.cs) by [Halid Ali]
 1. [Python](https://github.com/lusiux/aoc2020/blob/main/11/main.py) by [lusiux]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day11.py) by [pelma24]
+1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day11/day11.go) by [Mike]
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
@@ -29,6 +31,7 @@
 1. [Python that I don't understand](https://github.com/pelma24/AdventOfCode/blob/master/2020/day10.py) by [pelma24]
 1. [C# `Math is everything, everything is Math`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-10/Program.cs) by [Halid Ali]
 1. [Rust "Mappy McMapface"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day10.rs) by [yogan]
+1. [Go recursion](https://github.com/pituser/aoc-2020-go/blob/main/day10/day10.go) by [Mike]
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
@@ -41,6 +44,7 @@
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day9.cpp) by [Gronner]
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-09/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day09.rs) by [dnnr], [yogan], [RussellSnyder]
+1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day09/day09.go) by [Mike]
 
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
