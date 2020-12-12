@@ -11,6 +11,7 @@
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day12.py) by [pelma24]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day12/day12.go) by [Mike]
 1. [Julia solves with a simple `foldl`—all the magic in heavy operator overloading](https://github.com/CmdQ/AoC2020/blob/main/src/12.jl) by [tsbr]
+1. [Python with 1 function](https://github.com/JonathanKuebler/advent-of-code/blob/master/12_dez/direction.py) by [jnkr]
 
 ## [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
@@ -27,7 +28,7 @@
 1. [Python using dynamic programming](https://github.com/ohaz/adventofcode2020/blob/main/day10/day10.py) by [ohaz]
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day10/mod.rs) by [migerh]
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/10_dez/jolts.py) by [jnkr]
-1. [Python with grrrrrrrrrrr](https://github.com/lusiux/aoc2020/blob/main/10/main.py) by [lusiux] 
+1. [Python with grrrrrrrrrrr](https://github.com/lusiux/aoc2020/blob/main/10/main.py) by [lusiux]
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day10.cpp) by [Gronner]
 1. [Python that I don't understand](https://github.com/pelma24/AdventOfCode/blob/master/2020/day10.py) by [pelma24]
 1. [C# `Math is everything, everything is Math`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-10/Program.cs) by [Halid Ali]
