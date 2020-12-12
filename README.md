@@ -6,6 +6,7 @@
 
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/12/main.py) by [lusiux]
 1. Rust with OO [Part 1](https://github.com/migerh/aoc-2020-rs/blob/266c86fd/src/day12/mod.rs) and [Part 2](https://github.com/migerh/aoc-2020-rs/blob/main/src/day12/mod.rs) by [migerh]
+1. [C++ spinning in circles](https://github.com/Gronner/aoc-2020/blob/main/src/day12.cpp) by [Gronner]
 
 # [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
