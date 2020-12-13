@@ -5,7 +5,7 @@
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
-1. [C++ with `brute force (still running)` and the magical theorem you apparently learn in `Theoretische Informatik 3` or after lots of googeling](https://github.com/Gronner/aoc-2020/blob/main/src/day13.cpp) by [Gronner]
+1. [C++ with `brute force (still running)` and the magical theorem you apparently learn in `Theoretische Informatik 3` or after lots of googleing](https://github.com/Gronner/aoc-2020/blob/main/src/day13.cpp) by [Gronner]
 
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
