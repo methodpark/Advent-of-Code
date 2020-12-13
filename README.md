@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
+
+1. [Rust brute force in slow motion](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
+
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
 1. [Python with OO](https://github.com/lusiux/aoc2020/blob/main/12/main.py) by [lusiux]
