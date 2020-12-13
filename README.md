@@ -45,6 +45,7 @@
 1. [Rust "Mappy McMapface"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day10.rs) by [yogan]
 1. [Go recursion](https://github.com/pituser/aoc-2020-go/blob/main/day10/day10.go) by [Mike]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day10.dart) by [yudansha]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day10/day10.py) by [poschi3]
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
@@ -59,6 +60,7 @@
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day09.rs) by [dnnr], [yogan], [RussellSnyder]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day09/day09.go) by [Mike]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day9.dart) by [yudansha]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day09/day09.py) by [poschi3]
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
