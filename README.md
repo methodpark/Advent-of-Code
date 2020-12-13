@@ -4,7 +4,7 @@
 
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
-1. [Rust brute force in slow motion](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
+1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
 
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
