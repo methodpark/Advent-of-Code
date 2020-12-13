@@ -32,6 +32,7 @@
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day11.py) by [pelma24]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day11/day11.go) by [Mike]
 1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day11.dart) by [yudansha]
+1. [Python](https://github.com/poschi3/AdventOfCode2020/blob/main/day11/day11.py) by [poschi3]
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
