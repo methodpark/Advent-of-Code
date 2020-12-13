@@ -31,6 +31,7 @@
 1. [Python](https://github.com/lusiux/aoc2020/blob/main/11/main.py) by [lusiux]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day11.py) by [pelma24]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day11/day11.go) by [Mike]
+1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day11.dart) by [yudansha]
 
 ## [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
@@ -43,6 +44,7 @@
 1. [C# `Math is everything, everything is Math`](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-10/Program.cs) by [Halid Ali]
 1. [Rust "Mappy McMapface"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day10.rs) by [yogan]
 1. [Go recursion](https://github.com/pituser/aoc-2020-go/blob/main/day10/day10.go) by [Mike]
+1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day10.dart) by [yudansha]
 
 ## [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
@@ -56,7 +58,7 @@
 1. [C#](https://github.com/halid-ali/adventCodeChallenge/blob/main/2020/day-09/Program.cs) by [Halid Ali]
 1. [Rust](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day09.rs) by [dnnr], [yogan], [RussellSnyder]
 1. [Go](https://github.com/pituser/aoc-2020-go/blob/main/day09/day09.go) by [Mike]
-
+1. [Dart](https://github.com/yudansha/Advent-of-Code-2020/blob/main/lib/day9.dart) by [yudansha]
 
 ## [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
