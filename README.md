@@ -7,6 +7,7 @@
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
 1. [C++ with `brute force (still running)` and the magical theorem you apparently learn in `Theoretische Informatik 3` or after lots of googleing](https://github.com/Gronner/aoc-2020/blob/main/src/day13.cpp) by [Gronner]
 1. [Rust, part 2 via Wolfram Alpha](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day13.rs) 🥺👉👈 by [yogan], [dnnr]
+1. [Python, part 2 with Wolfram Alpha](https://github.com/pelma24/AdventOfCode/blob/master/2020/day13.py) by [pelma24]
 
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
