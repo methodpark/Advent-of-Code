@@ -10,6 +10,7 @@
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day14/day14.py) by [ohaz]
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/14_dez/docking_data.py) by [jnkr]
 1. [Rust with some OO and enum, but ugly mask code](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day14.rs) by [dnnr], [yogan]
+1. [Go also ugly, no time to make it nice](https://github.com/pituser/aoc-2020-go/blob/main/day14/day14.go) by [Mike]
 
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
