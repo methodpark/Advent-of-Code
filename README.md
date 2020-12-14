@@ -8,7 +8,7 @@
 1. [C++ yo dawg i heard you like loops](https://github.com/Gronner/aoc-2020/blob/main/src/day14.cpp) by [Gronner]
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day14/mod.rs) by [migerh]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day14/day14.py) by [ohaz]
-1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/14_dez/docking_data.py) by[jnkr]
+1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/14_dez/docking_data.py) by [jnkr]
 
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
