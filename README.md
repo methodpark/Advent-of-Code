@@ -5,6 +5,7 @@
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day14.py) by [pelma24]
+2. [C++ yo dawg i heard you like loops](https://github.com/Gronner/aoc-2020/blob/main/src/day14.cpp) by [Gronner]
 
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
