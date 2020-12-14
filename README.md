@@ -2,6 +2,10 @@
 
 [We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
 
+## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
+
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day14.py) by [pelma24]
+
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day13/mod.rs) by [migerh]
