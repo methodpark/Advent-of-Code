@@ -1,6 +1,11 @@
 # Advent of Code 2020
 
-[We][leaderboard]'ll collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
+We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020) here.
+
+## Private Leaderboard
+
+⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)  
+🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
@@ -209,5 +214,3 @@
 [yogan]: https://github.com/yogan
 [yudansha]: https://github.com/yudansha
 [lusiux]: https://github.com/lusiux
-
-[leaderboard]: https://adventofcode.com/2020/leaderboard/private/view/979032 "The Method Park leaderboard by Christoph Menzel"
