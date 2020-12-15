@@ -10,6 +10,7 @@ We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020)
 ## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day15/day15.py) by [ohaz]
+2. [C++ why do the thinking, if the computer can think faster](https://github.com/Gronner/aoc-2020/blob/main/src/day15.cpp) by Gronner
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
