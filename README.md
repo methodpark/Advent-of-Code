@@ -16,6 +16,8 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day15/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day15.py) by [pelma24]
 1. [Python with fastest way possible](https://github.com/JonathanKuebler/advent-of-code/blob/master/15_dez/counting.py) by [jnkr]
+1. [Go with help from migerh](https://github.com/pituser/aoc-2020-go/blob/main/day15/day15.go) by [Mike]
+
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
