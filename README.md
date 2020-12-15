@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020)
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day15/day15.py) by [ohaz]
 2. [C++ why do the thinking, if the computer can think faster](https://github.com/Gronner/aoc-2020/blob/main/src/day15.cpp) by Gronner
+1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day15/mod.rs) by [migerh]
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
