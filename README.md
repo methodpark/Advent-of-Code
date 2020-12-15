@@ -4,6 +4,8 @@ We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020)
 
 ## Private Leaderboard
 
+Only visible to members of the private leaderboard.
+
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)  
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
