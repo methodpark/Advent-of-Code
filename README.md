@@ -6,7 +6,7 @@ We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020)
 
 Only visible to members of the private leaderboard.
 
-⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)  
+⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
 ## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
@@ -15,6 +15,7 @@ Only visible to members of the private leaderboard.
 1. [C++ why do the thinking, if the computer can think faster](https://github.com/Gronner/aoc-2020/blob/main/src/day15.cpp) by Gronner
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day15/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day15.py) by [pelma24]
+1. [Python with fastest way possible](https://github.com/JonathanKuebler/advent-of-code/blob/master/15_dez/counting.py) by [jnkr]
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
