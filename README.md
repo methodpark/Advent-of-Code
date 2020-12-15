@@ -7,6 +7,10 @@ We collect solutions to the [Advent of Code 2020](https://adventofcode.com/2020)
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)  
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
+## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
+
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day15/day15.py) by [ohaz]
+
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day14.py) by [pelma24]
