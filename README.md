@@ -9,6 +9,10 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
+## [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)
+
+1. [Python "I heard you liked loops so we put loops in our loops"](https://github.com/ohaz/adventofcode2020/blob/main/day16/day16.py) by [ohaz]
+
 ## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day15/day15.py) by [ohaz]
