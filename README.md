@@ -14,6 +14,7 @@ Only visible to members of the private leaderboard.
 1. [Python "I heard you liked loops so we put loops in our loops"](https://github.com/ohaz/adventofcode2020/blob/main/day16/day16.py) by [ohaz]
 1. [Python with too many loops](https://github.com/pelma24/AdventOfCode/blob/master/2020/day16.py) by [pelma24]
 1. [Rust - I know, it's bad, but it works, ok?](https://github.com/migerh/aoc-2020-rs/blob/main/src/day16/mod.rs) by [migerh]
+1. [Rust "loop da whoop"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day16.rs) by [yogan], [RussellSnyder]
 
 ## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
 
