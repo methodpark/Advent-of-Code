@@ -15,6 +15,7 @@ Only visible to members of the private leaderboard.
 1. [Python, not pretty](https://github.com/pelma24/AdventOfCode/blob/master/2020/day17.py) by [pelma24]
 1. [C++, they looked at yesterday and thought `this needs more loops`](https://github.com/Gronner/aoc-2020/blob/main/src/day17.cpp) by [Gronner]
 1. [Julia, nothing fancy except good integrated matrix types](https://github.com/CmdQ/AoC2020/blob/main/src/17.jl) by [tsbr]
+1. [Rust - Game of Loops/Cubes](https://github.com/migerh/aoc-2020-rs/blob/main/src/day17/mod.rs) by [migerh]
 
 ## [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)
 
