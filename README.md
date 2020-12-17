@@ -35,6 +35,7 @@ Only visible to members of the private leaderboard.
 1. [Python with fastest way possible](https://github.com/JonathanKuebler/advent-of-code/blob/master/15_dez/counting.py) by [jnkr]
 1. [Go with help from migerh](https://github.com/pituser/aoc-2020-go/blob/main/day15/day15.go) by [Mike]
 1. [Rust "we test in production" edition](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day15.rs) by [yogan], [RussellSnyder], [dnnr]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/15.jl) by [tsbr]
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
@@ -45,6 +46,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/JonathanKuebler/advent-of-code/blob/master/14_dez/docking_data.py) by [jnkr]
 1. [Rust with some OO and enum, but ugly mask code](https://github.com/dnnr/advent-of-code-2020/blob/master/src/day14.rs) by [dnnr], [yogan]
 1. [Go also ugly, no time to make it nice](https://github.com/pituser/aoc-2020-go/blob/main/day14/day14.go) by [Mike]
+1. [Julia, very imperative](https://github.com/CmdQ/AoC2020/blob/main/src/14.jl) by [tsbr]
 
 ## [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
@@ -54,6 +56,7 @@ Only visible to members of the private leaderboard.
 1. [Python, part 2 with Wolfram Alpha](https://github.com/pelma24/AdventOfCode/blob/master/2020/day13.py) by [pelma24]
 1. [Go and Wolfram Alpha](https://github.com/pituser/aoc-2020-go/blob/main/day13/day13.go) by [Mike]
 1. [Python with OO (overkill!) and only part 1](https://github.com/lusiux/aoc2020/blob/main/13/main.py) by [lusiux]
+1. [Julia with CRT implemented (but without smart modulus ordering, good that `Int128` is there)](https://github.com/CmdQ/AoC2020/blob/main/src/14.jl) by [tsbr]
 
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
