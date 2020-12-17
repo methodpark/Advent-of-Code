@@ -13,6 +13,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day17/day17.py) by [ohaz]
 1. [Python, not pretty](https://github.com/pelma24/AdventOfCode/blob/master/2020/day17.py) by [pelma24]
+1. [C++, they looked at yesterday and thought `this needs more loops`](https://github.com/Gronner/aoc-2020/blob/main/src/day17.cpp) by [Gronner]
 
 ## [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)
 
