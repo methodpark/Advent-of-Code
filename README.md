@@ -53,6 +53,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, part 2 via Wolfram Alpha](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day13.rs) 🥺👉👈 by [yogan], [dnnr]
 1. [Python, part 2 with Wolfram Alpha](https://github.com/pelma24/AdventOfCode/blob/master/2020/day13.py) by [pelma24]
 1. [Go and Wolfram Alpha](https://github.com/pituser/aoc-2020-go/blob/main/day13/day13.go) by [Mike]
+1. [Python with OO (overkill!) and only part 1] (https://github.com/lusiux/aoc2020/blob/main/13/main.py) by [lusiux]
 
 ## [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
