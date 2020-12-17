@@ -14,6 +14,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day17/day17.py) by [ohaz]
 1. [Python, not pretty](https://github.com/pelma24/AdventOfCode/blob/master/2020/day17.py) by [pelma24]
 1. [C++, they looked at yesterday and thought `this needs more loops`](https://github.com/Gronner/aoc-2020/blob/main/src/day17.cpp) by [Gronner]
+1. [Julia, nothing fancy except good integrated matrix types](https://github.com/CmdQ/AoC2020/blob/main/src/17.jl) by [tsbr]
 
 ## [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)
 
@@ -32,7 +33,6 @@ Only visible to members of the private leaderboard.
 1. [Python with fastest way possible](https://github.com/JonathanKuebler/advent-of-code/blob/master/15_dez/counting.py) by [jnkr]
 1. [Go with help from migerh](https://github.com/pituser/aoc-2020-go/blob/main/day15/day15.go) by [Mike]
 1. [Rust "we test in production" edition](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day15.rs) by [yogan], [RussellSnyder], [dnnr]
-1. [Julia, boring](https://github.com/CmdQ/AoC2020/blob/main/src/15.jl) by [tsbr]
 
 ## [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
