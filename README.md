@@ -12,6 +12,7 @@ Only visible to members of the private leaderboard.
 ## [Day 18: Operation Order](https://adventofcode.com/2020/day/18)
 
 1. [Rust - Why would they change math?!? MATH IS MATH!](https://github.com/migerh/aoc-2020-rs/blob/main/src/day18/mod.rs) by [migerh]
+1. [Python - Why work when python can do trick?](https://github.com/ohaz/adventofcode2020/blob/main/day18/day18.py) by [ohaz]
 
 ## [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
 
