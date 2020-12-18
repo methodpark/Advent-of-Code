@@ -14,6 +14,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Why would they change math?!? MATH IS MATH!](https://github.com/migerh/aoc-2020-rs/blob/main/src/day18/mod.rs) by [migerh]
 1. [Python - Why work when python can do trick?](https://github.com/ohaz/adventofcode2020/blob/main/day18/day18.py) by [ohaz]
 1. [Python - String replacements for the win](https://github.com/pelma24/AdventOfCode/blob/master/2020/day18.py) by [pelma24]
+1. [C++ - Shunting-Yard](https://github.com/Gronner/aoc-2020/blob/main/src/day18.cpp) by [Gronner]
 
 ## [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
 
