@@ -9,6 +9,10 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
+## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
+
+1. [C++ `Part 1`](https://github.com/Gronner/aoc-2020/blob/main/src/day19.cpp) and [Python `Maybe std::regex is broken, but regex makes it simple and lru_cache makes it fast`](https://github.com/Gronner/aoc-2020/blob/main/py_src/day19.py)
+
 ## [Day 18: Operation Order](https://adventofcode.com/2020/day/18)
 
 1. [Rust - Why would they change math?!? MATH IS MATH!](https://github.com/migerh/aoc-2020-rs/blob/main/src/day18/mod.rs) by [migerh]
