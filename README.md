@@ -12,6 +12,7 @@ Only visible to members of the private leaderboard.
 ## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
 
 1. [C++ `Part 1`](https://github.com/Gronner/aoc-2020/blob/main/src/day19.cpp) and [Python `Part 2` Maybe `std::regex` is broken, but `regex` makes it simple and `lru_cache` makes it fast](https://github.com/Gronner/aoc-2020/blob/main/py_src/day19.py)
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day19.py) by [pelma24]
 
 ## [Day 18: Operation Order](https://adventofcode.com/2020/day/18)
 
