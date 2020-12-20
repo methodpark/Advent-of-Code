@@ -13,6 +13,7 @@ Only visible to members of the private leaderboard.
 
 1. [Julia, most LOC so far](https://github.com/CmdQ/AoC2020/blob/main/src/20.jl) by [tsbr]
 1. [Rust - "…"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day20/mod.rs) by [migerh]
+1. [Python after too many hours](https://github.com/pelma24/AdventOfCode/blob/master/2020/day20.py) by [pelma24]
 
 
 ## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
