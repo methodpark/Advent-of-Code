@@ -14,11 +14,11 @@ Only visible to members of the private leaderboard.
 1. [Julia, most LOC so far](https://github.com/CmdQ/AoC2020/blob/main/src/20.jl) by [tsbr]
 1. [Rust - "…"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day20/mod.rs) by [migerh]
 1. [Python after too many hours](https://github.com/pelma24/AdventOfCode/blob/master/2020/day20.py) by [pelma24]
-
+1. [C++ `14:20h`](https://github.com/Gronner/aoc-2020/tree/main/src/day20) by [Gronner]
 
 ## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
 
-1. [C++ `Part 1`](https://github.com/Gronner/aoc-2020/blob/main/src/day19.cpp) and [Python `Part 2` Maybe `std::regex` is broken, but `regex` makes it simple and `lru_cache` makes it fast](https://github.com/Gronner/aoc-2020/blob/main/py_src/day19.py)
+1. [C++ `Part 1`](https://github.com/Gronner/aoc-2020/blob/main/src/day19.cpp) and [Python `Part 2` Maybe `std::regex` is broken, but `regex` makes it simple and `lru_cache` makes it fast](https://github.com/Gronner/aoc-2020/blob/main/py_src/day19.py) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day19.py) by [pelma24]
 1. [Rust - cleaning up this mess is left as an exercise to the reader](https://github.com/migerh/aoc-2020-rs/blob/main/src/day19/mod.rs) by [migerh]
 
