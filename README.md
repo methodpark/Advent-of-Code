@@ -9,6 +9,10 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
+## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
+1. [Julia, most LOC so far](https://github.com/CmdQ/AoC2020/blob/main/src/20.jl) by [tsbr]
+
+
 ## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
 
 1. [C++ `Part 1`](https://github.com/Gronner/aoc-2020/blob/main/src/day19.cpp) and [Python `Part 2` Maybe `std::regex` is broken, but `regex` makes it simple and `lru_cache` makes it fast](https://github.com/Gronner/aoc-2020/blob/main/py_src/day19.py)
@@ -21,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python - Why work when python can do trick?](https://github.com/ohaz/adventofcode2020/blob/main/day18/day18.py) by [ohaz]
 1. [Python - String replacements for the win](https://github.com/pelma24/AdventOfCode/blob/master/2020/day18.py) by [pelma24]
 1. [C++ - Shunting-Yard](https://github.com/Gronner/aoc-2020/blob/main/src/day18.cpp) by [Gronner]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/18.jl), first part with a huge assembled regex by [tsbr]
 
 ## [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
 
@@ -38,6 +43,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - I know, it's bad, but it works, ok?](https://github.com/migerh/aoc-2020-rs/blob/main/src/day16/mod.rs) by [migerh]
 1. [Rust "loop da whoop"](https://github.com/yogan/advent-of-code-2020-rust/blob/main/src/day16.rs) by [yogan], [RussellSnyder]
 1. [C++ with each kind of loop](https://github.com/Gronner/aoc-2020/tree/main/src/day16) by [Gronner]
+1. [Julia, hated it](https://github.com/CmdQ/AoC2020/blob/main/src/16.jl) by [tsbr]
 
 ## [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
 
