@@ -10,7 +10,9 @@ Only visible to members of the private leaderboard.
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
 ## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
+
 1. [Julia, most LOC so far](https://github.com/CmdQ/AoC2020/blob/main/src/20.jl) by [tsbr]
+1. [Rust - "…"](https://github.com/migerh/aoc-2020-rs/blob/main/src/day20/mod.rs) by [migerh]
 
 
 ## [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
