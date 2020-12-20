@@ -27,7 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python - Why work when python can do trick?](https://github.com/ohaz/adventofcode2020/blob/main/day18/day18.py) by [ohaz]
 1. [Python - String replacements for the win](https://github.com/pelma24/AdventOfCode/blob/master/2020/day18.py) by [pelma24]
 1. [C++ - Shunting-Yard](https://github.com/Gronner/aoc-2020/blob/main/src/day18.cpp) by [Gronner]
-1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/18.jl), first part with a huge assembled regex by [tsbr]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/18.jl), first part with a [huge assembled regex](https://regex101.com/r/zoEYgQ/1) by [tsbr]
 
 ## [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
 
