@@ -9,6 +9,10 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
+## [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)
+
+1. [Rust - Day 16, Part 3 & 4](https://github.com/migerh/aoc-2020-rs/blob/main/src/day21/mod.rs) by [migerh]
+
 ## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
 
 1. [Julia, most LOC so far](https://github.com/CmdQ/AoC2020/blob/main/src/20.jl) by [tsbr]
