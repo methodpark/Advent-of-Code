@@ -12,7 +12,7 @@ Only visible to members of the private leaderboard.
 ## [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)
 
 1. [Rust - Day 16, Part 3 & 4](https://github.com/migerh/aoc-2020-rs/blob/main/src/day21/mod.rs) by [migerh]
-1. [Python - Day 16 with sets(https://github.com/ohaz/adventofcode2020/blob/main/day21/day21.py) by [ohaz]
+1. [Python - Day 16 with sets](https://github.com/ohaz/adventofcode2020/blob/main/day21/day21.py) by [ohaz]
 
 ## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
 
