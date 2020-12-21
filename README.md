@@ -15,6 +15,7 @@ Only visible to members of the private leaderboard.
 1. [Python - Day 16 with sets](https://github.com/ohaz/adventofcode2020/blob/main/day21/day21.py) by [ohaz]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day21.py) by [pelma24]
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day21.cpp) by [Gronner]
+1. [Julia, persistent data structures save you a huge headache](https://github.com/CmdQ/AoC2020/blob/main/src/21.jl) by [tsbr]
 
 ## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
 
