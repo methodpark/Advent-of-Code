@@ -14,6 +14,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Day 16, Part 3 & 4](https://github.com/migerh/aoc-2020-rs/blob/main/src/day21/mod.rs) by [migerh]
 1. [Python - Day 16 with sets](https://github.com/ohaz/adventofcode2020/blob/main/day21/day21.py) by [ohaz]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day21.py) by [pelma24]
+1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day21.cpp) by [Gronner]
 
 ## [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
 
