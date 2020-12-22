@@ -13,6 +13,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day22.py) by [pelma24]
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day22.cpp) by [Gronner]
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day22/day22.py) by [ohaz]
 
 ## [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)
 
