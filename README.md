@@ -9,7 +9,7 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
 
-## [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)
+## [Day 22: Cra~~p~~b Combat](https://adventofcode.com/2020/day/22)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day22.py) by [pelma24]
 1. [C++](https://github.com/Gronner/aoc-2020/blob/main/src/day22.cpp) by [Gronner]
@@ -41,7 +41,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Why would they change math?!? MATH IS MATH!](https://github.com/migerh/aoc-2020-rs/blob/main/src/day18/mod.rs) by [migerh]
 1. [Python - Why work when python can do trick?](https://github.com/ohaz/adventofcode2020/blob/main/day18/day18.py) by [ohaz]
 1. [Python - String replacements for the win](https://github.com/pelma24/AdventOfCode/blob/master/2020/day18.py) by [pelma24]
-1. [C++ - Shunting-Yard](https://github.com/Gronner/aoc-2020/blob/main/src/day18.cpp) by [Gronner]
+1. [C++ - Shunting-Yard](https://github.com/Gronner/aoc-2020/blob/main/src/day18.cpp) by [Gronner]t
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/18.jl), first part with a [huge assembled regex](https://regex101.com/r/zoEYgQ/1) by [tsbr]
 
 ## [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
