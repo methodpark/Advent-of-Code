@@ -8,6 +8,9 @@ Only visible to members of the private leaderboard.
 
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
+## [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)
+
+1. [Python, part 2 inspired by the internet](https://github.com/pelma24/AdventOfCode/blob/master/2020/day23.py) by [pelma24]
 
 ## [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)
 
