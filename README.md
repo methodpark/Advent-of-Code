@@ -13,6 +13,7 @@ Only visible to members of the private leaderboard.
 1. [Python, part 2 inspired by the internet](https://github.com/pelma24/AdventOfCode/blob/master/2020/day23.py) by [pelma24]
 1. [Rust, optimized with perf and Gronner](https://github.com/migerh/aoc-2020-rs/blob/main/src/day23/mod.rs) by [migerh]
 1. [C++, optimized using std::map and inlining all the thing, or allocations are bad!](https://github.com/Gronner/aoc-2020/blob/main/src/day23_alt.cpp) by [Gronner]
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day23/day23.py) by [ohaz]
 
 ## [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)
 
