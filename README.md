@@ -12,6 +12,7 @@ Only visible to members of the private leaderboard.
 ## [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)
 
 1. [Rust - Game of Hexagons](https://github.com/migerh/aoc-2020-rs/blob/main/src/day24/mod.rs) by [migerh]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/24.jl) by [tsbr]
 
 ## [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)
 
