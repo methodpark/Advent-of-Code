@@ -8,6 +8,11 @@ Only visible to members of the private leaderboard.
 
 ⌚ [By Score](https://adventofcode.com/2020/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2020/leaderboard/private/view/979032?order=stars)
+
+## [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)
+
+1. [Rust - Game of Hexagons](https://github.com/migerh/aoc-2020-rs/blob/main/src/day24/mod.rs) by [migerh]
+
 ## [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)
 
 1. [Python, part 2 inspired by the internet](https://github.com/pelma24/AdventOfCode/blob/master/2020/day23.py) by [pelma24]
