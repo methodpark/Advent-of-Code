@@ -13,7 +13,8 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Game of Hexagons](https://github.com/migerh/aoc-2020-rs/blob/main/src/day24/mod.rs) by [migerh]
 1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/24.jl) by [tsbr]
-1. [Python with Cube Coordinates](https://github.com/ohaz/adventofcode2020/blob/main/day24/day24.py) by [ohaz]
+1. [Python with cube coordinates](https://github.com/ohaz/adventofcode2020/blob/main/day24/day24.py) by [ohaz]
+1. [Python, Game of Life with cube coordinates](https://github.com/pelma24/AdventOfCode/blob/master/2020/day24.py) by [pelma24]
 
 ## [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)
 
