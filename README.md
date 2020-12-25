@@ -14,6 +14,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/migerh/aoc-2020-rs/blob/main/src/day25/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day25.py) by [pelma24]
 1. [C++](https://github.com/Gronner/aoc-2020/tree/main/src/day25) by [Gronner]
+1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day25/day25.py) by [ohaz]
  
 ## [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)
 
