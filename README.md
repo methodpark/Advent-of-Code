@@ -15,6 +15,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2020/day25.py) by [pelma24]
 1. [C++](https://github.com/Gronner/aoc-2020/tree/main/src/day25) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day25/day25.py) by [ohaz]
+1. [Julia](https://github.com/CmdQ/AoC2020/blob/main/src/25.jl) by [tsbr]
  
 ## [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)
 
@@ -30,6 +31,8 @@ Only visible to members of the private leaderboard.
 1. [Rust, optimized with perf and Gronner](https://github.com/migerh/aoc-2020-rs/blob/main/src/day23/mod.rs) by [migerh]
 1. [C++, optimized using std::map and inlining all the thing, or allocations are bad!](https://github.com/Gronner/aoc-2020/blob/main/src/day23_alt.cpp) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2020/blob/main/day23/day23.py) by [ohaz]
+1. [Julia. Everything before took hours until my last idea made it in 1 second.](https://github.com/CmdQ/AoC2020/blob/main/src/23.jl) by [tsbr]
+
 
 ## [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)
 
