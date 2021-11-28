@@ -20,4 +20,5 @@ Only visible to members of the private leaderboard.
  🎅 coming soon
 
 [Gronner]: https://github.com/Gronner
+[ohaz]: https://github.com/ohaz
 [traveling-developer]: https://github.com/traveling-developer
