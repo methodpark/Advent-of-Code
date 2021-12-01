@@ -18,8 +18,10 @@ Only visible to members of the private leaderboard.
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
 1. [Rust with windows](https://github.com/Gronner/aoc-2021/blob/master/src/day1/mod.rs) by [Gronner]
+1. [Rust with windows](https://github.com/migerh/aoc-2021/blob/master/src/day01/mod.rs) by [migerh]
 
 [Gronner]: https://github.com/Gronner
+[migerh]: https://github.com/migerh
 [ohaz]: https://github.com/ohaz
 [Tilltheman]: https://github.com/Tilltheman
 [traveling-developer]: https://github.com/traveling-developer
