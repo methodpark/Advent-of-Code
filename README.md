@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 7. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day1/task.ts) by [seriousManual]
 8. [Typescript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
 9. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day1.dart) by [traveling-developer]
+10. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day1.clj) by [scheibenkaes]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -39,3 +40,4 @@ Only visible to members of the private leaderboard.
 [MartinS]: https://github.com/Finomnis
 [seriousManual]: https://github.com/seriousManual
 [JonKueb]: https://github.com/JonathanKuebler
+[scheibenkaes]: https://github.com/scheibenkaes
