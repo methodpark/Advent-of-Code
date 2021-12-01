@@ -20,9 +20,11 @@ Only visible to members of the private leaderboard.
 1. [Rust with windows](https://github.com/Gronner/aoc-2021/blob/master/src/day1/mod.rs) by [Gronner]
 1. [Rust with windows](https://github.com/migerh/aoc-2021/blob/master/src/day01/mod.rs) by [migerh]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day1/main.py) by [ohaz]
+3. [Rust](https://github.com/pituser/aoc-2021-rust/blob/main/src/day01/mod.rs) by [Mike]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
 [ohaz]: https://github.com/ohaz
 [Tilltheman]: https://github.com/Tilltheman
 [traveling-developer]: https://github.com/traveling-developer
+[Mike]: https://github.com/pituser
