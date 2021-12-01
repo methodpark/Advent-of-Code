@@ -33,6 +33,7 @@ Only visible to members of the private leaderboard.
 14. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
 15. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day01_SonarSweep_Rust/src/main.rs) by [Jörg]
+17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -51,3 +52,4 @@ Only visible to members of the private leaderboard.
 [Oliver]: https://github.com/olstar916
 [LaLisita]: https://github.com/LaLisita
 [Jörg]: https://github.com/jgpr-code
+[yogan]: https://github.com/yogan
