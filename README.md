@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 10. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day1.clj) by [scheibenkaes]
 11. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/1_Sonar/Program.cs) by [HerrLederer]
 12. [Python funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p1.py) by [Jakob]
+13. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -45,3 +46,4 @@ Only visible to members of the private leaderboard.
 [scheibenkaes]: https://github.com/scheibenkaes
 [HerrLederer]: https://github.com/HerrLederer
 [Jakob]: https://github.com/mp-jakob
+[Oliver]: https://github.com/olstar916
