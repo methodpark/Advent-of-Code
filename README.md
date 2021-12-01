@@ -22,7 +22,7 @@ Only visible to members of the private leaderboard.
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day1/main.py) by [ohaz]
 3. [Rust](https://github.com/pituser/aoc-2021-rust/blob/main/src/day01/mod.rs) by [Mike]
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day1.py) by [pelma24]
-5. [Julia](https://github.com/CmdQ/AoC2020/blob/main/21/src/01-sonar.jl) with sum of array comparison by [CmdQ]
+5. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/01-sonar.jl) with sum of array comparison by [CmdQ]
 6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day01.rs) by [MartinS]
 7. [TypeScript](https://github.com/seriousManual/aoc2021/blob/master/day1/task.ts) by [seriousManual]
 8. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
