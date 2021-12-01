@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 3. [Rust](https://github.com/pituser/aoc-2021-rust/blob/main/src/day01/mod.rs) by [Mike]
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day1.py) by [pelma24]
 5. [Julia](https://github.com/CmdQ/AoC2020/blob/main/21/src/01-sonar.jl) with sum of array comparison by [CmdQ][]
+6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day01.rs) by [MartinS]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -32,3 +33,4 @@ Only visible to members of the private leaderboard.
 [Mike]: https://github.com/pituser
 [pelma24]: https://github.com/pelma24
 [CmdQ]: https://github.com/CmdQ/AoC2020/tree/main/21
+[MartinS]: https://github.com/Finomnis
