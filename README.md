@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 15. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day01_SonarSweep_Rust/src/main.rs) by [Jörg]
 17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
+18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -53,3 +54,4 @@ Only visible to members of the private leaderboard.
 [LaLisita]: https://github.com/LaLisita
 [Jörg]: https://github.com/jgpr-code
 [yogan]: https://github.com/yogan
+[eadoking]: https://github.com/eadoking
