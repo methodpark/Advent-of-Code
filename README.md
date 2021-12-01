@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day01.rs) by [MartinS]
 7. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day1/task.ts) by [seriousManual]
 8. [Typescript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
+9. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day1.dart) by [traveling-developer]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
