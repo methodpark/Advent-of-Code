@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 8. [Typescript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
 9. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day1.dart) by [traveling-developer]
 10. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day1.clj) by [scheibenkaes]
+11. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/1_Sonar/Program.cs) by [HerrLederer]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -41,3 +42,4 @@ Only visible to members of the private leaderboard.
 [seriousManual]: https://github.com/seriousManual
 [JonKueb]: https://github.com/JonathanKuebler
 [scheibenkaes]: https://github.com/scheibenkaes
+[HerrLederer]: https://github.com/HerrLederer
