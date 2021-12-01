@@ -17,7 +17,7 @@ Only visible to members of the private leaderboard.
 
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
- 🎅 coming soon
+1. [Rust with windows](https://github.com/Gronner/aoc-2021/blob/master/src/day1/mod.rs) by [Gronner]
 
 [Gronner]: https://github.com/Gronner
 [ohaz]: https://github.com/ohaz
