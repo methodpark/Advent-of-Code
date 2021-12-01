@@ -24,7 +24,7 @@ Only visible to members of the private leaderboard.
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day1.py) by [pelma24]
 5. [Julia](https://github.com/CmdQ/AoC2020/blob/main/21/src/01-sonar.jl) with sum of array comparison by [CmdQ][]
 6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day01.rs) by [MartinS]
-7. [Typescript](https://github.com/seriousManual/aoc2021/tree/master/day1) by [seriousManual]
+7. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day1/task.ts) by [seriousManual]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
