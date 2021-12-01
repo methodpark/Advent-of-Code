@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 11. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/1_Sonar/Program.cs) by [HerrLederer]
 12. [Python funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p1.py) by [Jakob]
 13. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
+14. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -47,3 +48,4 @@ Only visible to members of the private leaderboard.
 [HerrLederer]: https://github.com/HerrLederer
 [Jakob]: https://github.com/mp-jakob
 [Oliver]: https://github.com/olstar916
+[LaLisita]: https://github.com/LaLisita
