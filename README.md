@@ -36,6 +36,7 @@ Only visible to members of the private leaderboard.
 17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
 19. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day01/day_1.py) by [bismuts-werkeleien]
+20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
@@ -51,6 +52,7 @@ Only visible to members of the private leaderboard.
 9. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day02_Dive_Rust/src/main.rs) by [Jörg]
 10. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p2.py) by [Jakob]
 11. [Clojure, multimethods](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day2.clj) by [scheibenkaes]
+12. [C++ lazy classes](https://github.com/Gronner/aocpp-2021/blob/main/src/day2.cpp) by [Gronner]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
