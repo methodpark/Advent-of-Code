@@ -33,7 +33,7 @@ Only visible to members of the private leaderboard.
 14. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
 15. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day01_SonarSweep_Rust/src/main.rs) by [Jörg]
-17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
+17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day01.py) by [yogan]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
 19. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day01/day_1.py) by [bismuts-werkeleien]
 20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
@@ -46,7 +46,7 @@ Only visible to members of the private leaderboard.
 1. [Folding submarines with Rust](https://github.com/migerh/aoc-2021/blob/master/src/day02/mod.rs) by [migerh]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day2/main.py) by [ohaz]
 3. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day2.py) by [pelma24]
-4. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/02.jl) with funny addition by [CmdQ][]
+4. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/02.jl) with funny addition by [CmdQ]
 5. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/2_dez/day_2.ts) by [JonKueb]
 6. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day02.dart) by [traveling-developer]
 7. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day02/day2.py) by [bismuts-werkeleien]
@@ -57,7 +57,8 @@ Only visible to members of the private leaderboard.
 12. [C++ lazy classes](https://github.com/Gronner/aocpp-2021/blob/main/src/day2.cpp) by [Gronner]
 13. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_02/02_day.py) by [simonschmp]
 14. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/02/daytwo.py) by [Tilltheman]
-
+15. [Python](https://github.com/yogan/AoC2021/blob/main/day_02/day02.py) by [LaLisita] & [yogan]
+  
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
 [ohaz]: https://github.com/ohaz
