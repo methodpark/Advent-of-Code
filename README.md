@@ -44,6 +44,7 @@ Only visible to members of the private leaderboard.
 3. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day2.py) by [pelma24]
 4. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/02.jl) with funny addition by [CmdQ][]
 5. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/2_dez/day_2.ts) by [JonKueb]
+6. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day02.dart) by [traveling-developer]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
