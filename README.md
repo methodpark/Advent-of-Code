@@ -40,6 +40,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust matches](https://github.com/Gronner/aoc-2021/blob/master/src/day2/mod.rs) by [Gronner]
 1. [Folding submarines with Rust](https://github.com/migerh/aoc-2021/blob/master/src/day02/mod.rs) by [migerh]
+2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day2/main.py) by [ohaz]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
