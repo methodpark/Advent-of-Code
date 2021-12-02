@@ -47,6 +47,7 @@ Only visible to members of the private leaderboard.
 5. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/2_dez/day_2.ts) by [JonKueb]
 6. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day02.dart) by [traveling-developer]
 7. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day02/day2.py) by [bismuts-werkeleien]
+8. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day02.rs) by [MartinS]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
