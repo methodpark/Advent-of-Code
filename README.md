@@ -37,7 +37,7 @@ Only visible to members of the private leaderboard.
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
 19. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day01/day_1.py) by [bismuts-werkeleien]
 20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
-21. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day01/day_1.py) by [simonschmp]
+21. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_01/01_day.py) by [simonschmp]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
@@ -54,7 +54,7 @@ Only visible to members of the private leaderboard.
 10. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p2.py) by [Jakob]
 11. [Clojure, multimethods](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day2.clj) by [scheibenkaes]
 12. [C++ lazy classes](https://github.com/Gronner/aocpp-2021/blob/main/src/day2.cpp) by [Gronner]
-13. [Python](https://github.com/bismuts-werkeleien/A_2021/blob/master/day01/day_1.py) by [simonschmp]
+13. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_02/02_day.py) by [simonschmp]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
