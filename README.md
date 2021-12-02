@@ -33,6 +33,7 @@ Only visible to members of the private leaderboard.
 13. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_02/02_day.py) by [simonschmp]
 14. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/02/daytwo.py) by [Tilltheman]
 15. [Python](https://github.com/yogan/AoC2021/blob/main/day02.py) by [LaLisita] & [yogan]
+16. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day2/task.ts) by [seriousManual]
   
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
