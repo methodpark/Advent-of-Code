@@ -35,6 +35,7 @@ Only visible to members of the private leaderboard.
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day01_SonarSweep_Rust/src/main.rs) by [Jörg]
 17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
+19. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day01/day_1.py) by [bismuts-werkeleien]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
@@ -45,6 +46,7 @@ Only visible to members of the private leaderboard.
 4. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/02.jl) with funny addition by [CmdQ][]
 5. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/2_dez/day_2.ts) by [JonKueb]
 6. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day02.dart) by [traveling-developer]
+7. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day02/day2.py) by [bismuts-werkeleien]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -65,3 +67,4 @@ Only visible to members of the private leaderboard.
 [Jörg]: https://github.com/jgpr-code
 [yogan]: https://github.com/yogan
 [eadoking]: https://github.com/eadoking
+[bismuts-werkeleien]: https://github.com/bismuts-werkeleien
