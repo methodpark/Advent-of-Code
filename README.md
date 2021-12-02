@@ -36,6 +36,10 @@ Only visible to members of the private leaderboard.
 17. [Python](https://github.com/yogan/AoC2021/blob/main/day_01/day1.py) by [yogan]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day01) by [eadoking]
 
+### [Day 2:](https://adventofcode.com/2021/day/2)
+
+1. [Rust matches](https://github.com/Gronner/aoc-2021/blob/master/src/day2/mod.rs) by [Gronner]
+
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
 [ohaz]: https://github.com/ohaz
