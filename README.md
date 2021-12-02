@@ -59,6 +59,7 @@ Only visible to members of the private leaderboard.
 20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
 21. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_01/01_day.py) by [simonschmp]
 22. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/01/dayone.py) by [Tilltheman]
+23. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day02/mod.rs) by [dnnr]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
@@ -81,3 +82,4 @@ Only visible to members of the private leaderboard.
 [eadoking]: https://github.com/eadoking
 [bismuts-werkeleien]: https://github.com/bismuts-werkeleien
 [simonschmp]: https://github.com/simonschmp
+[dnnr]: https://github.com/dnnr
