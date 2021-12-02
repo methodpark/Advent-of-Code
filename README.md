@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 14. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/02/daytwo.py) by [Tilltheman]
 15. [Python](https://github.com/yogan/AoC2021/blob/main/day02.py) by [LaLisita] & [yogan]
 16. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day2/task.ts) by [seriousManual]
+17. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day02/mod.rs) by [dnnr]
   
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
@@ -59,7 +60,6 @@ Only visible to members of the private leaderboard.
 20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
 21. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_01/01_day.py) by [simonschmp]
 22. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/01/dayone.py) by [Tilltheman]
-23. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day02/mod.rs) by [dnnr]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
