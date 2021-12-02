@@ -50,6 +50,7 @@ Only visible to members of the private leaderboard.
 8. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day02.rs) by [MartinS]
 9. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day02_Dive_Rust/src/main.rs) by [Jörg]
 10. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p2.py) by [Jakob]
+11. [Clojure, multimethods](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day2.clj) by [scheibenkaes]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
