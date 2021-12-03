@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 1. [Rust numbers start at MSB o.O](https://github.com/Gronner/aoc-2021/blob/master/src/day3/mod.rs) by [Gronner]
 1. [Structured Rust](https://github.com/migerh/aoc-2021/blob/master/src/day03/mod.rs) by [migerh]
 2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day3.py) by [pelma24]
+3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day3/main.py) by [ohaz]
 
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
