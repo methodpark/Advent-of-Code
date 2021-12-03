@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day03/mod.rs) by [dnnr]
 15. [Python](https://github.com/yogan/AoC2021/blob/main/day03.py) by [LaLisita] & [yogan]
 16. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/03/daythree.py) by [Tilltheman]
+17. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
