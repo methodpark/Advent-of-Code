@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day3/main.py) by [ohaz]
 4. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day03.dart) by [traveling-developer]
 5. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/03.jl) with its native Matrix type by [CmdQ][]
+6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day03.rs) by [MartinS]
 
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
