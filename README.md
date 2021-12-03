@@ -85,7 +85,7 @@ Only visible to members of the private leaderboard.
 [traveling-developer]: https://github.com/traveling-developer
 [Mike]: https://github.com/pituser
 [pelma24]: https://github.com/pelma24
-[CmdQ]: https://github.com/CmdQ/AoC2020/tree/main/21
+[CmdQ]: https://github.com/CmdQ
 [MartinS]: https://github.com/Finomnis
 [seriousManual]: https://github.com/seriousManual
 [JonKueb]: https://github.com/JonathanKuebler
