@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 9. [Unwrapping Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day03_BinaryDiagnostic_Rust/src/main.rs) by [Jörg]
 10. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day03/day3.py) by [bismuts-werkeleien]
 11. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day03) by [eadoking]
+12. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day3/task.ts) by [seriousManual]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
