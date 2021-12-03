@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 11. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day03) by [eadoking]
 12. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day3/task.ts) by [seriousManual]
 13. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_03/03_day.py) by [simonschmp]
+14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day03/mod.rs) by [dnnr]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
