@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 5. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/03.jl) with its native Matrix type by [CmdQ][]
 6. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day03.rs) by [MartinS]
 7. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day3.clj) by [scheibenkaes]
+8. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/3_dez/day_3.ts) by [JonKueb]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
