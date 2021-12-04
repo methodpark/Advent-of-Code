@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
+12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) (Task1 only) by [HerrLederer]
 
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
