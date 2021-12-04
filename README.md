@@ -22,6 +22,10 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day4.py) by [pelma24]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day4/main.py) by [ohaz] (Next time with diagonals pls.)
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day04.rs) by [MartinS]
+2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][], nice! by [CmdQ][]
+
+[eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
+[eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
 
 ### [Day 3:](https://adventofcode.com/2021/day/3)
 
