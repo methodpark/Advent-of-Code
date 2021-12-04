@@ -15,6 +15,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### [Day 4:](https://adventofcode.com/2021/day/4)
+
+1. [Too many for loops in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day04/mod.rs) by [migerh]
+
 ### [Day 3:](https://adventofcode.com/2021/day/3)
 
 1. [Rust numbers start at MSB o.O](https://github.com/Gronner/aoc-2021/blob/master/src/day3/mod.rs) by [Gronner]
