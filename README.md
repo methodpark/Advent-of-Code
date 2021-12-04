@@ -50,6 +50,7 @@ Only visible to members of the private leaderboard.
 15. [Python](https://github.com/yogan/AoC2021/blob/main/day03.py) by [LaLisita] & [yogan]
 16. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/03/daythree.py) by [Tilltheman]
 17. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
+18. [C++](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/03_Binary_Diagnostic/03_Binary_Diagnostic.cpp) by [HerrLederer]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
 
@@ -72,6 +73,7 @@ Only visible to members of the private leaderboard.
 16. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day2/task.ts) by [seriousManual]
 17. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day02/mod.rs) by [dnnr]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day02) by [eadoking]
+19. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/02_Dive/Program.cs) by [HerrLederer]
   
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
@@ -86,7 +88,7 @@ Only visible to members of the private leaderboard.
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day01.dart) by [traveling-developer]
 11. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day1.clj) by [scheibenkaes]
-12. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/1_Sonar/Program.cs) by [HerrLederer]
+12. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/01_Sonar/Program.cs) by [HerrLederer]
 13. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p1.py) by [Jakob]
 14. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
 15. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
