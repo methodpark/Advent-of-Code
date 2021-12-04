@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 1. [Too many for loops in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day04/mod.rs) by [migerh]
 1. [Rust - Wait we are not looking for highest scores but first?](https://github.com/Gronner/aoc-2021/blob/master/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day4.py) by [pelma24]
+2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day4/main.py) by [ohaz]
 
 ### [Day 3:](https://adventofcode.com/2021/day/3)
 
