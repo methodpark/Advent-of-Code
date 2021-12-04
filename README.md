@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][], nice! by [CmdQ][]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/04/dayfour.py) by [Tilltheman]
 8. [Python, semi-funtional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
+9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
