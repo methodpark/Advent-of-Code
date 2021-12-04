@@ -29,7 +29,7 @@ Only visible to members of the private leaderboard.
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
 12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) (Task1 only) by [HerrLederer]
-
+13. [Python](https://github.com/yogan/AoC2021/blob/main/day04.py) by [LaLisita] & [yogan] 🦑🔫
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
