@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 8. [Python, semi-funtional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
+11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
 
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
