@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day5.py) by [pelma24]
 5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day05.dart) by [traveling-developer]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/05/dayfive.py) by [Tilltheman] 
+8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) (Task1 only) by [HerrLederer]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
@@ -38,7 +39,7 @@ Only visible to members of the private leaderboard.
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
-12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) (Task1 only) by [HerrLederer]
+12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) by [HerrLederer]
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day04.py) by [LaLisita] & [yogan] 🦑🔫
 14. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day04) by [eadoking]
 
