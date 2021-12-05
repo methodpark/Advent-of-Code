@@ -29,6 +29,8 @@ Only visible to members of the private leaderboard.
 7. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/05/dayfive.py) by [Tilltheman] 
 8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) by [HerrLederer]
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
+10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
+11. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
@@ -40,7 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day04.rs) by [MartinS]
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][] ([nice](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl#L34)) by [CmdQ][]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/04/dayfour.py) by [Tilltheman]
-8. [Python, semi-funtional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
+8. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
