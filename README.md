@@ -16,7 +16,7 @@ Only visible to members of the private leaderboard.
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
-99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer]
+99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer] - this is to cause merge conflicts and give 5mins more of my sleep today.
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
