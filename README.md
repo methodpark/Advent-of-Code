@@ -23,7 +23,7 @@ Only visible to members of the private leaderboard.
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day5.py) by [pelma24]
 5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day05.dart) by [traveling-developer]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/05/dayfive.py) by [Tilltheman] 
-8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) (Task1 only) by [HerrLederer]
+8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) by [HerrLederer]
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
 
 
