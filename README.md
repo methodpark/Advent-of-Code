@@ -18,6 +18,7 @@ Only visible to members of the private leaderboard.
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
 1. [Yes, I added a whole create just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
+2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) imperatively, at least yay built-in matrix by [CmdQ][]
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
@@ -26,7 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day4.py) by [pelma24]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day4/main.py) by [ohaz] (Next time with diagonals pls.)
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day04.rs) by [MartinS]
-2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][], nice! by [CmdQ][]
+2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][] ([nice](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl#L34)) by [CmdQ][]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/04/dayfour.py) by [Tilltheman]
 8. [Python, semi-funtional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
