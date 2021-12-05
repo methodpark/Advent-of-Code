@@ -18,7 +18,7 @@ Only visible to members of the private leaderboard.
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
 1. [Yes, I added a whole create just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
-2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) boringly imperatively, at least yay built-in matrix by [CmdQ][]
+2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) boringly imperatively, at least “yay” for built-in matrix by [CmdQ][]
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
