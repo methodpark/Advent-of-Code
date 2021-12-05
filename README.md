@@ -15,6 +15,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### [Day 5:](https://adventofcode.com/2021/day/5)
+1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
+
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
 1. [Too many for loops in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day04/mod.rs) by [migerh]
