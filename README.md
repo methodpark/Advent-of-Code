@@ -15,6 +15,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### [Day 6:](https://adventofcode.com/2021/day/6)
+99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer]
+
+
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
 1. [Yes, I added a whole create just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
