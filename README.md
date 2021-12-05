@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) by [HerrLederer]
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
 10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
+11. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
