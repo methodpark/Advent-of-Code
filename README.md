@@ -21,6 +21,8 @@ Only visible to members of the private leaderboard.
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) boringly imperatively, at least “yay” for built-in matrix by [CmdQ]
 3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day5/main.py) by [ohaz]
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day5.py) by [pelma24]
+5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day05.dart) by [traveling-developer]
+
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
