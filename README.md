@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 12. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day06) by [eadoking]
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day06.py) by [LaLisita] & [yogan]
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day06/mod.rs) by [dnnr]
+15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
