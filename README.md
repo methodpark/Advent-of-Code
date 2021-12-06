@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based arrays always!)
 3. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
+4. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
