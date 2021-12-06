@@ -17,12 +17,12 @@ Only visible to members of the private leaderboard.
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
-1. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
-99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer] - this is to cause merge conflicts and give 5mins more of my sleep today.
-1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
-2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based arrays always!)
-3. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
-4. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
+2. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
+3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
+4. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based arrays always!)
+5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
+6. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
+7. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_Lanternfish) excellent solution by [HerrLederer]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
