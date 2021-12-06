@@ -17,6 +17,7 @@ Only visible to members of the private leaderboard.
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
+1. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
 99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer] - this is to cause merge conflicts and give 5mins more of my sleep today.
 
 
