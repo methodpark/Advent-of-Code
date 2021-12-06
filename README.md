@@ -23,7 +23,7 @@ Only visible to members of the private leaderboard.
 5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
 6. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
 7. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_Lanternfish) excellent solution by [HerrLederer]
-8. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p6.py) by [Jakob]
+8. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p6.py) by [Jakob]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day06.rs) by [MartinS]
 
 
@@ -38,7 +38,7 @@ Only visible to members of the private leaderboard.
 8. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/05_Hydrothermal_Venture) by [HerrLederer]
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
 10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
-11. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
+11. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
 
 
@@ -51,7 +51,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day04.rs) by [MartinS]
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl) has [eachrow][] and [eachcol][] ([nice](https://github.com/CmdQ/AoC/blob/main/21/src/04.jl#L34)) by [CmdQ][]
 7. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/04/dayfour.py) by [Tilltheman]
-8. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
+8. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p4.py) by [Jakob]
 9. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day04/mod.rs) by [dnnr]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
@@ -83,7 +83,7 @@ Only visible to members of the private leaderboard.
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day03/mod.rs) by [dnnr]
 15. [Python](https://github.com/yogan/AoC2021/blob/main/day03.py) by [LaLisita] & [yogan]
 16. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/03/daythree.py) by [Tilltheman]
-17. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
+17. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
 18. [C++](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/03_Binary_Diagnostic/03_Binary_Diagnostic.cpp) by [HerrLederer]
 
 ### [Day 2:](https://adventofcode.com/2021/day/2)
@@ -98,7 +98,7 @@ Only visible to members of the private leaderboard.
 7. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day02/day2.py) by [bismuts-werkeleien]
 8. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day02.rs) by [MartinS]
 9. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day02_Dive_Rust/src/main.rs) by [Jörg]
-10. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p2.py) by [Jakob]
+10. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p2.py) by [Jakob]
 11. [Clojure, multimethods](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day2.clj) by [scheibenkaes]
 12. [C++ lazy classes](https://github.com/Gronner/aocpp-2021/blob/main/src/day2.cpp) by [Gronner]
 13. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_02/02_day.py) by [simonschmp]
@@ -123,7 +123,7 @@ Only visible to members of the private leaderboard.
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day01.dart) by [traveling-developer]
 11. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day1.clj) by [scheibenkaes]
 12. [Professionelles MS C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/01_Sonar/Program.cs) by [HerrLederer]
-13. [Python, funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p1.py) by [Jakob]
+13. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p1.py) by [Jakob]
 14. [C++](https://github.com/olstar916/AoC_2021/tree/main/Day_01_1_sonar_sweep) by [Oliver]
 15. [Python](https://github.com/LaLisita/AoC2021/blob/main/day_01/day1.py) by [LaLisita]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day01_SonarSweep_Rust/src/main.rs) by [Jörg]
