@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer] - this is to cause merge conflicts and give 5mins more of my sleep today.
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based arrays always!)
+3. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
