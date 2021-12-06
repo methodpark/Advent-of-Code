@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 5. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day06.dart) by [traveling-developer]
 6. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
 7. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_Lanternfish) excellent solution by [HerrLederer]
+8. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p6.py) by [Jakob]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
