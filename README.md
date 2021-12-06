@@ -42,6 +42,7 @@ Only visible to members of the private leaderboard.
 10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
 11. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
 12. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
+13. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day05) by [eadoking]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
