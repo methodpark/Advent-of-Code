@@ -56,6 +56,7 @@ Only visible to members of the private leaderboard.
 12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) by [HerrLederer]
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day04.py) by [LaLisita] & [yogan] 🦑🔫
 14. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day04) by [eadoking]
+15. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day04/day4.py) by [bismuts-werkeleien]
 
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
