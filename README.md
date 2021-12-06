@@ -20,7 +20,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
 99999. [C*](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_) no solution by [HerrLederer] - this is to cause merge conflicts and give 5mins more of my sleep today.
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
-2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based always!)
+2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day6/main.py) by [ohaz] (Python is a good language and uses 0-based arrays always!)
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
