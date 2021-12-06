@@ -24,11 +24,12 @@ Only visible to members of the private leaderboard.
 6. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/6_dez/day_6.ts) by [JonKueb]
 7. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/06_Lanternfish) excellent solution by [HerrLederer]
 8. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p6.py) by [Jakob]
+1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day06.rs) by [MartinS]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
-1. [Yes, I added a whole create just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
+1. [Yes, I added a whole crate just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) boringly imperatively, at least “yay” for built-in matrix by [CmdQ]
 3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day5/main.py) by [ohaz]
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day5.py) by [pelma24]
@@ -38,6 +39,7 @@ Only visible to members of the private leaderboard.
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
 10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
 11. [Python, semi-funktional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
+1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
