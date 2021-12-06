@@ -41,7 +41,7 @@ Only visible to members of the private leaderboard.
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/5_dez/day_5.ts) by [JonKueb]
 10. [Python](https://github.com/yogan/AoC2021/blob/main/day05.py) by [yogan]
 11. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p5.py) by [Jakob]
-1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
+12. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
 
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
