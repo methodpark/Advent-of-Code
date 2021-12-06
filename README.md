@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 8. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p6.py) by [Jakob]
 9. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day06.rs) by [MartinS]
 10. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day6.py) by [pelma24] 
+11. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day6/task.ts) by [seriousManual] 
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
