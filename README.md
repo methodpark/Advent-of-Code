@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 10. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day6.py) by [pelma24] 
 11. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day6/task.ts) by [seriousManual] 
 12. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day06) by [eadoking]
+13. [Python](https://github.com/yogan/AoC2021/blob/main/day06.py) by [LaLisita] & [yogan]
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
