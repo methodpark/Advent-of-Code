@@ -24,6 +24,8 @@ Only visible to members of the private leaderboard.
 3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
 4. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
 5. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/Program.cs) by [daisylein-lost]
+6. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
+
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
