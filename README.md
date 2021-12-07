@@ -43,13 +43,7 @@ Only visible to members of the private leaderboard.
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day06.py) by [LaLisita] & [yogan]
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day06/mod.rs) by [dnnr]
 15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
-<<<<<<< HEAD
-16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [Jan Urf]
-=======
 16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [JanUrf]
->>>>>>> acab4b2a8b8c4a23575541e65432154d357d1834
-
-
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
@@ -66,7 +60,6 @@ Only visible to members of the private leaderboard.
 12. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
 13. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day05) by [eadoking]
 14. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day05_HydrothermalVenture_Rust/src/main.rs) by [Jörg]
-
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
@@ -86,7 +79,6 @@ Only visible to members of the private leaderboard.
 14. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day04) by [eadoking]
 15. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day04/day4.py) by [bismuts-werkeleien]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day04_GiantSquid_Rust/src/main.rs) by [Jörg]
-
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
