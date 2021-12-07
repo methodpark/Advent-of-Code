@@ -41,6 +41,8 @@ Only visible to members of the private leaderboard.
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day06.py) by [LaLisita] & [yogan]
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day06/mod.rs) by [dnnr]
 15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
+16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [Jan Urf]
+
 
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
