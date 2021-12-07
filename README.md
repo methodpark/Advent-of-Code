@@ -33,6 +33,7 @@ Only visible to members of the private leaderboard.
 15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_07/07_day.py) by [simonschmp]
 16. [Pyhton](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/07/solution.py) by [JanUrf]
 17. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/07/dayseven.py) by [Tilltheman]
+18. [Python](https://github.com/yogan/AoC2021/blob/main/day07.py) by [yogan]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
