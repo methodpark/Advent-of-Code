@@ -13,9 +13,12 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2021/leaderboard/private/view/979032?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2021/leaderboard/private/view/979032?order=stars)
 
+
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
-### Day 7:
+
+### [Day 7](https://adventofcode.com/2021/day/7) 🦀
+
 1. [Gauss makes this easy](https://github.com/migerh/aoc-2021/blob/master/src/day07/mod.rs) by [migerh]
 2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
 3. [Rust - Method of sharp looking](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
@@ -36,7 +39,8 @@ Only visible to members of the private leaderboard.
 18. [Python](https://github.com/yogan/AoC2021/blob/main/day07.py) by [yogan]
 
 
-### [Day 6:](https://adventofcode.com/2021/day/6)
+### [Day 6](https://adventofcode.com/2021/day/6) 🐟
+
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
 2. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
 3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/06.jl) with 0-based arrays for Richard – by [CmdQ]
@@ -57,7 +61,9 @@ Only visible to members of the private leaderboard.
 18. [C#, Recursive](https://github.com/NinaMb/AdventOfCode/blob/main/Day_06/Program.cs) by [NinaMb]
 19. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day6.cs) by [daisylein-lost]
 
-### [Day 5:](https://adventofcode.com/2021/day/5)
+
+### [Day 5](https://adventofcode.com/2021/day/5) 🌋
+
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
 1. [Yes, I added a whole crate just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
 2. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/05.jl) boringly imperatively, at least “yay” for built-in matrix by [CmdQ]
@@ -74,7 +80,8 @@ Only visible to members of the private leaderboard.
 14. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day05_HydrothermalVenture_Rust/src/main.rs) by [Jörg]
 15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_05/05_day.py) by [simonschmp]
 
-### [Day 4:](https://adventofcode.com/2021/day/4)
+
+### [Day 4](https://adventofcode.com/2021/day/4) 🦑
 
 1. [Too many for loops in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day04/mod.rs) by [migerh]
 1. [Rust - Wait we are not looking for highest scores but first?](https://github.com/Gronner/aoc-2021/blob/master/src/day4/mod.rs) by [Gronner]
@@ -88,7 +95,7 @@ Only visible to members of the private leaderboard.
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day04.dart) by [traveling-developer]
 11. [Typescript after wasting time with diagonals](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/4_dez/day_4.ts) by [JonKueb]
 12. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/04_Bingo) by [HerrLederer]
-13. [Python](https://github.com/yogan/AoC2021/blob/main/day04.py) by [LaLisita] & [yogan] 🦑🔫
+13. [Python](https://github.com/yogan/AoC2021/blob/main/day04.py) by [LaLisita] & [yogan]
 14. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day04) by [eadoking]
 15. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day04/day4.py) by [bismuts-werkeleien]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day04_GiantSquid_Rust/src/main.rs) by [Jörg]
@@ -96,7 +103,8 @@ Only visible to members of the private leaderboard.
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
 
-### [Day 3:](https://adventofcode.com/2021/day/3)
+
+### [Day 3](https://adventofcode.com/2021/day/3) 0️⃣1️⃣
 
 1. [Rust numbers start at MSB o.O](https://github.com/Gronner/aoc-2021/blob/master/src/day3/mod.rs) by [Gronner]
 1. [Structured Rust](https://github.com/migerh/aoc-2021/blob/master/src/day03/mod.rs) by [migerh]
@@ -118,7 +126,8 @@ Only visible to members of the private leaderboard.
 17. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
 18. [C++](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/03_Binary_Diagnostic/03_Binary_Diagnostic.cpp) by [HerrLederer]
 
-### [Day 2:](https://adventofcode.com/2021/day/2)
+
+### [Day 2](https://adventofcode.com/2021/day/2) ⚓
 
 1. [Rust matches](https://github.com/Gronner/aoc-2021/blob/master/src/day2/mod.rs) by [Gronner]
 1. [Folding submarines with Rust](https://github.com/migerh/aoc-2021/blob/master/src/day02/mod.rs) by [migerh]
@@ -141,15 +150,16 @@ Only visible to members of the private leaderboard.
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day02) by [eadoking]
 19. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/02_Dive/Program.cs) by [HerrLederer]
 20. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day2.cs) by [daisylein-lost]
-  
-### [Day 1:](https://adventofcode.com/2021/day/1)
+
+
+### [Day 1](https://adventofcode.com/2021/day/1) 🧝‍♂️
 
 1. [Rust with windows](https://github.com/Gronner/aoc-2021/blob/master/src/day1/mod.rs) by [Gronner]
-1. [Rust with windows](https://github.com/migerh/aoc-2021/blob/master/src/day01/mod.rs) by [migerh]
-2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day1/main.py) by [ohaz]
-3. [Rust](https://github.com/pituser/aoc-2021-rust/blob/main/src/day01/mod.rs) by [Mike]
-4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day1.py) by [pelma24]
-5. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/01.jl) with sum of array comparison by [CmdQ]
+2. [Rust with windows](https://github.com/migerh/aoc-2021/blob/master/src/day01/mod.rs) by [migerh]
+3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day1/main.py) by [ohaz]
+4. [Rust](https://github.com/pituser/aoc-2021-rust/blob/main/src/day01/mod.rs) by [Mike]
+5. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day1.py) by [pelma24]
+6. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/01.jl) with sum of array comparison by [CmdQ]
 7. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day01.rs) by [MartinS]
 8. [TypeScript](https://github.com/seriousManual/aoc2021/blob/master/day1/task.ts) by [seriousManual]
 9. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/tree/master/2021/1_dez) by [JonKueb]
@@ -168,6 +178,7 @@ Only visible to members of the private leaderboard.
 22. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/01/dayone.py) by [Tilltheman]
 23. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day1.cs) by [daisylein-lost]
 
+  
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
 [ohaz]: https://github.com/ohaz
