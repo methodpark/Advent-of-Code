@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 2. [TypeScript - who knew that .sort() is not the same as in python](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/7_dez/day_7.ts) by [JonKueb]
 3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day7/main.py) by [ohaz]
 3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
+4. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
@@ -173,3 +174,4 @@ Only visible to members of the private leaderboard.
 [bismuts-werkeleien]: https://github.com/bismuts-werkeleien
 [simonschmp]: https://github.com/simonschmp
 [dnnr]: https://github.com/dnnr
+[NinaMb]: https://github.com/NinaMb
