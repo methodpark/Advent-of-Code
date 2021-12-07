@@ -61,6 +61,7 @@ Only visible to members of the private leaderboard.
 17. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_06/06_day.py) by [simonschmp]
 18. [C#, Recursive](https://github.com/NinaMb/AdventOfCode/blob/main/Day_06/Program.cs) by [NinaMb]
 19. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day6.cs) by [daisylein-lost]
+20. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day06_Lanternfish_Rust/src/main.rs) by [Jörg]
 
 
 ### [Day 5](https://adventofcode.com/2021/day/5) 🌋
