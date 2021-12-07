@@ -18,7 +18,7 @@ Only visible to members of the private leaderboard.
 ### Day 7:
 1. [Gauss makes this easy](https://github.com/migerh/aoc-2021/blob/master/src/day07/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
-1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
+1. [Rust - Method of sharp looking](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
 2. [TypeScript - who knew that .sort() is not the same as in python](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/7_dez/day_7.ts) by [JonKueb]
 3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day7/main.py) by [ohaz]
 3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
