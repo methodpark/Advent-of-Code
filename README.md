@@ -51,6 +51,7 @@ Only visible to members of the private leaderboard.
 15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
 16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [JanUrf]
 17. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_06/06_day.py) by [simonschmp]
+18. [C#, Recursive](https://github.com/NinaMb/AdventOfCode/blob/main/Day_06/Program.cs) by [NinaMb]
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
