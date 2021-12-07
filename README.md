@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 11. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day07_TheTreacheryOfWhales_Rust/src/main.rs) by [Jörg]
 12. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p7.py) by [Jakob]
 13. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day07/day7.py) by [bismuts-werkeleien]
+14. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day07.dart) by [traveling-developer]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
