@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 12. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p7.py) by [Jakob]
 13. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day07/day7.py) by [bismuts-werkeleien]
 14. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day07.dart) by [traveling-developer]
+15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_07/07_day.py) by [simonschmp]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
@@ -49,6 +50,7 @@ Only visible to members of the private leaderboard.
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day06/mod.rs) by [dnnr]
 15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
 16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [JanUrf]
+17. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_06/06_day.py) by [simonschmp]
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
@@ -65,6 +67,7 @@ Only visible to members of the private leaderboard.
 12. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day05.rs) by [MartinS]
 13. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day05) by [eadoking]
 14. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day05_HydrothermalVenture_Rust/src/main.rs) by [Jörg]
+15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_05/05_day.py) by [simonschmp]
 
 ### [Day 4:](https://adventofcode.com/2021/day/4)
 
