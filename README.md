@@ -25,7 +25,7 @@ Only visible to members of the private leaderboard.
 7. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
 8. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/Program.cs) by [daisylein-lost]
 9. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
-10. [Typescript](https://github.com/seriousManual/aoc2021/tree/master/day7) [seriousManual]
+10. [Typescript](https://github.com/seriousManual/aoc2021/tree/master/day7) by [seriousManual]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
