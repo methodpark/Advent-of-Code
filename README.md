@@ -138,6 +138,7 @@ Only visible to members of the private leaderboard.
 17. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day02/mod.rs) by [dnnr]
 18. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day02) by [eadoking]
 19. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/02_Dive/Program.cs) by [HerrLederer]
+20. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day2.cs) by [daisylein-lost]
   
 ### [Day 1:](https://adventofcode.com/2021/day/1)
 
@@ -163,6 +164,7 @@ Only visible to members of the private leaderboard.
 20. [C++ <algorithm>](https://github.com/Gronner/aocpp-2021/blob/main/src/day1.cpp) by [Gronner]
 21. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_01/01_day.py) by [simonschmp]
 22. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/01/dayone.py) by [Tilltheman]
+23. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day1.cs) by [daisylein-lost]
 
 [Gronner]: https://github.com/Gronner
 [migerh]: https://github.com/migerh
