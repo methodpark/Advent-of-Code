@@ -15,6 +15,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### Day 7:
+1. [Gauss makes this easy](https://github.com/migerh/aoc-2021/blob/master/src/day07/mod.rs) by [migerh]
+
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
 2. [Rust - SIGKILL for OOM](https://github.com/Gronner/aoc-2021/blob/master/src/day6/mod.rs) by [Gronner]
