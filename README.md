@@ -17,7 +17,8 @@ Only visible to members of the private leaderboard.
 
 ### Day 7:
 1. [Gauss makes this easy](https://github.com/migerh/aoc-2021/blob/master/src/day07/mod.rs) by [migerh]
-2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
+1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
 1. [Rusty bucket full of fish](https://github.com/migerh/aoc-2021/blob/master/src/day06/mod.rs) by [migerh]
