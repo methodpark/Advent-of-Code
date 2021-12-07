@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 13. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day07/day7.py) by [bismuts-werkeleien]
 14. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day07.dart) by [traveling-developer]
 15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_07/07_day.py) by [simonschmp]
+16. [Pyhton](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/07/solution.py) by [JanUrf]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
