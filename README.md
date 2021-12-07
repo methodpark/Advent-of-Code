@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 9. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
 10. [Typescript](https://github.com/seriousManual/aoc2021/tree/master/day7) by [seriousManual]
 11. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day07_TheTreacheryOfWhales_Rust/src/main.rs) by [Jörg]
+12. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p7.py) by [Jakob]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
