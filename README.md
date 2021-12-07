@@ -17,14 +17,14 @@ Only visible to members of the private leaderboard.
 
 ### Day 7:
 1. [Gauss makes this easy](https://github.com/migerh/aoc-2021/blob/master/src/day07/mod.rs) by [migerh]
-1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
-1. [Rust - Method of sharp looking](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
-2. [TypeScript - who knew that .sort() is not the same as in python](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/7_dez/day_7.ts) by [JonKueb]
-3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day7/main.py) by [ohaz]
-3. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
-4. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
-5. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/Program.cs) by [daisylein-lost]
-6. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
+2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day7.py) by [pelma24]
+3. [Rust - Method of sharp looking](https://github.com/Gronner/aoc-2021/blob/master/src/day7/mod.rs) by [Gronner]
+4. [TypeScript - who knew that .sort() is not the same as in python](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/7_dez/day_7.ts) by [JonKueb]
+5. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day7/main.py) by [ohaz]
+6. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
+7. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
+8. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/Program.cs) by [daisylein-lost]
+9. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
 
 
 ### [Day 6:](https://adventofcode.com/2021/day/6)
@@ -43,7 +43,11 @@ Only visible to members of the private leaderboard.
 13. [Python](https://github.com/yogan/AoC2021/blob/main/day06.py) by [LaLisita] & [yogan]
 14. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day06/mod.rs) by [dnnr]
 15. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/06/daysix.py) by [Tilltheman]
+<<<<<<< HEAD
 16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [Jan Urf]
+=======
+16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [JanUrf]
+>>>>>>> acab4b2a8b8c4a23575541e65432154d357d1834
 
 
 
@@ -181,3 +185,4 @@ Only visible to members of the private leaderboard.
 [dnnr]: https://github.com/dnnr
 [NinaMb]: https://github.com/NinaMb
 [daisylein-lost]: https://github.com/daisylein-lost
+[JanUrf]: https://github.com/JanUrf
