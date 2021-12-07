@@ -23,7 +23,7 @@ Only visible to members of the private leaderboard.
 5. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day7/main.py) by [ohaz]
 6. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/07.jl) by [CmdQ]
 7. [C#](https://github.com/NinaMb/AdventOfCode/blob/main/Day_07/Program.cs) by [NinaMb]
-8. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/Program.cs) by [daisylein-lost]
+8. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day7.cs) by [daisylein-lost]
 9. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/07_Whales/Program.cs) brilliant solution by [HerrLederer]
 10. [Typescript](https://github.com/seriousManual/aoc2021/tree/master/day7) by [seriousManual]
 11. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day07_TheTreacheryOfWhales_Rust/src/main.rs) by [Jörg]
@@ -52,6 +52,7 @@ Only visible to members of the private leaderboard.
 16. [Python OO](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation.py), [Python vector approach](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation2.py), [Python dict](https://code.methodpark.de/jnui/adventofcode21/-/blob/main/06/simulation3.py) by [JanUrf]
 17. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_06/06_day.py) by [simonschmp]
 18. [C#, Recursive](https://github.com/NinaMb/AdventOfCode/blob/main/Day_06/Program.cs) by [NinaMb]
+19. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day6.cs) by [daisylein-lost]
 
 ### [Day 5:](https://adventofcode.com/2021/day/5)
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
