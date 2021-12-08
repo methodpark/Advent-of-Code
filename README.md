@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Counting and mapping characters in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day08/mod.rs) by [migerh]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day8/main.py) (very bad solution) by [ohaz]
+3. [Rust - WAHHHHH](https://github.com/Gronner/aoc-2021/blob/master/src/day8/mod.rs) by [Gronner]
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
 
