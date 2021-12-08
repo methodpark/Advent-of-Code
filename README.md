@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 5. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/8_dez/day_8.ts) (please dont look at it) by [JonKueb]
 6. [Rust but really slow and dumb](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day08_SevenSegmentSearch_Rust/src/main.rs) by [Jörg]
 7. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day08.dart) by [traveling-developer]
+1. [Rust - very efficient, O(1)](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day08.rs) by [MartinS]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
