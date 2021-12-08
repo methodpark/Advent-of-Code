@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - very efficient, O(1)](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day08.rs) by [MartinS]
 9. [Python, if this is still allowed to be called pythonic](https://github.com/Tilltheman/AdventOfCode/blob/main/08/dayeight.py) by [Tilltheman]
 10. [C# - too many array, list, etc...](https://github.com/daisylein-lost/adventCode21/blob/main/day8.cs) by [daisylein-lost]
+11. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p8.py) by [Jakob]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
