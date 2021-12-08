@@ -26,7 +26,7 @@ Only visible to members of the private leaderboard.
 6. [Rust but really slow and dumb](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day08_SevenSegmentSearch_Rust/src/main.rs) by [Jörg]
 7. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day08.dart) by [traveling-developer]
 1. [Rust - very efficient, O(1)](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day08.rs) by [MartinS]
-1. [Rust - refactored, around the idea that sum(histogram) is unique](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day08.rs) by [MartinS]
+1. [Rust - refactored; efficient, small, readable, smart. Around the idea that sum(histogram) is unique](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day08.rs) by [MartinS]
 9. [Python, if this is still allowed to be called pythonic](https://github.com/Tilltheman/AdventOfCode/blob/main/08/dayeight.py) by [Tilltheman]
 10. [C# - too many array, list, etc...](https://github.com/daisylein-lost/adventCode21/blob/main/day8.cs) by [daisylein-lost]
 11. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p8.py) by [Jakob]
