@@ -45,6 +45,7 @@ Only visible to members of the private leaderboard.
 18. [Python](https://github.com/yogan/AoC2021/blob/main/day07.py) by [yogan]
 19. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day07/mod.rs) by [dnnr]
 20. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day07) by [eadoking]
+1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day07.rs) by [MartinS]
 
 
 ### [Day 6](https://adventofcode.com/2021/day/6) 🐟
