@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day8/main.py) (very bad solution) by [ohaz]
 3. [Rust - WAHHHHH](https://github.com/Gronner/aoc-2021/blob/master/src/day8/mod.rs) by [Gronner]
 4. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day8.py) by [pelma24]
+5. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/8_dez/day_8.ts) (please dont look at it) by [JonKueb]
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
 
