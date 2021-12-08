@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 7. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day08.dart) by [traveling-developer]
 1. [Rust - very efficient, O(1)](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solvers/day08.rs) by [MartinS]
 9. [Python, if this is still allowed to be called pythonic](https://github.com/Tilltheman/AdventOfCode/blob/main/08/dayeight.py) by [Tilltheman]
+10. [C# - stupid solution](https://github.com/daisylein-lost/adventCode21/blob/main/day8.cs) by [daisylein-lost]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
