@@ -32,6 +32,7 @@ Only visible to members of the private leaderboard.
 11. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p8.py) by [Jakob]
 12. [C# - no fun](https://github.com/NinaMb/AdventOfCode/blob/main/Day_08/Program.cs) by [NinaMb]
 13. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day08) by [eadoking]
+14. [Python - too many sets](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day08/day8.py) by [bismuts-werkeleien]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
