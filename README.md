@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day9/main.py) by [ohaz]
 1. [Rust - Table all jumbled up](https://github.com/Gronner/aoc-2021/blob/master/src/day9/mod.rs) by [Gronner]
 1. [Rust - while let Some(rage)](https://github.com/meldron/aoc-2021/blob/main/day09/src/main.rs) by [bernd]
+1. [Rust - but like C++](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day09_SmokeBasin_Rust/src/main.rs) by [Jörg]
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
