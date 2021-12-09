@@ -110,6 +110,7 @@ Only visible to members of the private leaderboard.
 13. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day05) by [eadoking]
 14. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day05_HydrothermalVenture_Rust/src/main.rs) by [Jörg]
 15. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_05/05_day.py) by [simonschmp]
+1. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day5.clj) by [scheibenkaes]
 
 
 ### [Day 4](https://adventofcode.com/2021/day/4) 🦑
@@ -130,6 +131,7 @@ Only visible to members of the private leaderboard.
 14. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day04) by [eadoking]
 15. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day04/day4.py) by [bismuts-werkeleien]
 16. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day04_GiantSquid_Rust/src/main.rs) by [Jörg]
+1. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day4.clj) by [scheibenkaes]
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
