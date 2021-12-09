@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day9.py) by [pelma24]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day9/main.py) by [ohaz]
 1. [Rust - Table all jumbled up](https://github.com/Gronner/aoc-2021/blob/master/src/day9/mod.rs) by [Gronner]
+1. [Rust - while let Some(rage)](https://github.com/meldron/aoc-2021/blob/main/day09/src/main.rs) by [bernd]
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
@@ -234,3 +235,4 @@ Only visible to members of the private leaderboard.
 [NinaMb]: https://github.com/NinaMb
 [daisylein-lost]: https://github.com/daisylein-lost
 [JanUrf]: https://github.com/JanUrf
+[bernd]: https://github.com/meldron
