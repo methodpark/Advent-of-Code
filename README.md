@@ -161,6 +161,7 @@ Only visible to members of the private leaderboard.
 16. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/03/daythree.py) by [Tilltheman]
 17. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
 18. [C++](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/03_Binary_Diagnostic/03_Binary_Diagnostic.cpp) by [HerrLederer]
+19. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day3.cs) by [daisylein-lost]
 
 
 ### [Day 2](https://adventofcode.com/2021/day/2) ⚓
