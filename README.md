@@ -27,6 +27,8 @@ Only visible to members of the private leaderboard.
 1. [TypeScript - This feels fine](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/9_dez/day_9.ts) by [JonKueb]
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day9.cs) by [daisylein-lost]
 9. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/09/daynine.py) by [Tilltheman]
+10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day09.dart) by [traveling-developer]
+
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
