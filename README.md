@@ -101,7 +101,7 @@ Only visible to members of the private leaderboard.
 20. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day06_Lanternfish_Rust/src/main.rs) by [Jörg]
 
 
-### [Day 5](https://adventofcode.com/2021/day/5) 🌋
+### [Day 5](https://adventofcode.com/2021/day/5) ☁
 
 1. [Rust - Happy I implemented `Table` yesterday](https://github.com/Gronner/aoc-2021/blob/master/src/day5/mod.rs) by [Gronner]
 1. [Yes, I added a whole crate just for signum](https://github.com/migerh/aoc-2021/blob/master/src/day05/mod.rs) by [migerh]
