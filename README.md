@@ -29,7 +29,8 @@ Only visible to members of the private leaderboard.
 9. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/09/daynine.py) by [Tilltheman]
 10. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day09.dart) by [traveling-developer]
 11. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p9.py) by [Jakob]
-12. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day9/task.ts) by [seriousManual]
+12. [TypeScript](https://github.com/seriousManual/aoc2021/blob/master/day9/task.ts) by [seriousManual]
+13. [Python](https://github.com/yogan/AoC2021/blob/main/day09.py) by [LaLisita] & [yogan]
 
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
