@@ -53,6 +53,7 @@ Only visible to members of the private leaderboard.
 14. [Python - too many sets](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day08/day8.py) by [bismuts-werkeleien]
 15. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/08_7_Digit_Display) - beautiful solution for task 1 by [HerrLederer]
 16. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_08/08_day.py) by [simonschmp]
+17. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day08/mod.rs) by [dnnr]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
