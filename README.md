@@ -19,8 +19,9 @@ Only visible to members of the private leaderboard.
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
 1. [Rust - off by one error best error](https://github.com/migerh/aoc-2021/blob/master/src/day09/mod.rs) by [migerh]
-2. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day9.py) by [pelma24]
-3. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day9/main.py) by [ohaz]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day9.py) by [pelma24]
+1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day9/main.py) by [ohaz]
+1. [Rust - Table all jumbled up](https://github.com/Gronner/aoc-2021/blob/master/src/day9/mod.rs) by [Gronner]
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
