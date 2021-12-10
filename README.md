@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Parsing](https://github.com/Gronner/aoc-2021/blob/master/src/day10/mod.rs) by [Gronner]
 2. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day10/main.py) by [ohaz]
 1. [Rust - ([{<>}])](https://github.com/migerh/aoc-2021/blob/master/src/day10/mod.rs) by [migerh]
+2. [Rust - enums](https://github.com/meldron/aoc-2021/blob/main/day10/src/main.rs) by [bernd]
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
