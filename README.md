@@ -100,6 +100,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day07/mod.rs) by [dnnr]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day07) by [eadoking]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day07.rs) by [MartinS]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/07.py) by [Olli]
 
 
 ### [Day 6](https://adventofcode.com/2021/day/6) 🐟
@@ -124,6 +125,7 @@ Only visible to members of the private leaderboard.
 1. [C#, Recursive](https://github.com/NinaMb/AdventOfCode/blob/main/Day_06/Program.cs) by [NinaMb]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day6.cs) by [daisylein-lost]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day06_Lanternfish_Rust/src/main.rs) by [Jörg]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/06.py) by [Olli]
 
 
 ### [Day 5](https://adventofcode.com/2021/day/5) ☁
