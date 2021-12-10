@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day10.py) by [pelma24]
 2. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/10_dez/day_10.ts) by [JonKueb]
+3. [Rust - match all the way!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day10_SyntaxScoring_Rust/src/main.rs) by [Jörg]
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
