@@ -34,7 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p10.py) by [Jakob]
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day10.py) by [dnnr] & [yogan]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/10) by [Tilltheman]
-
+1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day10) by [eadoking]
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
