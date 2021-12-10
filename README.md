@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day10/day10.py) by [bismuts-werkeleien]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day10.rs) by [MartinS]
 1. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day10/task.ts) by [seriousManual]
+1. [Python, semi-functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p10.py) by [Jakob]
 
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
