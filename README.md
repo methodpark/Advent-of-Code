@@ -50,7 +50,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day09.py) by [LaLisita] & [yogan]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day09.rs) by [MartinS]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [Olli]
-
+1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day09) by [eadoking]
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
