@@ -27,8 +27,8 @@ Only visible to members of the private leaderboard.
 1. [Rust - enums](https://github.com/meldron/aoc-2021/blob/main/day10/src/main.rs) by [bernd]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day10.dart) by [traveling-developer]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/10.py) by [Olli]
-2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day10.cs) by [daisylein-lost]
-3. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day10/day10.py) by [bismuts-werkeleien]
+1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day10.cs) by [daisylein-lost]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day10/day10.py) by [bismuts-werkeleien]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day10.rs) by [MartinS]
 1. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day10/task.ts) by [seriousManual]
 
