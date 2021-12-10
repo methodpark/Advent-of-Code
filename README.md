@@ -72,6 +72,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/HerrLederer/HerrLederer/tree/main/AdventOfCode/08_7_Digit_Display) - beautiful solution for task 1 by [HerrLederer]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_08/08_day.py) by [simonschmp]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day08/mod.rs) by [dnnr]
+1. [Python (part 1 only)](https://github.com/yogan/AoC2021/blob/main/day08.py) by [LaLisita] & [yogan]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
