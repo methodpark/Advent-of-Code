@@ -19,8 +19,9 @@ Only visible to members of the private leaderboard.
 ### [Day 10](https://adventofcode.com/2021/day/10)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day10.py) by [pelma24]
-2. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/10_dez/day_10.ts) by [JonKueb]
-3. [Rust - match all the way!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day10_SyntaxScoring_Rust/src/main.rs) by [Jörg]
+1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/10_dez/day_10.ts) by [JonKueb]
+1. [Rust - match all the way!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day10_SyntaxScoring_Rust/src/main.rs) by [Jörg]
+1. [Rust - Parsing](https://github.com/Gronner/aoc-2021/blob/master/src/day10/mod.rs) by [Gronner]
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
