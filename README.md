@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day10.cs) by [daisylein-lost]
 3. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day10/day10.py) by [bismuts-werkeleien]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day10.rs) by [MartinS]
+1. [Typescript](https://github.com/seriousManual/aoc2021/blob/master/day10/task.ts) by [seriousManual]
 
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
