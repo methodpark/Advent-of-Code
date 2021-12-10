@@ -42,7 +42,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/seriousManual/aoc2021/blob/master/day9/task.ts) by [seriousManual]
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day09.py) by [LaLisita] & [yogan]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day09.rs) by [MartinS]
-1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [githubler]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [Olli]
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
