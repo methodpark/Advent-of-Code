@@ -52,6 +52,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [Olli]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day09) by [eadoking]
 
+
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
 
 1. [Counting and mapping characters in Rust](https://github.com/migerh/aoc-2021/blob/master/src/day08/mod.rs) by [migerh]
@@ -73,6 +74,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_08/08_day.py) by [simonschmp]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day08/mod.rs) by [dnnr]
 1. [Python (part 1 only)](https://github.com/yogan/AoC2021/blob/main/day08.py) by [LaLisita] & [yogan]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/08.py) by [Olli]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
