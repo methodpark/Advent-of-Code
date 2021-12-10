@@ -148,6 +148,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day05_HydrothermalVenture_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_05/05_day.py) by [simonschmp]
 1. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day5.clj) by [scheibenkaes]
+2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day5.cs) by [daisylein-lost]
 
 
 ### [Day 4](https://adventofcode.com/2021/day/4) 🦑
