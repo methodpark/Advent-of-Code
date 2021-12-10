@@ -19,7 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 10](https://adventofcode.com/2021/day/10)
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day10.py) by [pelma24]
-
+2. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/10_dez/day_10.ts) by [JonKueb]
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
