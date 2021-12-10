@@ -25,6 +25,8 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day10/main.py) by [ohaz]
 1. [Rust - ([{<>}])](https://github.com/migerh/aoc-2021/blob/master/src/day10/mod.rs) by [migerh]
 1. [Rust - enums](https://github.com/meldron/aoc-2021/blob/main/day10/src/main.rs) by [bernd]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day10.dart) by [traveling-developer]
+
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
