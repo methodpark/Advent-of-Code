@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day10.dart) by [traveling-developer]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/10.py) by [Olli]
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day10.cs) by [daisylein-lost]
+3. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day10/day10.py) by [bismuts-werkeleien]
 
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
