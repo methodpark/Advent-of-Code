@@ -16,7 +16,7 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
-### [Day 10](https://adventofcode.com/2021/day/10)
+### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day10.py) by [pelma24]
 1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/10_dez/day_10.ts) by [JonKueb]
