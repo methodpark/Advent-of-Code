@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### [Day 11](https://adventofcode.com/2021/day/11) 🐙
+
+1. [Rust - Wiggling in loops](https://github.com/Gronner/aoc-2021/blob/master/src/day11/mod.rs) by [Gronner]
+
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day10.py) by [pelma24]
