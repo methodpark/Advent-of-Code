@@ -26,7 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p11.py) by [Jakob]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day11.dart) by [traveling-developer]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day11/mod.rs) by [yogan] & [dnnr]
-
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
