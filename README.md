@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Wiggling in loops](https://github.com/Gronner/aoc-2021/blob/master/src/day11/mod.rs) by [Gronner]
 1. [Rust - it's ugly but it's saturday, idc](https://github.com/migerh/aoc-2021/blob/master/src/day11/mod.rs) by [migerh]
+1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day11/main.py) by [ohaz]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
