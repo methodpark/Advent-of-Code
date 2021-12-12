@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day12/mod.rs) by [migerh]
 1. [Rust - 1 != 2](https://github.com/Gronner/aoc-2021/blob/master/src/day12/mod.rs) by [Gronner]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day12.dart) by [traveling-developer]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
