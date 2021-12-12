@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day12.cs) by [daisylein-lost]
 1. [Python  (only part 1)](https://github.com/githubler/aoc-2021/blob/main/12.py) by [Olli]
 42. [Rust - no recursion](https://github.com/meldron/aoc-2021/blob/main/day12/src/main.rs) by [bernd]
+1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day12/main.py) by [ohaz]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
