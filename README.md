@@ -28,15 +28,11 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day11/main.py) by [ohaz]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day11.cs) by [daisylein-lost]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/11.py) by [Olli]
-<<<<<<< HEAD
 1. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p11.py) by [Jakob]
-
-=======
 1. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p11.py) by [Jakob]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day11.dart) by [traveling-developer]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day11/mod.rs) by [yogan] & [dnnr]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
->>>>>>> 938ff9acc4d5be10cc5db98241df8c4b8731ca1c
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
