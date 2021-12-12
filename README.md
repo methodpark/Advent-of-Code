@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - 1 != 2](https://github.com/Gronner/aoc-2021/blob/master/src/day12/mod.rs) by [Gronner]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day12.dart) by [traveling-developer]
 
+
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
 1. [Rust - Wiggling in loops](https://github.com/Gronner/aoc-2021/blob/master/src/day11/mod.rs) by [Gronner]
@@ -30,10 +31,10 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day11.cs) by [daisylein-lost]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/11.py) by [Olli]
 1. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p11.py) by [Jakob]
-1. [Python, ugly](https://github.com/mp-jakob/aoc2021/blob/master/2021/p11.py) by [Jakob]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day11.dart) by [traveling-developer]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day11/mod.rs) by [yogan] & [dnnr]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
+
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
@@ -54,6 +55,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day10.py) by [dnnr] & [yogan]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/10) by [Tilltheman]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day10) by [eadoking]
+
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
 
