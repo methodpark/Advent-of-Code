@@ -23,7 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day12.dart) by [traveling-developer]
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day12.cs) by [daisylein-lost]
 1. [Python  (only part 1)](https://github.com/githubler/aoc-2021/blob/main/12.py) by [Olli]
-
+42. [Rust - no recursion](https://github.com/meldron/aoc-2021/blob/main/day12/src/main.rs) by [bernd]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
@@ -37,7 +37,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day11/mod.rs) by [yogan] & [dnnr]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/11/dayeleven.py) by [Tilltheman]
-
+42. [Rust - off by one](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
