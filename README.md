@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python  (only part 1)](https://github.com/githubler/aoc-2021/blob/main/12.py) by [Olli]
 1. [Rust - no recursion](https://github.com/meldron/aoc-2021/blob/main/day12/src/main.rs) by [bernd]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day12/main.py) by [ohaz]
+1. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p12.py) by [Jakob]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
