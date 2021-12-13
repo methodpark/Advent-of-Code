@@ -68,6 +68,7 @@ Only visible to members of the private leaderboard.
 1. [TypeSCript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/11_dez/day_11.ts) by [JonKueb]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_11/11_day.py) by [simonschmp]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day11.rs) by [MartinS]
+2. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day11) by [eadoking]
 
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
