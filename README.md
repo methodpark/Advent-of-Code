@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day13.dart) by [traveling-developer]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/13.py) by [Olli]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day13/mod.rs) by [dnnr]
+1. [Python (ASCII art <3)](https://github.com/yogan/AoC2021/blob/main/day13.py) by [yogan]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
