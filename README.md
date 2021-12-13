@@ -23,8 +23,8 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day13/mod.rs) by [Gronner]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day13/src/main.rs) by [bernd]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day13/main.py) by [ohaz]
-2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day13.cs) by [daisylein-lost]
-3. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day13/day13.py) by [bismuts-werkeleien]
+1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day13.cs) by [daisylein-lost]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day13/day13.py) by [bismuts-werkeleien]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
@@ -43,6 +43,8 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/12_dez/day_12_fast.ts) by [JonKueb]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day12.rs) by [MartinS]
 1. [Rust - reworked](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day12.rs) by [MartinS]
+1. [Python](https://github.com/yogan/AoC2021/blob/main/day12.py) by [yogan]
+
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
@@ -61,6 +63,7 @@ Only visible to members of the private leaderboard.
 1. [TypeSCript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/11_dez/day_11.ts) by [JonKueb]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_11/11_day.py) by [simonschmp]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day11.rs) by [MartinS]
+
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
