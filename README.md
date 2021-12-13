@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day13/mod.rs) by [migerh]
+1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day13/mod.rs) by [Gronner]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
