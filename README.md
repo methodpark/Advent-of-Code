@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day12/main.py) by [ohaz]
 1. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p12.py) by [Jakob]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day12/mod.rs) by [dnnr]
+1. [Rust - happily cloning all the stuff 😀](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day12_PassagePathing_Rust/src/main.rs) by [Jörg]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
