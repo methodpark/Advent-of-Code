@@ -38,6 +38,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day12/mod.rs) by [dnnr]
 1. [Rust - happily cloning all the stuff 😀](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day12_PassagePathing_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day12.py) by [pelma24]
+1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/12_dez/day_12_fast.ts) by [JonKueb]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
@@ -53,6 +54,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/11/dayeleven.py) by [Tilltheman]
 1. [Rust - off by one](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day11.py) by [pelma24]
+1. [TypeSCript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/11_dez/day_11.ts) by [JonKueb]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
