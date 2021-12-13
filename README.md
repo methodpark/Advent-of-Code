@@ -51,7 +51,8 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day11/mod.rs) by [yogan] & [dnnr]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/11/dayeleven.py) by [Tilltheman]
-42. [Rust - off by one](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
+1. [Rust - off by one](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day11.py) by [pelma24]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
