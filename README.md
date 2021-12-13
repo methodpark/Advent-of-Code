@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day13.cs) by [daisylein-lost]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day13/day13.py) by [bismuts-werkeleien]
 1. [Python](https://github.com/mp-jakob/aoc2021/blob/master/2021/p13.py) by [Jakob]
+1. [Rust - quite clean](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day13.rs) by [MartinS]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
