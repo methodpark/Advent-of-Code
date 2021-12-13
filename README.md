@@ -56,6 +56,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - off by one](https://github.com/meldron/aoc-2021/blob/main/day11/src/main.rs) by [bernd]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day11.py) by [pelma24]
 1. [TypeSCript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/11_dez/day_11.ts) by [JonKueb]
+1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_11/11_day.py) by [simonschmp]
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
 
@@ -76,6 +77,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day10.py) by [dnnr] & [yogan]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/10) by [Tilltheman]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day10) by [eadoking]
+1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_10/10_day.py) by [simonschmp]
 
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
@@ -96,6 +98,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day09.rs) by [MartinS]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [Olli]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day09) by [eadoking]
+1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_09/09_day.py) by [simonschmp]
 
 
 ### [Day 8](https://adventofcode.com/2021/day/8) 🔢
