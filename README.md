@@ -41,7 +41,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day12.py) by [pelma24]
 1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/12_dez/day_12_fast.ts) by [JonKueb]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day12.rs) by [MartinS]
-1. [Rust - reworked](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day13.rs) by [MartinS]
+1. [Rust - reworked](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day12.rs) by [MartinS]
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
 
