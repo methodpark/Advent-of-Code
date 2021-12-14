@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day14/main.py) by [ohaz]
 2. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day14/day14.py) by [bismuts-werkeleien]
 1. [Rust - histograms with itertools & custom helpers](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day14.rs) by [MartinS]
+1. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/14_dez/day_14.ts) by [JonKueb]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
@@ -41,6 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/13.py) by [Olli]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day13/mod.rs) by [dnnr]
 1. [Python (ASCII art <3)](https://github.com/yogan/AoC2021/blob/main/day13.py) by [yogan]
+1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/13_dez/day_13.ts) by [JonKueb]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
