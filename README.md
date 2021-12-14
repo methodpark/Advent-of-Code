@@ -16,6 +16,11 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
 
+### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
+
+1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day14/mod.rs) by [migerh]
+
+
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day13.py) by [pelma24]
