@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day14/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day14.py) by [pelma24]
+1. [Rust - pair_count != 1](https://github.com/Gronner/aoc-2021/blob/master/src/day14/mod.rs) by [Gronner]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
