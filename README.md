@@ -27,7 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Typescript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/14_dez/day_14.ts) by [JonKueb]
 1. [Python - functional != nice](https://github.com/mp-jakob/aoc2021/blob/master/2021/p14.py) by [Jakob]
 1. [C# - 3 not scaling and 1 scaling solution (I never want to talk about this again)](https://github.com/daisylein-lost/adventCode21/blob/main/day14.cs) by [daisylein-lost]
-1. [Python - "I can count to potato!"](https://github.com/yogan/AoC2021/blob/main/day13.py) by [yogan]
+1. [Python - "I can count to potato!"](https://github.com/yogan/AoC2021/blob/main/day14.py) by [yogan]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
