@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python - functional != nice](https://github.com/mp-jakob/aoc2021/blob/master/2021/p14.py) by [Jakob]
 1. [C# - 3 not scaling and 1 scaling solution (I never want to talk about this again)](https://github.com/daisylein-lost/adventCode21/blob/main/day14.cs) by [daisylein-lost]
 1. [Python - "I can count to potato!"](https://github.com/yogan/AoC2021/blob/main/day14.py) by [yogan]
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day14/src/main.rs) by [bernd]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
@@ -210,6 +211,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day6.cs) by [daisylein-lost]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day06_Lanternfish_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/06.py) by [Olli]
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day06/src/main.rs) by [bernd]
 
 
 ### [Day 5](https://adventofcode.com/2021/day/5) ☁
@@ -231,7 +233,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_05/05_day.py) by [simonschmp]
 1. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day5.clj) by [scheibenkaes]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day5.cs) by [daisylein-lost]
-
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day05/src/main.rs) by [bernd]
 
 ### [Day 4](https://adventofcode.com/2021/day/4) 🦑
 
@@ -253,6 +255,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day04_GiantSquid_Rust/src/main.rs) by [Jörg]
 1. [Clojure](https://github.com/scheibenkaes/aoc-2021/blob/master/src/aoc/day4.clj) by [scheibenkaes]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day4.cs) by [daisylein-lost]
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day04/src/main.rs) by [bernd]
 
 [eachrow]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachrow
 [eachcol]: https://docs.julialang.org/en/v1/base/arrays/#Base.eachcol
@@ -280,7 +283,7 @@ Only visible to members of the private leaderboard.
 1. [Python, functional](https://github.com/mp-jakob/aoc2021/blob/master/2021/p3.py) by [Jakob]
 1. [C++](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/03_Binary_Diagnostic/03_Binary_Diagnostic.cpp) by [HerrLederer]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day3.cs) by [daisylein-lost]
-
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day03/src/main.rs) by [bernd]
 
 ### [Day 2](https://adventofcode.com/2021/day/2) ⚓
 
@@ -305,7 +308,7 @@ Only visible to members of the private leaderboard.
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day02) by [eadoking]
 1. [C#](https://github.com/HerrLederer/HerrLederer/blob/main/AdventOfCode/02_Dive/Program.cs) by [HerrLederer]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day2.cs) by [daisylein-lost]
-
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day02/src/main.rs) by [bernd]
 
 ### [Day 1](https://adventofcode.com/2021/day/1) 🧝‍♂️
 
@@ -332,6 +335,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_01/01_day.py) by [simonschmp]
 1. [Python](https://github.com/Tilltheman/AdventOfCode/blob/main/01/dayone.py) by [Tilltheman]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day1.cs) by [daisylein-lost]
+1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day01/src/main.rs) by [bernd]
 
   
 [Gronner]: https://github.com/Gronner
