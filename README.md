@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - char as u64 != char.parse()](https://github.com/Gronner/aoc-2021/blob/master/src/day15/mod.rs) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day15/main.py) by [ohaz]
 2. [C# - used external algo for part 2](https://github.com/daisylein-lost/adventCode21/blob/main/day15.cs) by [daisylein-lost]
+1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day15.rs) (Visualizations: [Dijkstra](https://github.com/Finomnis/AdventOfCode2021/blob/main/visualizations/aoc2021_day15_task1_dijkstra.gif), [A*](https://github.com/Finomnis/AdventOfCode2021/blob/main/visualizations/aoc2021_day15_task1_astar.gif)) by [MartinS]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
