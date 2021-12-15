@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - part 2 algo too slow, do it the Python way and import solution](https://github.com/migerh/aoc-2021/blob/master/src/day15/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day15.py) by [pelma24]
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/15.jl) part 2 in super short again thanks to built-in matrix – by [CmdQ]
+1. [Rust - min priority_queue is weird in Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day15_Chiton_Rust/src/main.rs) by [Jörg]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
