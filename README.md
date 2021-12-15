@@ -14,9 +14,9 @@ Only visible to members of the private leaderboard.
 🌟 [By Stars](https://adventofcode.com/2021/leaderboard/private/view/979032?order=stars)
 
 
-## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) ⮓
+## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
-### [Day 15](https://adventofcode.com/2021/day/15)
+### [Day 15](https://adventofcode.com/2021/day/15) ⮓
 
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day15/src/main.rs) by [bernd]
 1. [Rust - part 2 algo too slow, do it the Python way and import solution](https://github.com/migerh/aoc-2021/blob/master/src/day15/mod.rs) by [migerh]
