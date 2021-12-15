@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day15/main.py) by [ohaz]
 2. [C# - used external algo for part 2](https://github.com/daisylein-lost/adventCode21/blob/main/day15.cs) by [daisylein-lost]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day15.rs) (Visualizations: [Dijkstra](https://github.com/Finomnis/AdventOfCode2021/blob/main/visualizations/aoc2021_day15_task1_dijkstra.gif), [A*](https://github.com/Finomnis/AdventOfCode2021/blob/main/visualizations/aoc2021_day15_task1_astar.gif)) by [MartinS]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day15.dart) by [traveling-developer]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
@@ -43,6 +44,7 @@ Only visible to members of the private leaderboard.
 1. [Python - "I can count to potato!"](https://github.com/yogan/AoC2021/blob/main/day14.py) by [yogan]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day14/src/main.rs) by [bernd]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day14/mod.rs) by [dnnr]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day14.dart) by [traveling-developer]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
