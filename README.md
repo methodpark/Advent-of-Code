@@ -14,7 +14,7 @@ Only visible to members of the private leaderboard.
 🌟 [By Stars](https://adventofcode.com/2021/leaderboard/private/view/979032?order=stars)
 
 
-## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021)
+## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) ⮓
 
 ### [Day 15](https://adventofcode.com/2021/day/15)
 
