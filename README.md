@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day15.dart) by [traveling-developer]
 1. [Python - part 1 only /w Dijkstra (too slow for part 2)](https://github.com/yogan/AoC2021/blob/main/day15.py) by [yogan]
 1. [Rust `curl https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | dnnr > mod.rs`](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day13/mod.rs) by [dnnr] .oO(was ist das für 1 wrap) 
+1. [Python - next(accumulate(..)) != reduce(..)](https://github.com/mp-jakob/aoc2021/blob/master/2021/p15.py) not knowing this can cost you 3 hours by [Jakob]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
