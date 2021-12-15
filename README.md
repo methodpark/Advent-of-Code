@@ -162,6 +162,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day08/mod.rs) by [dnnr]
 1. [Python (part 1 only)](https://github.com/yogan/AoC2021/blob/main/day08.py) by [LaLisita] & [yogan]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/08.py) by [Olli]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/08.jl) just mapping mental logic—fast by [CmdQ]
 
 
 ### [Day 7](https://adventofcode.com/2021/day/7) 🦀
