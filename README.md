@@ -96,6 +96,9 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_11/11_day.py) by [simonschmp]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day11.rs) by [MartinS]
 2. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day11) by [eadoking]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/11.jl) I love Julia's [CartesianIndices][]! by [CmdQ]
+
+[CartesianIndices]: https://docs.julialang.org/en/v1/manual/arrays/#Cartesian-indices
 
 
 ### [Day 10](https://adventofcode.com/2021/day/10) 📚
@@ -118,9 +121,6 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Tilltheman/AdventOfCode/tree/main/10) by [Tilltheman]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day10) by [eadoking]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_10/10_day.py) by [simonschmp]
-1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/11.jl) I love Julia's [CartesianIndices][]! by [CmdQ]
-
-[CartesianIndices]: https://docs.julialang.org/en/v1/manual/arrays/#Cartesian-indices
 
 
 ### [Day 9](https://adventofcode.com/2021/day/9) 🌋
@@ -142,7 +142,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/09.py) by [Olli]
 1. [C#, NUnit](https://github.com/eadoking/advent-of-code-2021/tree/master/Solutions/Day09) by [eadoking]
 1. [Python](https://github.com/simonschmp/AoC_2021/blob/main/day_09/09_day.py) by [simonschmp]
-1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/10.jl) with Disjoint-Set from [DataStructures.jl][DataStructures_jl] by [CmdQ]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/09.jl) with Disjoint-Set from [DataStructures.jl][DataStructures_jl] by [CmdQ]
 
 [DataStructures_jl]: https://juliacollections.github.io/DataStructures.jl/stable/
 
