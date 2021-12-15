@@ -57,6 +57,7 @@ Only visible to members of the private leaderboard.
 1. [Python (ASCII art <3)](https://github.com/yogan/AoC2021/blob/main/day13.py) by [yogan]
 1. [TypeScript](https://github.com/JonathanKuebler/advent-of-code/blob/master/2021/13_dez/day_13.ts) by [JonKueb]
 1. [Python, not complete, but decodable](https://github.com/Tilltheman/AdventOfCode/blob/main/13/daythirteen.py) by [Tilltheman]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/13.jl) quite simple thanks matrix – by [CmdQ]
 
 
 ### [Day 12](https://adventofcode.com/2021/day/12) ☈
