@@ -16,7 +16,7 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
-### [Day 16](https://adventofcode.com/2021/day/16)
+### [Day 16](https://adventofcode.com/2021/day/16) 💻
 
 1. [Rust - too much text to read so early](https://github.com/migerh/aoc-2021/blob/master/src/day16/mod.rs) by [migerh]
 1. [Python - Reading alone took 20 minutes](https://github.com/pelma24/AdventOfCode/blob/master/2021/day16.py) by [pelma24]
