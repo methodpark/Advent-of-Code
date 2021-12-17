@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 17](https://adventofcode.com/2021/day/17) 🚀 
 
 1. [Rust - guessing and a bit of luck](https://github.com/migerh/aoc-2021/blob/master/src/day17/mod.rs) by [migerh]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day17.py) by [pelma24]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
