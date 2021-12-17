@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day17.py) by [pelma24]
 1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day17/mod.rs) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day17/main.py) (use pypy, "run faster, jump higher") by [ohaz]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day17/day17.py) by [bismuts-werkeleien]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
@@ -49,6 +50,7 @@ Only visible to members of the private leaderboard.
 1. [Python - initially slow Dijkstra, boosted /w prio queue for part 2](https://github.com/yogan/AoC2021/blob/main/day15.py) by [yogan]
 1. [Rust `curl https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | dnnr > mod.rs`](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day15/mod.rs) by [dnnr] .oO(was ist das für 1 wrap) 
 1. [Python - next(accumulate(..)) != reduce(..)](https://github.com/mp-jakob/aoc2021/blob/master/2021/p15.py) not knowing this can cost you 3 hours by [Jakob]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day15/day15.py) by [bismuts-werkeleien]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
