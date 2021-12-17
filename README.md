@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - guessing and a bit of luck](https://github.com/migerh/aoc-2021/blob/master/src/day17/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day17.py) by [pelma24]
 1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day17/mod.rs) by [Gronner]
+1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day17/main.py) (use pypy, "run faster, jump higher") by [ohaz]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
