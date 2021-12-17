@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day17/mod.rs) by [Gronner]
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day17/main.py) (use pypy, "run faster, jump higher") by [ohaz]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day17/day17.py) by [bismuts-werkeleien]
+1. [Rust - recursive, short](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day17.rs) by [MartinS]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
@@ -33,6 +34,8 @@ Only visible to members of the private leaderboard.
 1. [Rust - It's a stack...](https://github.com/Gronner/aoc-2021/blob/master/src/day16/mod.rs) by [Gronner]
 1. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day16.cs) by [daisylein-lost]
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day16/src/main.rs) by [bernd]
+1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day16.rs) by [MartinS]
+1. [Rust - rewritten using the "nom" parser crate](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day16.rs) by [MartinS]
 
 
 ### [Day 15](https://adventofcode.com/2021/day/15) ⮓
