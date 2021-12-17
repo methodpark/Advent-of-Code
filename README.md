@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day17/day17.py) by [bismuts-werkeleien]
 1. [Rust - recursive, short](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day17.rs) by [MartinS]
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day17.cs) by [daisylein-lost]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day17.dart) by [traveling-developer]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
@@ -37,6 +38,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/meldron/aoc-2021/blob/main/day16/src/main.rs) by [bernd]
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day16.rs) by [MartinS]
 1. [Rust - rewritten using the "nom" parser crate](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day16.rs) by [MartinS]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day16.dart) by [traveling-developer]
 
 
 ### [Day 15](https://adventofcode.com/2021/day/15) ⮓
