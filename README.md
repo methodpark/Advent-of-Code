@@ -16,6 +16,11 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
+### [Day 17](https://adventofcode.com/2021/day/17) 🚀 
+
+1. [Rust - guessing and a bit of luck](https://github.com/migerh/aoc-2021/blob/master/src/day17/mod.rs) by [migerh]
+
+
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
 
 1. [Rust - too much text to read so early](https://github.com/migerh/aoc-2021/blob/master/src/day16/mod.rs) by [migerh]
