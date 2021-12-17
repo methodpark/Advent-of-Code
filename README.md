@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/ohaz/adventofcode2021/blob/main/solutions/day17/main.py) (use pypy, "run faster, jump higher") by [ohaz]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day17/day17.py) by [bismuts-werkeleien]
 1. [Rust - recursive, short](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day17.rs) by [MartinS]
+2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day17.cs) by [daisylein-lost]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
