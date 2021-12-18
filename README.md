@@ -64,6 +64,7 @@ Only visible to members of the private leaderboard.
 1. [Rust `curl https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | dnnr > mod.rs`](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day15/mod.rs) by [dnnr] .oO(was ist das für 1 wrap) 
 1. [Python - next(accumulate(..)) != reduce(..)](https://github.com/mp-jakob/aoc2021/blob/master/2021/p15.py) not knowing this can cost you 3 hours by [Jakob]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day15/day15.py) by [bismuts-werkeleien]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/15.py) by [Olli]
 
 
 ### [Day 14](https://adventofcode.com/2021/day/14) ⚗️
