@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
 
 1. [Rust - Itertools all powerful](https://github.com/Gronner/aoc-2021/blob/master/src/day19/mod.rs) by [Gronner]
+1. [Rust - error handling and optimization is left as an exercise for the reader](https://github.com/migerh/aoc-2021/blob/master/src/day19/mod.rs) by [migerh]
 
 
 ### [Day 18](https://adventofcode.com/2021/day/18) 🐌
