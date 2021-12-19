@@ -40,6 +40,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - recursive, short](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day17.rs) by [MartinS]
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day17.cs) by [daisylein-lost]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day17.dart) by [traveling-developer]
+1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day17/mod.rs) by [dnnr]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
