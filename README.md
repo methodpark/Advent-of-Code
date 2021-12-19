@@ -16,6 +16,11 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
+### [Day 19](https://adventofcode.com/2021/day/19) 🧭
+
+1. [Rust - Itertools all powerful](https://github.com/Gronner/aoc-2021/blob/master/src/day19/mod.rs) by [Gronner]
+
+
 ### [Day 18](https://adventofcode.com/2021/day/18) 🐌
 
 1. [JS has to do for now :( `Rust + recursive data structures + migerh = 💥`](https://github.com/migerh/aoc-2021/blob/master/src/day18/day18.mjs) by [migerh]
