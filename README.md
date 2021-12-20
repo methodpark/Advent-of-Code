@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day20.py) by [pelma24]
 1. [Rust - filter(|line| line != "") & .skip(2) = 💥](https://github.com/Gronner/aoc-2021/blob/master/src/day20/mod.rs) by [Gronner]
 1. [Rust - short, with ndarray and custom conv2d](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day20.rs) by [MartinS]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day20/day20.py) by [bismuts-werkeleien]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
