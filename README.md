@@ -16,7 +16,7 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
-### [Day 20](https://adventofcode.com/2021/day/20)
+### [Day 20](https://adventofcode.com/2021/day/20) 🔎
 
 1. [Rust - outside world is scary](https://github.com/migerh/aoc-2021/blob/master/src/day20/mod.rs) by [migerh]
 
