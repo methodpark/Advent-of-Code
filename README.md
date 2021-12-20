@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day20/day20.py) by [bismuts-werkeleien]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day20_TrenchMap_Rust/src/main.rs) by [Jörg]
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/20.jl) my first full iterator – by [CmdQ]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/20.py) by [Olli]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
@@ -69,7 +70,6 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day16.rs) by [MartinS]
 1. [Rust - rewritten using the "nom" parser crate](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day16.rs) by [MartinS]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day16.dart) by [traveling-developer]
-1. [Python](https://github.com/githubler/aoc-2021/blob/main/20.py) by [Olli]
 
 
 ### [Day 15](https://adventofcode.com/2021/day/15) ⮓
