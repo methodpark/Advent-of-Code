@@ -21,12 +21,14 @@ Only visible to members of the private leaderboard.
 1. [Rust - outside world is scary](https://github.com/migerh/aoc-2021/blob/master/src/day20/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day20.py) by [pelma24]
 1. [Rust - filter(|line| line != "") & .skip(2) = 💥](https://github.com/Gronner/aoc-2021/blob/master/src/day20/mod.rs) by [Gronner]
+1. [Rust - short, with ndarray and custom conv2d](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day20.rs) by [MartinS]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
 
 1. [Rust - Itertools all powerful](https://github.com/Gronner/aoc-2021/blob/master/src/day19/mod.rs) by [Gronner]
 1. [Rust - error handling and optimization is left as an exercise for the reader](https://github.com/migerh/aoc-2021/blob/master/src/day19/mod.rs) by [migerh]
+1. [Rust - 4ms fast, but the most horrible code I've written in a while. Based around the idea of creating unique hashes for beacons](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day19.rs) by [MartinS]
 
 
 ### [Day 18](https://adventofcode.com/2021/day/18) 🐌
@@ -35,6 +37,7 @@ Only visible to members of the private leaderboard.
 1. [Python - really ugly](https://github.com/pelma24/AdventOfCode/blob/master/2021/day18.py) by [pelma24]
 1. [Rust - "fun" with RefCells](https://github.com/migerh/aoc-2021/blob/master/src/day18/mod.rs) by [migerh]
 1. [Rust - Three tree implementations later](https://github.com/Gronner/aoc-2021/blob/master/src/day18/mod.rs) by [Gronner]
+1. [Rust - kinda proud of this one](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day18.rs) by [MartinS]
 
 
 ### [Day 17](https://adventofcode.com/2021/day/17) 🚀 
