@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - short, with ndarray and custom conv2d](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day20.rs) by [MartinS]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day20/day20.py) by [bismuts-werkeleien]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day20_TrenchMap_Rust/src/main.rs) by [Jörg]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/20.jl) my first full iterator – by [CmdQ]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
