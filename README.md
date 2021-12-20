@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Itertools all powerful](https://github.com/Gronner/aoc-2021/blob/master/src/day19/mod.rs) by [Gronner]
 1. [Rust - error handling and optimization is left as an exercise for the reader](https://github.com/migerh/aoc-2021/blob/master/src/day19/mod.rs) by [migerh]
 1. [Rust - 4ms fast, but the most horrible code I've written in a while. Based around the idea of creating unique hashes for beacons](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day19.rs) by [MartinS]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day19.py) by [pelma24]
 
 
 ### [Day 18](https://adventofcode.com/2021/day/18) 🐌
