@@ -39,6 +39,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - "fun" with RefCells](https://github.com/migerh/aoc-2021/blob/master/src/day18/mod.rs) by [migerh]
 1. [Rust - Three tree implementations later](https://github.com/Gronner/aoc-2021/blob/master/src/day18/mod.rs) by [Gronner]
 1. [Rust - kinda proud of this one](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day18.rs) by [MartinS]
+2. [C# - Regex all the way](https://github.com/daisylein-lost/adventCode21/blob/main/day18.cs) by [daisylein-lost]
 
 
 ### [Day 17](https://adventofcode.com/2021/day/17) 🚀 
