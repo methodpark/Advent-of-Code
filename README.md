@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - filter(|line| line != "") & .skip(2) = 💥](https://github.com/Gronner/aoc-2021/blob/master/src/day20/mod.rs) by [Gronner]
 1. [Rust - short, with ndarray and custom conv2d](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day20.rs) by [MartinS]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2021/blob/master/day20/day20.py) by [bismuts-werkeleien]
+1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day20_TrenchMap_Rust/src/main.rs) by [Jörg]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
