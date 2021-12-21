@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Counting from 1 to 10 is hard](https://github.com/Gronner/aoc-2021/blob/master/src/day21/mod.rs) by [Gronner]
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/21.jl) by [CmdQ]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day21.py) by [pelma24]
+1. [Rust - solve time 9ms](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day21.rs) by [MartinS]
 
 ### [Day 20](https://adventofcode.com/2021/day/20) 🔎
 
