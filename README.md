@@ -19,7 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 21](https://adventofcode.com/2121/day/21) 🎲
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day21/mod.rs) by [migerh]
-
+1. [Rust - Counting from 1 to 10 is hard](https://github.com/Gronner/aoc-2021/blob/master/src/day21/mod.rs) by [Gronner]
 
 ### [Day 20](https://adventofcode.com/2021/day/20) 🔎
 
