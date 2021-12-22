@@ -42,6 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day20_TrenchMap_Rust/src/main.rs) by [Jörg]
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/20.jl) my first full iterator – by [CmdQ]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/20.py) by [Olli]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day20.dart) by [traveling-developer]
 
 
 ### [Day 19](https://adventofcode.com/2021/day/19) 🧭
@@ -50,6 +51,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - error handling and optimization is left as an exercise for the reader](https://github.com/migerh/aoc-2021/blob/master/src/day19/mod.rs) by [migerh]
 1. [Rust - 4ms fast, but the most horrible code I've written in a while. Based around the idea of creating unique hashes for beacons](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day19.rs) by [MartinS]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day19.py) by [pelma24]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day19.dart) by [traveling-developer]
 
 
 ### [Day 18](https://adventofcode.com/2021/day/18) 🐌
