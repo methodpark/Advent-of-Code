@@ -16,6 +16,11 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
+### [Day 22](https://adventofcode.com/2121/day/22) 🧊
+
+1. [Rust - With Lego, paper and cutting corners](https://github.com/Gronner/aoc-2021/blob/master/src/day22/mod.rs) by [Gronner]
+
+
 ### [Day 21](https://adventofcode.com/2121/day/21) 🎲
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day21/mod.rs) by [migerh]
@@ -23,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/21.jl) by [CmdQ]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day21.py) by [pelma24]
 1. [Rust - solve time 9ms](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day21.rs) by [MartinS]
+
 
 ### [Day 20](https://adventofcode.com/2021/day/20) 🔎
 
