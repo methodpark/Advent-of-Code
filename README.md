@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 22](https://adventofcode.com/2121/day/22) 🧊
 
 1. [Rust - With Lego, paper and cutting corners](https://github.com/Gronner/aoc-2021/blob/master/src/day22/mod.rs) by [Gronner]
+1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day22/mod.rs) by [migerh]
 
 
 ### [Day 21](https://adventofcode.com/2121/day/21) 🎲
