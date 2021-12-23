@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Brain - and LibreOffice](https://github.com/Gronner/aoc-2021/blob/master/src/day23/day23.ods) by [Gronner]
 1. Solved with Pen & Paper by [migerh]
+1. [Excel for the win](https://github.com/pelma24/AdventOfCode/blob/master/2021/day23.xlsx) by [pelma24]
 
 ### [Day 22](https://adventofcode.com/2121/day/22) 🧊
 
