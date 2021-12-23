@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
+### [Day 23](https://adventofcode.com/2121/day/23) 🦐
+
+1. [Brain - and LibreOffice](https://github.com/Gronner/aoc-2021/blob/master/src/day23/day23.ods) by [Gronner]
+
 ### [Day 22](https://adventofcode.com/2121/day/22) 🧊
 
 1. [Rust - With Lego, paper and cutting corners](https://github.com/Gronner/aoc-2021/blob/master/src/day22/mod.rs) by [Gronner]
