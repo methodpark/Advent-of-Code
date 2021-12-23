@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 23](https://adventofcode.com/2121/day/23) 🦐
 
 1. [Brain - and LibreOffice](https://github.com/Gronner/aoc-2021/blob/master/src/day23/day23.ods) by [Gronner]
+1. Solved with Pen & Paper by [migerh]
 
 ### [Day 22](https://adventofcode.com/2121/day/22) 🧊
 
