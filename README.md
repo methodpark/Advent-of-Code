@@ -134,6 +134,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day14/mod.rs) by [dnnr]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day14.dart) by [traveling-developer]
 1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/14.jl) by [CmdQ]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/14.py) by [Olli]
 
 
 ### [Day 13](https://adventofcode.com/2021/day/13) 📂
