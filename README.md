@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 24](https://adventofcode.com/2021/day/24) 🔀
 
 1. [Rust - Even build a useless ALU](https://github.com/Gronner/aoc-2021/blob/master/src/day24/mod.rs) by [Gronner]
+1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day24/mod.rs) by [migerh]
 
 ### [Day 23](https://adventofcode.com/2021/day/23) 🦐
 
