@@ -16,24 +16,24 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
-### [Day 24](https://adventofcode.com/2121/day/24) 🔀
+### [Day 24](https://adventofcode.com/2021/day/24) 🔀
 
 1. [Rust - Even build a useless ALU](https://github.com/Gronner/aoc-2021/blob/master/src/day24/mod.rs) by [Gronner]
 
-### [Day 23](https://adventofcode.com/2121/day/23) 🦐
+### [Day 23](https://adventofcode.com/2021/day/23) 🦐
 
 1. [Brain - and LibreOffice](https://github.com/Gronner/aoc-2021/blob/master/src/day23/day23.ods) by [Gronner]
 1. [Spreadsheet](https://github.com/migerh/aoc-2021/blob/master/src/day23/aoc-2021-23.ods) by [migerh]
 1. [Excel for the win](https://github.com/pelma24/AdventOfCode/blob/master/2021/day23.xlsx) by [pelma24]
 
-### [Day 22](https://adventofcode.com/2121/day/22) 🧊
+### [Day 22](https://adventofcode.com/2021/day/22) 🧊
 
 1. [Rust - With Lego, paper and cutting corners](https://github.com/Gronner/aoc-2021/blob/master/src/day22/mod.rs) by [Gronner]
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day22/mod.rs) by [migerh]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day22.py) by [pelma24]
 
 
-### [Day 21](https://adventofcode.com/2121/day/21) 🎲
+### [Day 21](https://adventofcode.com/2021/day/21) 🎲
 
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day21/mod.rs) by [migerh]
 1. [Rust - Counting from 1 to 10 is hard](https://github.com/Gronner/aoc-2021/blob/master/src/day21/mod.rs) by [Gronner]
