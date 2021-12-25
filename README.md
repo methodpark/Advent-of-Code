@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2021](https://adventofcode.com/2021) 
 
+### [Day 25](https://adventofcode.com/2021/day/25)
+
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day25.py) by [pelma24]
+
 ### [Day 24](https://adventofcode.com/2021/day/24) 🔀
 
 1. [Rust - Even build a useless ALU](https://github.com/Gronner/aoc-2021/blob/master/src/day24/mod.rs) by [Gronner]
