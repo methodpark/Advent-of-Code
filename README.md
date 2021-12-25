@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2021/day25.py) by [pelma24]
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day25/mod.rs) by [migerh]
+1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day25/mod.rs) by [Gronner]
 
 ### [Day 24](https://adventofcode.com/2021/day/24) 🔀
 
