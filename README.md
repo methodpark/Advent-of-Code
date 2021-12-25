@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/migerh/aoc-2021/blob/master/src/day25/mod.rs) by [migerh]
 1. [Rust](https://github.com/Gronner/aoc-2021/blob/master/src/day25/mod.rs) by [Gronner]
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day25.py) by [yogan]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/25.py) by [Olli]
 
 
 ### [Day 24](https://adventofcode.com/2021/day/24) 🔀
