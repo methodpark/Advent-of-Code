@@ -55,6 +55,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - solve time 9ms](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day21.rs) by [MartinS]
 1. [Python powered by galaxy brain](https://github.com/yogan/AoC2021/blob/main/day21.py) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day21.dart) by [traveling-developer]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/21.py) by [Olli]
 
 
 ### [Day 20](https://adventofcode.com/2021/day/20) 🔎
@@ -100,6 +101,7 @@ Only visible to members of the private leaderboard.
 2. [C#](https://github.com/daisylein-lost/adventCode21/blob/main/day17.cs) by [daisylein-lost]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day17.dart) by [traveling-developer]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day17/mod.rs) by [dnnr]
+1. [Python](https://github.com/githubler/aoc-2021/blob/main/17.py) by [Olli]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
