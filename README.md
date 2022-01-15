@@ -195,6 +195,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day12.rs) by [MartinS]
 1. [Rust - reworked](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/reworked_solutions/day12.rs) by [MartinS]
 1. [Python](https://github.com/yogan/AoC2021/blob/main/day12.py) by [yogan]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/12.jl) quite boring indeed by [CmdQ]
 
 
 ### [Day 11](https://adventofcode.com/2021/day/11) 🐙
