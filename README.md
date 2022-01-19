@@ -89,7 +89,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Three tree implementations later](https://github.com/Gronner/aoc-2021/blob/master/src/day18/mod.rs) by [Gronner]
 1. [Rust - kinda proud of this one](https://github.com/Finomnis/AdventOfCode2021/blob/main/src/solutions/day18.rs) by [MartinS]
 2. [C# - Regex all the way](https://github.com/daisylein-lost/adventCode21/blob/main/day18.cs) by [daisylein-lost]
-
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/18.jl) Ooph! Tests desperately needed – by [CmdQ]
 
 ### [Day 17](https://adventofcode.com/2021/day/17) 🚀 
 
@@ -103,6 +103,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day17.dart) by [traveling-developer]
 1. [Rust](https://github.com/dnnr/advent-of-code-2021/blob/master/src/day17/mod.rs) by [dnnr]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/17.py) by [Olli]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/17.jl) nice and short – by [CmdQ]
 
 
 ### [Day 16](https://adventofcode.com/2021/day/16) 💻
@@ -118,6 +119,7 @@ Only visible to members of the private leaderboard.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2021/blob/main/lib/src/day16.dart) by [traveling-developer]
 1. [Rust - finally done](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2021/Day16_PacketDecoder_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/githubler/aoc-2021/blob/main/16.py) by [Olli]
+1. [Julia](https://github.com/CmdQ/AoC/blob/main/21/src/16.jl) by [CmdQ]
 
 
 ### [Day 15](https://adventofcode.com/2021/day/15) ⮓
