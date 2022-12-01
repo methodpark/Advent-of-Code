@@ -14,7 +14,6 @@ Only visible to members of the private leaderboard.
 ⌚ [By Score](https://adventofcode.com/2022/leaderboard/private/view/635843?order=local_score)
 🌟 [By Stars](https://adventofcode.com/2022/leaderboard/private/view/635843?order=stars)
 
-
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
