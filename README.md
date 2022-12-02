@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day2/mod.rs) by [Gronner]
+1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day02/day02.py) by [poschi3]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
