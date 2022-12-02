@@ -22,9 +22,10 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day02/day02.py) by [poschi3]
 1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/two/mod.rs) by [Tilltheman]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day02_RockPaperScissors_Rust/src/main.rs) by [Jörg]
-1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day2.py) by [pelma24] 
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day2.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_02/day02.py) by [bismut]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day02/day02.ts) by [smeky42]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day2/day2.cpp) by [beckenc]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
