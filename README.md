@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
+
+1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day2/mod.rs) by [Gronner]
+
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
 1. [Rust - here we go again](https://github.com/Gronner/aoc-2022/blob/main/src/day1/mod.rs) by [Gronner]
