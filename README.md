@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
 1. [Set in Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day3/mod.rs) by [Gronner]
+1. [HashSet in Rust - cloned()](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day03_RucksackReorganisation_Rust/src/main.rs) by [Jörg]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
