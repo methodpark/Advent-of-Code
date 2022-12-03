@@ -55,4 +55,4 @@ Only visible to members of the private leaderboard.
 [Jörg]: https://github.com/jgpr-code
 [Tilltheman]: https://github.com/Tilltheman
 [StefC]: https://github.com/mp-stefc
-[Tobias] https://github.com/TobiasGrossUL
+[Tobias]: https://github.com/TobiasGrossUL
