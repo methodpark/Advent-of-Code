@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [HashSet in Rust - cloned()](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day03_RucksackReorganisation_Rust/src/main.rs) by [Jörg]
 1. [Set in Rust](https://github.com/TobiasGrossUL/aoc2022/blob/day3/aoc03/src/main.rs) by [Tobias]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_03/day03.py) by [bismut]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day3) by [beckenc]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
@@ -32,7 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day2.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_02/day02.py) by [bismut]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day02/day02.ts) by [smeky42]
-1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day2/day2.cpp) by [beckenc]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day2) by [beckenc]
 1. [Libreoffice calc](https://github.com/mp-stefc/AdventOfCode2022/blob/main/02/input_and_calc.ods) by [StefC]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
@@ -42,7 +43,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day01/day01.ts) by [smeky42]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_01/day01.py) by [bismut]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day1.py) by [pelma24]
-1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day1/day1.cpp) by [beckenc]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day1) by [beckenc]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day01_CalorieCounting_Rust/src/main.rs) by [Jörg]
 1. [Also Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/one/mod.rs) by [Tilltheman]
 1. [Python](https://github.com/mp-stefc/AdventOfCode2022/blob/main/01/day1.py) by [StefC]
