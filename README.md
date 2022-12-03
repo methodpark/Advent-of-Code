@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Set in Rust](https://github.com/TobiasGrossUL/aoc2022/blob/day3/aoc03/src/main.rs) by [Tobias]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_03/day03.py) by [bismut]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day3) by [beckenc]
+1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day03/day03.ts) by [smeky42]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
