@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Getting to know lazy static every year](https://github.com/Gronner/aoc-2022/blob/main/src/day4/mod.rs) by [Gronner]
 1. [Set in Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc04/src/main.rs) by [Tobias]
+1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day04/day04.py) by [poschi3]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
