@@ -25,7 +25,6 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day04/day04.ts) by [smeky42]
 1. [Rust - lazy_static is already in my template 😁](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day04_CampCleanup_Rust/src/main.rs) by [Jörg]
 
-
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
 1. [Set in Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day3/mod.rs) by [Gronner]
@@ -37,7 +36,6 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day03/day03.py) by [poschi3]
 1. [Rust no HashSet ;-)](https://github.com/Tilltheman/AdventOfCode2022/tree/main/src/three) by [Tilltheman]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day3.py) by [pelma24]
-
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
