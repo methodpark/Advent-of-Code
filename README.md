@@ -22,6 +22,8 @@ Only visible to members of the private leaderboard.
 1. [Set in Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc04/src/main.rs) by [Tobias]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day04/day04.py) by [poschi3]
 1. [Rust (not very Rusty though)](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/four/mod.rs) by [Tilltheman]
+1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day04/day04.ts) by [smeky42]
+
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
