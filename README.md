@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day04/day04.py) by [poschi3]
 1. [Rust (not very Rusty though)](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/four/mod.rs) by [Tilltheman]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day04/day04.ts) by [smeky42]
+1. [Rust - lazy_static is already in my template 😁](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day04_CampCleanup_Rust/src/main.rs) by [Jörg]
 
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
