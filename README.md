@@ -70,6 +70,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day01_CalorieCounting_Rust/src/main.rs) by [Jörg]
 1. [Also Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/one/mod.rs) by [Tilltheman]
 1. [Python](https://github.com/mp-stefc/AdventOfCode2022/blob/main/01/day1.py) by [StefC]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day1/CaloryCounter.py) by [ThomasR]
 
 [Gronner]: https://github.com/Gronner
 [poschi3]: https://github.com/poschi3
@@ -81,3 +82,4 @@ Only visible to members of the private leaderboard.
 [Tilltheman]: https://github.com/Tilltheman
 [StefC]: https://github.com/mp-stefc
 [Tobias]: https://github.com/TobiasGrossUL
+[ThomasR]: https://github.com/Stomachion
