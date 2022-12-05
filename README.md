@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Pop, Push, Enumerate](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc05/src/main.rs) by [Tobias]
 1. [Python - the list is the new stack](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_05/day05.py) by [bismut]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day05_SupplyStacks_Rust/src/main.rs) by [Jörg]
+1. [Python - No time for parsing](https://github.com/pelma24/AdventOfCode/blob/master/2022/day5.py) by [pelma24]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
