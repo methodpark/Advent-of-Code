@@ -29,7 +29,7 @@ Only visible to members of the private leaderboard.
 1. [C++ - Regex](https://github.com/beckenc/adventofcode/blob/master/2022/src/day5) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day05/day05.py) by [poschi3]
-
+1. [Python - no stack parsing 😜 ](https://github.com/githubler/aoc-2022/blob/main/day05.py) by [Olli]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -45,6 +45,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day04.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day4/assignments.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day04.py) by [Olli]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -60,6 +61,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day03.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day3/rucksack.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day03.py) by [Olli]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
@@ -75,6 +77,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day02.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day2/RPStournament.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day02.py) by [Olli]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
@@ -104,3 +107,4 @@ Only visible to members of the private leaderboard.
 [ThomasR]: https://github.com/Stomachion
 [Lars]: https://github.com/lrh0815
 [Christian]: https://github.com/HoffmannChristian
+[Olli]: https://github.com/githubler
