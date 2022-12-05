@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day05.py) by [Lars]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day05/day05.ts) by [smeky42]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day5/crane.py) by [ThomasR]
+1. [C++ - Rexex](https://github.com/beckenc/adventofcode/blob/master/2022/src/day5) by [beckenc]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
