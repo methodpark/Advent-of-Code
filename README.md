@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day05_SupplyStacks_Rust/src/main.rs) by [Jörg]
 1. [Python - No time for parsing](https://github.com/pelma24/AdventOfCode/blob/master/2022/day5.py) by [pelma24]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day05.py) by [Lars]
+1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day05/day05.ts) by [smeky42]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
