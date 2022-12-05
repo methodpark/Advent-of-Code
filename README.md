@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
+
+1. [Rust - Pop and Push](https://github.com/Gronner/aoc-2022/blob/main/src/day5/mod.rs) by [Gronner]
+
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
 1. [Rust - Getting to know lazy static every year](https://github.com/Gronner/aoc-2022/blob/main/src/day4/mod.rs) by [Gronner]
