@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - more sets](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc06/src/main.rs) by [Tobias]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day06.py) by [Lars]
 1. [Python - no set](https://github.com/githubler/aoc-2022/blob/main/day06.py) by [Olli]
+1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day06/day06.py) by [poschi3]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
