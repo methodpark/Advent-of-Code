@@ -19,7 +19,8 @@ Only visible to members of the private leaderboard.
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
 1. [Rust - Is it really day 6?](https://github.com/Gronner/aoc-2022/blob/main/src/day6/mod.rs) by [Gronner]
-2. [Rust - difficulty = day - 5](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day06_TuningTrouble_Rust/src/main.rs) by [Jörg]
+1. [Rust - difficulty = day - 5](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day06_TuningTrouble_Rust/src/main.rs) by [Jörg]
+1. [Rust - more sets](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc06/src/main.rs) by [Tobias]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
