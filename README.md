@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
 1. [Rust - Is it really day 6?](https://github.com/Gronner/aoc-2022/blob/main/src/day6/mod.rs) by [Gronner]
+2. [Rust - difficulty = day - 5](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day06_TuningTrouble_Rust/src/main.rs) by [Jörg]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
@@ -33,7 +34,7 @@ Only visible to members of the private leaderboard.
 1. [C++ - Regex](https://github.com/beckenc/adventofcode/blob/master/2022/src/day5) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day05/day05.py) by [poschi3]
-1. [Python - no stack parsing 😜 ](https://github.com/githubler/aoc-2022/blob/main/day05.py) by [Olli]
+1. [Python - no stack parsing 😜](https://github.com/githubler/aoc-2022/blob/main/day05.py) by [Olli]
 1. [Rust - Pop, Push, Enumerate as well ;-)](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/five/mod.rs) by [Tilltheman]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
