@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode6/Program.cs) by [Jana]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day6/day6.cpp) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/six/mod.rs) by [Tilltheman]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
