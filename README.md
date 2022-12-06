@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day06/day06.py) by [poschi3]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day06/day06.ts) by [smeky42]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_06/day06.py) by [bismut]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day6.py) by [pelma24]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
