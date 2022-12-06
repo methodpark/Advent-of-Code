@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 6](https://adventofcode.com/2022/day/6) 📱
+
+1. [Rust - Is it really day 6?](https://github.com/Gronner/aoc-2022/blob/main/src/day6/mod.rs) by [Gronner]
+
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
 1. [Rust - Pop and Push](https://github.com/Gronner/aoc-2022/blob/main/src/day5/mod.rs) by [Gronner]
