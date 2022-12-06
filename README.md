@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day06/day06.ts) by [smeky42]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_06/day06.py) by [bismut]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day6.py) by [pelma24]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode6/Program.cs) by [Jana]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
@@ -43,6 +44,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day05/day05.py) by [poschi3]
 1. [Python - no stack parsing 😜](https://github.com/githubler/aoc-2022/blob/main/day05.py) by [Olli]
 1. [Rust - Pop, Push, Enumerate as well ;-)](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/five/mod.rs) by [Tilltheman]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode5/Program.cs) by [Jana]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -59,6 +61,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day4/assignments.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day04.py) by [Olli]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode4/Program.cs) by [Jana]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -75,6 +78,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day3/rucksack.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day03.py) by [Olli]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode3/Program.cs) by [Jana]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
@@ -91,6 +95,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day2/RPStournament.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day02.py) by [Olli]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode2/Program.cs) by [Jana]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
@@ -106,6 +111,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day1/CaloryCounter.py) by [ThomasR]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day01.py) by [Lars]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode1/Program.cs) by [Jana]
 
 [Gronner]: https://github.com/Gronner
 [poschi3]: https://github.com/poschi3
@@ -121,3 +127,4 @@ Only visible to members of the private leaderboard.
 [Lars]: https://github.com/lrh0815
 [Christian]: https://github.com/HoffmannChristian
 [Olli]: https://github.com/githubler
+[Jana]: https://github.com/jana-tuerlich
