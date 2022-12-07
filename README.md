@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - USE RC\<REFCELL\> AND WEAK\<REFCELL\>!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day07_NoSpaceLeftOnDevice_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day7.py) by [pelma24]
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day07/day07.ts) by [smeky42]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/07/cxx) by [gambels]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
@@ -149,3 +150,4 @@ Only visible to members of the private leaderboard.
 [Jana]: https://github.com/jana-tuerlich
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2022
 [Johannes]: https://github.com/JohannesSchilling
+[gambels]: https://github.com/gambels
