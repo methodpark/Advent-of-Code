@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
 1. [Rust - When memory was still a problem](https://github.com/Gronner/aoc-2022/blob/main/src/day7/mod.rs) by [Gronner]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_07/day07.py) by [bismut]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
