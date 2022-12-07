@@ -139,3 +139,4 @@ Only visible to members of the private leaderboard.
 [Christian]: https://github.com/HoffmannChristian
 [Olli]: https://github.com/githubler
 [Jana]: https://github.com/jana-tuerlich
+[mswf]: https://github.com/Duthlet/Advent-of-Code-2022
