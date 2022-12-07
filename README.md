@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/07/cxx) by [gambels]
 1. [C++ - kind of ugly](https://github.com/beckenc/adventofcode/blob/master/2022/src/day7/day7.cpp) by [beckenc]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day07.py) by [Lars]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day7/analyze_file_system.py) by [ThomasR]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
