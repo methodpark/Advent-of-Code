@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_07/day07.py) by [bismut]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_7/main.cpp) by [mswf]
 1. [Rust - USE RC\<REFCELL\> AND WEAK\<REFCELL\>!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day07_NoSpaceLeftOnDevice_Rust/src/main.rs) by [Jörg]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day7.py) by [pelma24]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
