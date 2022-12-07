@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 7](https://adventofcode.com/2022/day/7) 💽
+
+1. [Rust - When memory was still a problem](https://github.com/Gronner/aoc-2022/blob/main/src/day7/mod.rs) by [Gronner]
+
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
 1. [Rust - Is it really day 6?](https://github.com/Gronner/aoc-2022/blob/main/src/day6/mod.rs) by [Gronner]
