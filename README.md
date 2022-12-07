@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [C++ - kind of ugly](https://github.com/beckenc/adventofcode/blob/master/2022/src/day7/day7.cpp) by [beckenc]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day07.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day7/analyze_file_system.py) by [ThomasR]
+1. [Rust, really ugly, should not code until midnight -.-](https://github.com/Tilltheman/AdventOfCode2022/tree/main/src/seven) by [Tilltheman]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
