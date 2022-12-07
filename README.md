@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - When memory was still a problem](https://github.com/Gronner/aoc-2022/blob/main/src/day7/mod.rs) by [Gronner]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_07/day07.py) by [bismut]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_7/main.cpp) by [mswf]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
