@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day8/Treehouse.py) by [ThomasR]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day08/day08.py) by [poschi3]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day8/day8.hpp) by [beckenc]
+1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/eight/mod.rs) by [Tilltheman]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
