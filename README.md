@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day08.py) by [Lars]
 1. [Rust - slice, reverse](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc08/src/main.rs) by [Tobias]
 1. [Rust - Don't try looking through trees](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day08_TreetopTreeHouse_Rust/src/main.rs) by [Jörg]
+1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day08/day08.ts) by [smeky42]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
