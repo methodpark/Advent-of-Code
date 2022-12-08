@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
 1. [Rust - To look the right way you need to turn](https://github.com/Gronner/aoc-2022/blob/main/src/day8/mod.rs) by [Gronner]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day08.py) by [Lars]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
