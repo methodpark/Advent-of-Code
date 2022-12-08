@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day8.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_08/day08.py) by [bismut]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day08.py) by [Olli]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day8/Treehouse.py) by [ThomasR]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
