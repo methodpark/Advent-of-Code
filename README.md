@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/smeky42/adventOfCode2022/blob/master/day08/day08.ts) by [smeky42]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day8.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_08/day08.py) by [bismut]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day08.py) by [Olli]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
@@ -39,6 +40,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day07.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day7/analyze_file_system.py) by [ThomasR]
 1. [Rust, really ugly, should not code until midnight -.-](https://github.com/Tilltheman/AdventOfCode2022/tree/main/src/seven) by [Tilltheman]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day07.py) by [Olli]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
