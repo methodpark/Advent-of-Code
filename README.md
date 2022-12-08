@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - To look the right way you need to turn](https://github.com/Gronner/aoc-2022/blob/main/src/day8/mod.rs) by [Gronner]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day08.py) by [Lars]
 1. [Rust - slice, reverse](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc08/src/main.rs) by [Tobias]
+1. [Rust - Don't try looking through trees](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day08_TreetopTreeHouse_Rust/src/main.rs) by [Jörg]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
