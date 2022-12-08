@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day08/day08.py) by [poschi3]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day8/day8.hpp) by [beckenc]
 1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/eight/mod.rs) by [Tilltheman]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
@@ -46,6 +47,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, really ugly, should not code until midnight -.-](https://github.com/Tilltheman/AdventOfCode2022/tree/main/src/seven) by [Tilltheman]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day07.py) by [Olli]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day07/day07.py) by [poschi3]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
