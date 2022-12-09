@@ -28,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day9/BridgeSnake.py) by [ThomasR]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day9/day9.hpp) by [beckenc]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day09.py) by [Olli]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
