@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - We are doing infinite maps again?](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day09.py) by [Lars]
 1. [Rust - My code even looks like a rope](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day09_RopeBridge_Rust/src/main.rs) by [Jörg]
+1. [Rust - first time using impl](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc09/src/main.rs) by [Tobias]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
