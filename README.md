@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day [9]](https://adventofcode.com/2022/day/9) 🪢
+
+1. [Rust - We are doing infinite maps again?](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
+
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
 1. [Rust - To look the right way you need to turn](https://github.com/Gronner/aoc-2022/blob/main/src/day8/mod.rs) by [Gronner]
