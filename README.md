@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day10.py) by [pelma24]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day10.py) by [Olli]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day10/day10.py) by [poschi3]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day10/day10.hs) by [Johannes]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
@@ -41,6 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day09.py) by [Olli]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day09/day09.py) by [poschi3]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day9/day9.hs) by [Johannes]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
@@ -58,6 +60,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/eight/mod.rs) by [Tilltheman]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/08/cxx) by [gambels]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day8/day8.hs) by [Johannes]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
@@ -76,6 +79,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day07/day07.py) by [poschi3]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Rust - TRY NOT TO BUILD TREES IN RUST Oo](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc07/src/main.rs) [Tobias]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day7/day7.hs) by [Johannes]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
