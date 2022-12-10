@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Off by one errors still the hardest errors](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day10_CathodeRayTube_Rust/src/main.rs) by [Jörg]
 2. [Rust - Indeed](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
+3. [Rust - Who starts counting at 1?](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc10/src/main.rs) by [Tobias]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
