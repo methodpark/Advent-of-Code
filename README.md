@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day10.py) by [Olli]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day10/day10.py) by [poschi3]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day10/day10.hs) by [Johannes]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day10/ComputeSignal.py) by [ThomasR]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
