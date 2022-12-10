@@ -70,6 +70,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day07.py) by [Olli]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day07/day07.py) by [poschi3]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Rust - TRY NOT TO BUILD TREES IN RUST Oo](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc07/src/main.rs) [Tobias]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
