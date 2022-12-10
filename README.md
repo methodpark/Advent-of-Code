@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 10](https://adventofcode.com/2022/day/10) 🩻
+
+1. [Rust - Off by one errors still the hardest errors](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day10_CathodeRayTube_Rust/src/main.rs) by [Jörg]
+
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
 1. [Rust - We are doing infinite maps again?](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
