@@ -19,12 +19,13 @@ Only visible to members of the private leaderboard.
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
 1. [Rust - Is this cryptography? What secrets do the monkeys share?](https://github.com/Gronner/aoc-2022/blob/main/src/day11/mod.rs) by [Gronner]
+1. [Rust - TIL: hardcoded solution on input will not be correct on test!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day11_MonkeyInTheMiddle_Rust/src/main.rs) by [Jörg]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
 1. [Rust - Off by one errors still the hardest errors](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day10_CathodeRayTube_Rust/src/main.rs) by [Jörg]
-2. [Rust - Indeed](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
-3. [Rust - Who starts counting at 1?](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc10/src/main.rs) by [Tobias]
+1. [Rust - Indeed](https://github.com/Gronner/aoc-2022/blob/main/src/day9/mod.rs) by [Gronner]
+1. [Rust - Who starts counting at 1?](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc10/src/main.rs) by [Tobias]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day10.py) by [Lars]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_10/day10.py) by [bismut]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day10.py) by [pelma24]
