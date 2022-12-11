@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - TIL: hardcoded solution on input will not be correct on test!](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day11_MonkeyInTheMiddle_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day11.py) by [Lars]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_11/day11.py) by [bismut]
+1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day11/day11.py) by [poschi3]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
