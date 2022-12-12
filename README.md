@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_11/day11.py) by [bismut]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day11/day11.py) by [poschi3]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day11.py) by [pelma24]
+1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc11/src/main.rs) by [Tobias]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
