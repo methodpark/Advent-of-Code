@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_12/main.cpp) by [mswf]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day12.py) by [pelma24]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day12/ClimbUp.py) by [ThomasR]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_12/day12.py) by [bismut]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
