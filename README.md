@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Rather jump from cliffs then climb up -> ✔](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day12_HillClimbingAlgorithm_Rust/src/main.rs) by [Jörg]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_12/main.cpp) by [mswf]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day12.py) by [pelma24]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day12/ClimbUp.py) by [ThomasR]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
@@ -32,6 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day11/day11.py) by [poschi3]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day11.py) by [pelma24]
 1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc11/src/main.rs) by [Tobias]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day11/ComeBack.py) by [ThomasR]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
