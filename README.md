@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
+
+1. [Rust - The same is the same](https://github.com/Gronner/aoc-2022/blob/main/src/day12/mod.rs) by [Gronner]
+
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
 1. [Rust - Is this cryptography? What secrets do the monkeys share?](https://github.com/Gronner/aoc-2022/blob/main/src/day11/mod.rs) by [Gronner]
