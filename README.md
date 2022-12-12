@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day11.py) by [pelma24]
 1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc11/src/main.rs) by [Tobias]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day11/ComeBack.py) by [ThomasR]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
@@ -47,6 +48,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day10/day10.py) by [poschi3]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day10/day10.hs) by [Johannes]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day10/ComputeSignal.py) by [ThomasR]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
