@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
 1. [Rust - The same is the same](https://github.com/Gronner/aoc-2022/blob/main/src/day12/mod.rs) by [Gronner]
+1. [Rust - Rather jump from cliffs then climb up -> ✔](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day12_HillClimbingAlgorithm_Rust/src/main.rs) by [Jörg]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
