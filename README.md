@@ -35,6 +35,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day12.py) by [Olli]
 1. [Rust - Plan the adventure from the end](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc12/src/main.rs) by [Tobias]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day12.py) by [Lars]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day12/day12.cpp) by [beckenc]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
