@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day12/ClimbUp.py) by [ThomasR]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_12/day12.py) by [bismut]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day12.py) by [Olli]
+1. [Rust - Plan the adventure from the end](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc12/src/main.rs) by [Tobias]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
