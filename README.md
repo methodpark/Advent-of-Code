@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Compare](https://github.com/Gronner/aoc-2022/blob/main/src/day13/mod.rs) by [Gronner]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day13.py) by [Lars]
+1. [Rust - overload operator< in Rust -> type, type, ..🥵](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day13_DistressSignal_Rust/src/main.rs) by [Jörg]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
