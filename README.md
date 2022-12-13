@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc13/src/main.rs) by [Tobias]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day13.py) by [pelma24]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_13/main.cpp) by [mswf]
+1. [Parsing and Lists? Haskell let's gooo!](https://github.com/JohannesSchilling/aoc22/blob/main/day13/day13.hs) by [Johannes]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
