@@ -47,6 +47,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day11/ComeBack.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day11.py) by [Olli]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/11/cxx) by [gambels]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
