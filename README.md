@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - overload operator< in Rust -> type, type, ..🥵](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day13_DistressSignal_Rust/src/main.rs) by [Jörg]
 1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc13/src/main.rs) by [Tobias]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day13.py) by [pelma24]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_13/main.cpp) by [mswf]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
