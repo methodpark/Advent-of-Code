@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
 1. [Rust - You give coords, I get map](https://github.com/Gronner/aoc-2022/blob/main/src/day14/mod.rs) by [Gronner]
+1. [Rust - agree](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day14_RegolithReservoir_Rust/src/main.rs) by [Jörg]
 
 ### [Day 13](https://adventofcode.com/2022/day/13) 🗼
 
