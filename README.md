@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/TobiasGrossUL/aoc2022/blob/day14/aoc14/src/main.rs) by [Tobias]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day14.py) by [pelma24]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day14.py) by [Lars]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_14/day14.py) by [bismut]
 
 ### [Day 13](https://adventofcode.com/2022/day/13) 🗼
 
@@ -33,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day13.py) by [pelma24]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_13/main.cpp) by [mswf]
 1. [Parsing and Lists? Haskell let's gooo!](https://github.com/JohannesSchilling/aoc22/blob/main/day13/day13.hs) by [Johannes]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_13/day13.py) by [bismut]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
