@@ -60,6 +60,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day11.py) by [Olli]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/11/cxx) by [gambels]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day11) by [beckenc]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
