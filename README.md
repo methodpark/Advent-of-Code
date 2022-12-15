@@ -62,6 +62,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day12.py) by [Lars]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day12/day12.cpp) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/12/cxx) by [gambels]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
