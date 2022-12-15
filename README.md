@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Part2 exclusion zone = Part1](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day15_BeaconExclusionZone_Rust/src/main.rs) by [Jörg]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_15/main.cpp) by [mswf]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day15.py) by [pelma24]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_15/day15.py) by [bismut]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
