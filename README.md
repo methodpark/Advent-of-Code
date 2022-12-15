@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 15](https://adventofcode.com/2022/day/15) 🗽
+
+1. [Rust - doesn't panic on `as u32`, cost hundreds of minutes](https://github.com/Gronner/aoc-2022/blob/main/src/day15/mod.rs) by [Gronner]
+
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
 1. [Rust - You give coords, I get map](https://github.com/Gronner/aoc-2022/blob/main/src/day14/mod.rs) by [Gronner]
