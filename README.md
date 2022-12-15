@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - doesn't panic on `as u32`, cost hundreds of minutes](https://github.com/Gronner/aoc-2022/blob/main/src/day15/mod.rs) by [Gronner]
 1. [Rust - Part2 exclusion zone = Part1](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day15_BeaconExclusionZone_Rust/src/main.rs) by [Jörg]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_15/main.cpp) by [mswf]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
