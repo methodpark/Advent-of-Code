@@ -25,6 +25,9 @@ Only visible to members of the private leaderboard.
 1. [Rust - doesn't panic on `as u32`, cost hundreds of minutes](https://github.com/Gronner/aoc-2022/blob/main/src/day15/mod.rs) by [Gronner]
 1. [Rust - Part2 exclusion zone = Part1](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day15_BeaconExclusionZone_Rust/src/main.rs) by [Jörg]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_15/main.cpp) by [mswf]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day15.py) by [pelma24]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_15/day15.py) by [bismut]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day15.py) by [Lars]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
@@ -48,6 +51,8 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_13/day13.py) by [bismut]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day13.py) by [Olli]
 1. [Python - Better late than never](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day13/DistressSignal.py) by [ThomasR]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/13/cxx) by [gambels]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
@@ -61,6 +66,8 @@ Only visible to members of the private leaderboard.
 1. [Rust - Plan the adventure from the end](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc12/src/main.rs) by [Tobias]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day12.py) by [Lars]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day12/day12.cpp) by [beckenc]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/12/cxx) by [gambels]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
