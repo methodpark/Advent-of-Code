@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 16](https://adventofcode.com/2022/day/16) 🐘
+
+1. [Rust - clone away all my problems](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day16_ProboscideaVolcanium_Rust/src/main.rs) by [Jörg]
+
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
 1. [Rust - doesn't panic on `as u32`, cost hundreds of minutes](https://github.com/Gronner/aoc-2022/blob/main/src/day15/mod.rs) by [Gronner]
