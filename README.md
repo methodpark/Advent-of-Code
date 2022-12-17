@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - clone away all my problems](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day16_ProboscideaVolcanium_Rust/src/main.rs) by [Jörg]
 1. [Python - is it sunday already? Memoization in Rust is harder](https://github.com/Gronner/aoc-2022/blob/main/src/day16/solve.py)
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_16/main.cpp) by [mswf]
+1. [Rust - Now 40s faster!](https://github.com/Gronner/aoc-2022/blob/main/src/day16/mod.rs) by [Gronner]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
