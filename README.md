@@ -18,7 +18,7 @@ Only visible to members of the private leaderboard.
 
 ### [Day 18](https://adventofcode.com/2022/day/18) ♨
 
-1. [Rust - to many x, y, z](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day18_BoilingBoulders_Rust/src/main.rs) by [Jörg]
+1. [Rust - too many x, y, z](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day18_BoilingBoulders_Rust/src/main.rs) by [Jörg]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
