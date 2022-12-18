@@ -20,10 +20,11 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - too many x, y, z](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day18_BoilingBoulders_Rust/src/main.rs) by [Jörg]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_18/main.cpp) by [mswf]
+1. [Rust - Not in range means not!](https://github.com/Gronner/aoc-2022/blob/main/src/day18/mod.rs) by [Gronner]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
-1. [Rust - Falling rocks are not dangerous, off by ones are!](https://github.com/Gronner/aoc-2022/blob/main/src/day16/mod.rs) by [Gronner]
+1. [Rust - Falling rocks are not dangerous, off by ones are!](https://github.com/Gronner/aoc-2022/blob/main/src/day17/mod.rs) by [Gronner]
 1. [C++ - a lot of global state](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_17/main.cpp) by [mswf]
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🐘
