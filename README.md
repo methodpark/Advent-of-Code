@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day18.py) by [Olli]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day18.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_18/day18.py) by [bismut]
+1. [Finally some Haskell again](https://github.com/JohannesSchilling/aoc22/blob/main/day18/day18.hs) by [Johannes]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
