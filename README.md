@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_18/main.cpp) by [mswf]
 1. [Rust - Not in range means not!](https://github.com/Gronner/aoc-2022/blob/main/src/day18/mod.rs) by [Gronner]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day18.py) by [Lars]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day18.py) by [Olli]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
