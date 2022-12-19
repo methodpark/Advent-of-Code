@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 19](https://adventofcode.com/2022/day/18) ⛰
+
+1. [Rust - Is this for RTS?](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day19_NotEnoughMinerals_Rust/src/main.rs) by [Jörg]
+
 ### [Day 18](https://adventofcode.com/2022/day/18) ♨
 
 1. [Rust - too many x, y, z](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day18_BoilingBoulders_Rust/src/main.rs) by [Jörg]
