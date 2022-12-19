@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 19](https://adventofcode.com/2022/day/18) ⛰
 
 1. [Rust - Is this for RTS?](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day19_NotEnoughMinerals_Rust/src/main.rs) by [Jörg]
+1. [C++ - Don't forget to turn on opimization](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_19/part1.cpp) by [mswf]
 
 ### [Day 18](https://adventofcode.com/2022/day/18) ♨
 
