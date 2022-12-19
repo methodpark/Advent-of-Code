@@ -38,6 +38,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Falling rocks are not dangerous, off by ones are!](https://github.com/Gronner/aoc-2022/blob/main/src/day17/mod.rs) by [Gronner]
 1. [C++ - a lot of global state](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_17/main.cpp) by [mswf]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day17.py) by [Lars]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day17.py) by [pelma24]
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🐘
 
