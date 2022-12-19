@@ -46,6 +46,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_16/main.cpp) by [mswf]
 1. [Rust - Now 40s faster!](https://github.com/Gronner/aoc-2022/blob/main/src/day16/mod.rs) by [Gronner]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_16/day16.py) by [bismut]
+1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day16/Volcano.py) by [ThomasR]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
