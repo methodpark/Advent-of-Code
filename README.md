@@ -73,6 +73,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_14/day14.py) by [bismut]
 1. [slowly approaching 100 LoC per day in Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day14/day14.hs) by [Johannes]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/14/cxx) by [gambels]
+1. [C++ - Spacesship and Maps](https://github.com/beckenc/adventofcode/blob/master/2022/src/day14) by [beckenc]
 
 ### [Day 13](https://adventofcode.com/2022/day/13) 🗼
 
