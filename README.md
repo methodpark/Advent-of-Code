@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day20.py) by [Lars]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day20_GrovePositioningSystem_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_20/day20.py) by [bismut]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day20.py) by [pelma24]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) ⛰
 
