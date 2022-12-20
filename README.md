@@ -18,6 +18,8 @@ Only visible to members of the private leaderboard.
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day20.py) by [Lars]
+
 ### [Day 19](https://adventofcode.com/2022/day/19) ⛰
 
 1. [Rust - Is this for RTS?](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day19_NotEnoughMinerals_Rust/src/main.rs) by [Jörg]
