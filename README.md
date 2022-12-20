@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day20.py) by [Lars]
+1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day20_GrovePositioningSystem_Rust/src/main.rs) by [Jörg]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) ⛰
 
