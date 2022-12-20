@@ -23,7 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_20/day20.py) by [bismut]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day20.py) by [pelma24]
 
-### [Day 19](https://adventofcode.com/2022/day/19) ⛰
+### [Day 19](https://adventofcode.com/2022/day/19) 💎
 
 1. [Rust - Is this for RTS?](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day19_NotEnoughMinerals_Rust/src/main.rs) by [Jörg]
 1. [C++ - Don't forget to turn on opimization](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_19/part1.cpp) by [mswf]
@@ -49,12 +49,12 @@ Only visible to members of the private leaderboard.
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🐘
 
-1. [Rust - clone away all my problems](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day16_ProboscideaVolcanium_Rust/src/main.rs) by [Jörg]
-1. [Python - is it sunday already? Memoization in Rust is harder](https://github.com/Gronner/aoc-2022/blob/main/src/day16/solve.py)
-1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_16/main.cpp) by [mswf]
-1. [Rust - Now 40s faster!](https://github.com/Gronner/aoc-2022/blob/main/src/day16/mod.rs) by [Gronner]
-1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_16/day16.py) by [bismut]
-1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day16/Volcano.py) by [ThomasR]
+1. [Rust - 27min; very slow, but feasible](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day16_ProboscideaVolcanium_Rust/src/main.rs) by [Jörg]
+2. [Python - is it sunday already? Memoization in Rust is harder](https://github.com/Gronner/aoc-2022/blob/main/src/day16/solve.py)
+3. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_16/main.cpp) by [mswf]
+4. [Rust - Now 40s faster!](https://github.com/Gronner/aoc-2022/blob/main/src/day16/mod.rs) by [Gronner]
+5. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_16/day16.py) by [bismut]
+6. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day16/Volcano.py) by [ThomasR]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
