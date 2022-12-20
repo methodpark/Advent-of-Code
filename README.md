@@ -65,6 +65,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_15/day15.py) by [bismut]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day15.py) by [Lars]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day15/Beaconsearch.py) by [ThomasR]
+1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/15/cxx) by [gambels]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
