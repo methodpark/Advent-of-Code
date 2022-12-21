@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Monkeys don't listen to humn](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day21_MonkeyMath_Rust/src/main.rs) by [Jörg]
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day21/mod.rs) by [Gronner]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_21/day21.py) by [bismut]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day21.py) by [Lars]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
@@ -38,6 +39,7 @@ Only visible to members of the private leaderboard.
 1. [C++ - Don't forget to turn on opimization](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_19/part1.cpp) by [mswf]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_19/day19.py) by [bismut]
 1. [Rust - Pruning is important](https://github.com/Gronner/aoc-2022/blob/main/src/day19/mod.rs) by [Gronner]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day19.py) by [Lars]
 
 ### [Day 18](https://adventofcode.com/2022/day/18) ♨
 
