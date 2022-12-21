@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day21.py) by [pelma24]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day21/DecodeMonkeys2.py) by [ThomasR]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day21.py) by [Olli]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day21/day21.hs) by [Johannes]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
@@ -36,6 +37,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day20/DecodeCoordinates.py) by [ThomasR]
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day20/mod.rs) by [Gronner]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day20.py) by [Olli]
+1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day20/day20.hs) by [Johannes]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) 💎
 
