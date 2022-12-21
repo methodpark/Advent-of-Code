@@ -32,6 +32,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_20/main.cpp) by [mswf]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day20/DecodeCoordinates.py) by [ThomasR]
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day20/mod.rs) by [Gronner]
+1. [Python](https://github.com/githubler/aoc-2022/blob/main/day20.py) by [Olli]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) 💎
 
