@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Monkeys don't listen to humn](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day21_MonkeyMath_Rust/src/main.rs) by [Jörg]
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day21/mod.rs) by [Gronner]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_21/day21.py) by [bismut]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
