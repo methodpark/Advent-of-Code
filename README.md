@@ -257,6 +257,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day04.py) by [Olli]
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode4/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day4/day4.hs) by [Johannes]
+1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/fourth.cxx) by [Sophie]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -275,6 +276,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day03.py) by [Olli]
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode3/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day3/day3.hs) by [Johannes]
+1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/third.cxx) by [Sophie]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
@@ -293,6 +295,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day02.py) by [Olli]
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode2/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day2/day2.hs) by [Johannes]
+1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/second.cxx) by [Sophie]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
@@ -310,6 +313,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode1/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day1/day1.hs) by [Johannes]
+1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/first.cxx) by [Sophie]
 
 [Gronner]: https://github.com/Gronner
 [poschi3]: https://github.com/poschi3
@@ -329,3 +333,4 @@ Only visible to members of the private leaderboard.
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2022
 [Johannes]: https://github.com/JohannesSchilling
 [gambels]: https://github.com/gambels
+[Sophie]: https://github.com/SophieWenzel-Teuber
