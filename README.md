@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day21/DecodeMonkeys2.py) by [ThomasR]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day21.py) by [Olli]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day21/day21.hs) by [Johannes]
+1. [C++ - Recursive functional. Better use 64bit types for AoC :/](https://github.com/beckenc/adventofcode/blob/master/2022/src/day21) by [beckenc]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
