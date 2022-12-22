@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 22](https://adventofcode.com/2022/day/22) 🧊
 
 1. [Rust - Today's emoji symbolizes my melting sanity](https://github.com/Gronner/aoc-2022/blob/main/src/day22/mod.rs) by [Gronner]
+1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day22_MonkeyMap_Rust/src/main.rs) by [Jörg]
 
 ### [Day 21](https://adventofcode.com/2022/day/21) 🔢🦧
 
