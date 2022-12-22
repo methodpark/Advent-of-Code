@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 22](https://adventofcode.com/2022/day/22) 🧊
+
+1. [Rust - Today's emoji symbolizes my melting sanity](https://github.com/Gronner/aoc-2022/blob/main/src/day22/mod.rs) by [Gronner]
+
 ### [Day 21](https://adventofcode.com/2022/day/21) 🔢🦧
 
 1. [Rust - Monkeys don't listen to humn](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day21_MonkeyMath_Rust/src/main.rs) by [Jörg]
