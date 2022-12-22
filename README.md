@@ -45,6 +45,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Gronner/aoc-2022/blob/main/src/day20/mod.rs) by [Gronner]
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day20.py) by [Olli]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day20/day20.hs) by [Johannes]
+1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day20/day20.cpp) by [beckenc]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) 💎
 
