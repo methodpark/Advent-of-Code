@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Sometimes early is hard](https://github.com/Gronner/aoc-2022/blob/main/src/day23/mod.rs) by [Gronner]
 1. [A good day for Haskell λλ](https://github.com/JohannesSchilling/aoc22/blob/main/day23/day23.hs) by [Johannes]
 1. [Rust - I wish Christmas markets apply this algorithm😉](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day23_UnstableDiffusion_Rust/src/main.rs) by [Jörg]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_23/day23.py) by [bismut]
 
 ### [Day 22](https://adventofcode.com/2022/day/22) 🧊
 
