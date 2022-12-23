@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day22_MonkeyMap_Rust/src/main.rs) by [Jörg]
 1. [Python - hardcoded edges for part 2 (won't fx) and generally ugly (might clean up)](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_22/day22.py) by [bismut]
 1. [Haskell (part 1 only, even though Haskell is usually good with folds)](https://github.com/JohannesSchilling/aoc22/blob/main/day22/day22.hs) by [Johannes]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day22.py) by [Lars]
 
 ### [Day 21](https://adventofcode.com/2022/day/21) 🔢🦧
 
