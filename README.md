@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Why can't they get their snacks on their own?](https://github.com/Gronner/aoc-2022/blob/main/src/day24/mod.rs) by [Gronner]
 1. [Python - Yummy, star fruit with freezer burn](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_24/day24.py) by [bismut]
+1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day24_BlizzardBasin_Rust/src/main.rs) by [Jörg]
 
 ### [Day 23](https://adventofcode.com/2022/day/23) 🌱
 
