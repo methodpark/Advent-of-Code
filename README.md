@@ -79,6 +79,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day18.py) by [pelma24]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_18/day18.py) by [bismut]
 1. [Finally some Haskell again](https://github.com/JohannesSchilling/aoc22/blob/main/day18/day18.hs) by [Johannes]
+1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_18/2022_18.cpp) by arnr
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
@@ -109,6 +110,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/15/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day15) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [C++ - brute force, but skip over xrange of sensor](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_15/2022_15.cpp) by arnr
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
@@ -138,6 +140,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/13/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day13) by [beckenc]
+1. [C++ - weird string comparison...](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_13/2022_13.cpp) by arnr
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
@@ -168,6 +171,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day11.py) by [Olli]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/11/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day11) by [beckenc]
+1. [C++ - keeping track of modulo only, way too complex](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_11/2022_11.cpp) by arnr
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
@@ -218,6 +222,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/08/cxx) by [gambels]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day8/day8.hs) by [Johannes]
+1. [C++ - iterators + count_until](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_08/2022_08.cpp) by arnr
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
@@ -273,6 +278,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Pop, Push, Enumerate as well ;-)](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/five/mod.rs) by [Tilltheman]
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode5/Program.cs) by [Jana]
 1. [Haskell -- stack parsing by transposing](https://github.com/JohannesSchilling/aoc22/blob/main/day5/day5.hs) by [Johannes]
+1. [C++ - mover 9001 using temporary stack](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_05/2022_05.cpp) by arnr
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -292,6 +298,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode4/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day4/day4.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/fourth.cxx) by [Sophie]
+1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_04/2022_04.cpp) by arnr
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -330,6 +337,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode2/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day2/day2.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/second.cxx) by [Sophie]
+1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_02/2022_02.cpp) by arnr
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
