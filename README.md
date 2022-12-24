@@ -16,6 +16,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 24](https://adventofcode.com/2022/day/24) 🌨️
+
+1. [Rust - Why can't they get their snacks on their own?](https://github.com/Gronner/aoc-2022/blob/main/src/day24/mod.rs) by [Gronner]
+
 ### [Day 23](https://adventofcode.com/2022/day/23) 🌱
 
 1. [Rust - Sometimes early is hard](https://github.com/Gronner/aoc-2022/blob/main/src/day23/mod.rs) by [Gronner]
