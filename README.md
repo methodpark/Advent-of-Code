@@ -19,6 +19,7 @@ Only visible to members of the private leaderboard.
 ### [Day 25](https://adventofcode.com/2022/day/25) 🎈
 
 1. [Rust - Same procedure as every year, James](https://github.com/Gronner/aoc-2022/blob/main/src/day25/mod.rs) by [Gronner]
+1. [Rust - 50⭐ = ✅](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day25_FullOfHotAir_Rust/src/main.rs) by [Jörg]
 
 ### [Day 24](https://adventofcode.com/2022/day/24) 🌨️
 
