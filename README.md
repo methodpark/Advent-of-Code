@@ -21,12 +21,14 @@ Only visible to members of the private leaderboard.
 1. [Rust - Same procedure as every year, James](https://github.com/Gronner/aoc-2022/blob/main/src/day25/mod.rs) by [Gronner]
 1. [Rust - 50⭐ = ✅](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day25_FullOfHotAir_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_25/day25.py) by [bismut]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day25.py) by [Lars]
 
 ### [Day 24](https://adventofcode.com/2022/day/24) 🌨️
 
 1. [Rust - Why can't they get their snacks on their own?](https://github.com/Gronner/aoc-2022/blob/main/src/day24/mod.rs) by [Gronner]
 1. [Python - Yummy, star fruit with freezer burn](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_24/day24.py) by [bismut]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day24_BlizzardBasin_Rust/src/main.rs) by [Jörg]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day24.py) by [Lars]
 
 ### [Day 23](https://adventofcode.com/2022/day/23) 🌱
 
