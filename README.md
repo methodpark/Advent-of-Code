@@ -97,6 +97,7 @@ Only visible to members of the private leaderboard.
 1. [C++ - a lot of global state](https://github.com/Duthlet/Advent-of-Code-2022/blob/master/day_17/main.cpp) by [mswf]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day17.py) by [Lars]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day17.py) by [pelma24]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🐘
 
