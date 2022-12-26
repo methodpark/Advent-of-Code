@@ -108,6 +108,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_16/day16.py) by [bismut]
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day16/Volcano.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day16.py) by [Lars]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
