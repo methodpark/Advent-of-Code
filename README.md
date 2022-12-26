@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - 50⭐ = ✅](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day25_FullOfHotAir_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_25/day25.py) by [bismut]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day25.py) by [Lars]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day25/mod.rs) by [Stefan]
 
 ### [Day 24](https://adventofcode.com/2022/day/24) 🌨️
 
@@ -29,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Python - Yummy, star fruit with freezer burn](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_24/day24.py) by [bismut]
 1. [Rust](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day24_BlizzardBasin_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day24.py) by [Lars]
+1. [Rust - all possible paths again but runtime < 1min](https://github.com/stefan0815/aoc_2022/blob/master/src/day24/mod.rs) by [Stefan]
 
 ### [Day 23](https://adventofcode.com/2022/day/23) 🌱
 
@@ -37,6 +39,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - I wish Christmas markets apply this algorithm😉](https://github.com/jgpr-code/AdventOfCode/blob/main/AoC_2022/Day23_UnstableDiffusion_Rust/src/main.rs) by [Jörg]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_23/day23.py) by [bismut]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day23.py) by [Lars]
+1. [Rust - HashSets and HashMaps](https://github.com/stefan0815/aoc_2022/blob/master/src/day23/mod.rs) by [Stefan]
 
 ### [Day 22](https://adventofcode.com/2022/day/22) 🧊
 
@@ -45,6 +48,7 @@ Only visible to members of the private leaderboard.
 1. [Python - hardcoded edges for part 2 (won't fx) and generally ugly (might clean up)](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_22/day22.py) by [bismut]
 1. [Haskell (part 1 only, even though Haskell is usually good with folds)](https://github.com/JohannesSchilling/aoc22/blob/main/day22/day22.hs) by [Johannes]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day22.py) by [Lars]
+1. [Rust - Hardcoded cube + physical cube for keeping my sanity](https://github.com/stefan0815/aoc_2022/blob/master/src/day22/mod.rs) by [Stefan]
 
 ### [Day 21](https://adventofcode.com/2022/day/21) 🔢🦧
 
@@ -57,6 +61,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day21.py) by [Olli]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day21/day21.hs) by [Johannes]
 1. [C++ - Recursive functional. Better use 64bit types for AoC :/](https://github.com/beckenc/adventofcode/blob/master/2022/src/day21) by [beckenc]
+1. [Rust - weird "binary" search between [i64::MIN , i64::MAX]](https://github.com/stefan0815/aoc_2022/blob/master/src/day21/mod.rs) by [Stefan]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 📡
 
@@ -70,6 +75,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/githubler/aoc-2022/blob/main/day20.py) by [Olli]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day20/day20.hs) by [Johannes]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day20/day20.cpp) by [beckenc]
+1. [Rust - using .position(...) for 2 hours until I recognized there are duplicated items...](https://github.com/stefan0815/aoc_2022/blob/master/src/day20/mod.rs) by [Stefan]
 
 ### [Day 19](https://adventofcode.com/2022/day/19) 💎
 
@@ -78,6 +84,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_19/day19.py) by [bismut]
 1. [Rust - Pruning is important](https://github.com/Gronner/aoc-2022/blob/main/src/day19/mod.rs) by [Gronner]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day19.py) by [Lars]
+1. [Rust - Looks just like my Screeps code](https://github.com/stefan0815/aoc_2022/blob/master/src/day19/mod.rs) by [Stefan]
 
 ### [Day 18](https://adventofcode.com/2022/day/18) ♨
 
@@ -90,6 +97,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_18/day18.py) by [bismut]
 1. [Finally some Haskell again](https://github.com/JohannesSchilling/aoc22/blob/main/day18/day18.hs) by [Johannes]
 1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_18/2022_18.cpp) by arnr
+1. [Rust - find trapped air with ray tracing](https://github.com/stefan0815/aoc_2022/blob/master/src/day18/mod.rs) by [Stefan]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
@@ -98,6 +106,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day17.py) by [Lars]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day17.py) by [pelma24]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Rust - find patterns like everywhere](https://github.com/stefan0815/aoc_2022/blob/master/src/day17/mod.rs) by [Stefan]
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🐘
 
@@ -109,6 +118,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/Stomachion/AdventOfCode2022/blob/dev/day16/Volcano.py) by [ThomasR]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day16.py) by [Lars]
+1. [Rust - all possible paths and find disjunct paths with most value](https://github.com/stefan0815/aoc_2022/blob/master/src/day16/mod.rs) by [Stefan]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🗽
 
@@ -123,6 +133,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day15) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++ - brute force, but skip over xrange of sensor](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_15/2022_15.cpp) by arnr
+1. [Rust - Skip over sensors width at row](https://github.com/stefan0815/aoc_2022/blob/master/src/day15/mod.rs) by [Stefan]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
@@ -136,6 +147,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/14/cxx) by [gambels]
 1. [C++ - Spacesship and Maps](https://github.com/beckenc/adventofcode/blob/master/2022/src/day14) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
+1. [Rust - I don't like sand. It's coarse and rough and irritating and it gets everywhere.](https://github.com/stefan0815/aoc_2022/blob/master/src/day14/mod.rs) by [Stefan]
 
 ### [Day 13](https://adventofcode.com/2022/day/13) 🗼
 
@@ -153,6 +165,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/13/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day13) by [beckenc]
 1. [C++ - weird string comparison...](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_13/2022_13.cpp) by arnr
+1. [Rust - slice and dice with &str...](https://github.com/stefan0815/aoc_2022/blob/master/src/day13/mod.rs) by [Stefan]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) ⛰️
 
@@ -168,6 +181,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day12/day12.cpp) by [beckenc]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/12/cxx) by [gambels]
+1. [Rust - Using astar crate](https://github.com/stefan0815/aoc_2022/blob/master/src/day12/mod.rs) by [Stefan]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
@@ -184,6 +198,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/11/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day11) by [beckenc]
 1. [C++ - keeping track of modulo only, way too complex](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_11/2022_11.cpp) by arnr
+1. [Rust - Guessing where to put the modulo](https://github.com/stefan0815/aoc_2022/blob/master/src/day11/mod.rs) by [Stefan]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🩻
 
@@ -200,6 +215,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/10/cxx) by [gambels]
 1. [C++](https://github.com/beckenc/adventofcode/blob/master/2022/src/day10) by [beckenc]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day10/mod.rs) by [Stefan]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🪢
 
@@ -216,6 +232,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Python](https://github.com/poschi3/AdventOfCode2022/blob/main/day09/day09.py) by [poschi3]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day9/day9.hs) by [Johannes]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day9/mod.rs) by [Stefan]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲
 
@@ -235,6 +252,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/gambels/advent-of-code/tree/master/2022/day/08/cxx) by [gambels]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day8/day8.hs) by [Johannes]
 1. [C++ - iterators + count_until](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_08/2022_08.cpp) by arnr
+1. [Rust - ndarray is a blessing](https://github.com/stefan0815/aoc_2022/blob/master/src/day8/mod.rs) by [Stefan]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 💽
 
@@ -254,6 +272,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Rust - TRY NOT TO BUILD TREES IN RUST Oo](https://github.com/TobiasGrossUL/aoc2022/blob/master/aoc07/src/main.rs) [Tobias]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day7/day7.hs) by [Johannes]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day7/mod.rs) by [Stefan]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
@@ -272,6 +291,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 1. [Rust](https://github.com/Tilltheman/AdventOfCode2022/blob/main/src/six/mod.rs) by [Tilltheman]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day6/day6.hs) by [Johannes]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day6/mod.rs) by [Stefan]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 🏗️
 
@@ -291,6 +311,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode5/Program.cs) by [Jana]
 1. [Haskell -- stack parsing by transposing](https://github.com/JohannesSchilling/aoc22/blob/main/day5/day5.hs) by [Johannes]
 1. [C++ - mover 9001 using temporary stack](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_05/2022_05.cpp) by arnr
+1. [Rust - push, pop and reverse and no parsing](https://github.com/stefan0815/aoc_2022/blob/master/src/day5/mod.rs) by [Stefan]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -311,6 +332,7 @@ Only visible to members of the private leaderboard.
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day4/day4.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/fourth.cxx) by [Sophie]
 1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_04/2022_04.cpp) by arnr
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day4/mod.rs) by [Stefan]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -330,6 +352,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode3/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day3/day3.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/third.cxx) by [Sophie]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day3/mod.rs) by [Stefan]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨🧻✂️
 
@@ -350,6 +373,7 @@ Only visible to members of the private leaderboard.
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day2/day2.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/second.cxx) by [Sophie]
 1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_02/2022_02.cpp) by arnr
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day2/mod.rs) by [Stefan]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🍲
 
@@ -368,6 +392,7 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC22/blob/main/AdventOfCode1/Program.cs) by [Jana]
 1. [Haskell](https://github.com/JohannesSchilling/aoc22/blob/main/day1/day1.hs) by [Johannes]
 1. [C++](https://github.com/SophieWenzel-Teuber/AdventOfCode/blob/master/2022/tasks/first.cxx) by [Sophie]
+1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day1/mod.rs) by [Stefan]
 
 [Gronner]: https://github.com/Gronner
 [poschi3]: https://github.com/poschi3
@@ -388,3 +413,4 @@ Only visible to members of the private leaderboard.
 [Johannes]: https://github.com/JohannesSchilling
 [gambels]: https://github.com/gambels
 [Sophie]: https://github.com/SophieWenzel-Teuber
+[Stefan]: https://github.com/Stefan0815
