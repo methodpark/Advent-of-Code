@@ -49,6 +49,7 @@ Only visible to members of the private leaderboard.
 1. [Haskell (part 1 only, even though Haskell is usually good with folds)](https://github.com/JohannesSchilling/aoc22/blob/main/day22/day22.hs) by [Johannes]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day22.py) by [Lars]
 1. [Rust - Hardcoded cube + physical cube for keeping my sanity](https://github.com/stefan0815/aoc_2022/blob/master/src/day22/mod.rs) by [Stefan]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day22.py) by [pelma24]
 
 ### [Day 21](https://adventofcode.com/2022/day/21) 🔢🦧
 
