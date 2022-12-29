@@ -99,6 +99,7 @@ Only visible to members of the private leaderboard.
 1. [Finally some Haskell again](https://github.com/JohannesSchilling/aoc22/blob/main/day18/day18.hs) by [Johannes]
 1. [C++](https://gitlab.com/alexander.neuhoefer/adventofcode2020/-/blob/master/2022_18/2022_18.cpp) by arnr
 1. [Rust - find trapped air with ray tracing](https://github.com/stefan0815/aoc_2022/blob/master/src/day18/mod.rs) by [Stefan]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2022/advent_of_code_2022.ipynb) by [Christian]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🪨
 
