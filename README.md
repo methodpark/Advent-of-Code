@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2022/blob/master/day_25/day25.py) by [bismut]
 1. [Python](https://github.com/lrh0815/AoC_2022/blob/main/day25.py) by [Lars]
 1. [Rust](https://github.com/stefan0815/aoc_2022/blob/master/src/day25/mod.rs) by [Stefan]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2022/day25.py) by [pelma24]
 
 ### [Day 24](https://adventofcode.com/2022/day/24) 🌨️
 
