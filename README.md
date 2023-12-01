@@ -27,12 +27,14 @@ Only visible to members of the private leaderboard.
 6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/01/main.rs) by [Alice]
 7. [Rust, for the first time](https://github.com/Scyak/aoc-2023/blob/main/src/day01/mod.rs) by [Jay]
 8. [Rust, ugly but Rust](https://github.com/Tilltheman/AoC23/blob/main/src/one/mod.rs) by [Tilltheman]
+9. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 
-[Gronner]: https://github.com/Gronner
-[bismut]: https://github.com/bismuts-werkeleien
-[smeky42]: https://github.com/smeky42/
-[mswf]: https://github.com/Duthlet/Advent-of-Code-2023
-[Jörg]: https://github.com/jgpr-code/aoc
 [Alice]: https://github.com/MP-StefanKraus
+[bismut]: https://github.com/bismuts-werkeleien
+[Christian]: https://github.com/HoffmannChristian
+[Gronner]: https://github.com/Gronner
 [Jay]: https://github.com/Scyak
+[Jörg]: https://github.com/jgpr-code/aoc
+[mswf]: https://github.com/Duthlet/Advent-of-Code-2023
+[smeky42]: https://github.com/smeky42/
 [Tilltheman]: https://github.com/Tilltheman
