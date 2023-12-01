@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 4. [C++, incomplete](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_01/main.cpp) by [mswf]
 5. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day01/mod.rs) by [Jörg]
 6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/01/main.rs) by [Alice]
+7. [Rust, for the first time](https://github.com/Scyak/aoc-2023/blob/main/src/day01/mod.rs) by [Jay]
 
 [Gronner]: https://github.com/Gronner
 [bismut]: https://github.com/bismuts-werkeleien
@@ -32,3 +33,4 @@ Only visible to members of the private leaderboard.
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2023
 [Jörg]: https://github.com/jgpr-code/aoc
 [Alice]: https://github.com/MP-StefanKraus
+[Jay]: https://github.com/Scyak
