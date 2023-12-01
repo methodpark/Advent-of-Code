@@ -17,13 +17,11 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
-<!-- TODO: If you are the first update the link and chose a suitable emoji -->
-### [Day 1](https://adventofcode.com/2023/day/1) 🍲
+### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
-<!-- TODO: If you are the first remove this entry it just serves as a template -->
-1. [Rust - What else ](https://github.com/Gronner/aoc-2022/blob/main/src/day1/mod.rs) by [Gronner]
 2. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
 3. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day01/day01.py) by [smeky42]
+2. [Rust, with time](https://github.com/Gronner/aoc-2023/blob/main/src/day1/mod.rs) by [Gronner]
 
 [Gronner]: https://github.com/Gronner
 [bismut]: https://github.com/bismuts-werkeleien
