@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 9. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 10. [Python, with regex](https://github.com/JanUrf/AoC_2023/blob/master/day1/trebuchet.py) by [Jan]
 11. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day1.rs) by [Lukas]
+12. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%201/Program.cs) by [Jana]
 
 [Alice]: https://github.com/MP-StefanKraus
 [bismut]: https://github.com/bismuts-werkeleien
@@ -42,3 +43,4 @@ Only visible to members of the private leaderboard.
 [smeky42]: https://github.com/smeky42/
 [Tilltheman]: https://github.com/Tilltheman
 [Lukas]: https://github.com/k00mi
+[Jana]: https://github.com/jana-tuerlich
