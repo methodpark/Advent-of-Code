@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 8. [Rust, ugly but Rust](https://github.com/Tilltheman/AoC23/blob/main/src/one/mod.rs) by [Tilltheman]
 9. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 10. [Python, with regex](https://github.com/JanUrf/AoC_2023/blob/master/day1/trebuchet.py) by [Jan]
+11. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day1.rs) by [Lukas]
 
 [Alice]: https://github.com/MP-StefanKraus
 [bismut]: https://github.com/bismuts-werkeleien
@@ -40,3 +41,4 @@ Only visible to members of the private leaderboard.
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2023
 [smeky42]: https://github.com/smeky42/
 [Tilltheman]: https://github.com/Tilltheman
+[Lukas]: https://github.com/k00mi
