@@ -19,10 +19,12 @@ Only visible to members of the private leaderboard.
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
-2. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
-3. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day01/day01.py) by [smeky42]
-2. [Rust, with time](https://github.com/Gronner/aoc-2023/blob/main/src/day1/mod.rs) by [Gronner]
+1. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
+2. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day01/day01.py) by [smeky42]
+3. [Rust, with time](https://github.com/Gronner/aoc-2023/blob/main/src/day1/mod.rs) by [Gronner]
+4. [C++, incomplete](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_01/main.cpp) by [mswf]
 
 [Gronner]: https://github.com/Gronner
 [bismut]: https://github.com/bismuts-werkeleien
 [smeky42]: https://github.com/smeky42/
+[mswf]: https://github.com/Duthlet/Advent-of-Code-2023
