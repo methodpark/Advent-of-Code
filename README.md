@@ -23,8 +23,10 @@ Only visible to members of the private leaderboard.
 2. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day01/day01.py) by [smeky42]
 3. [Rust, with time](https://github.com/Gronner/aoc-2023/blob/main/src/day1/mod.rs) by [Gronner]
 4. [C++, incomplete](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_01/main.cpp) by [mswf]
+5. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day01/mod.rs) by [Jörg]
 
 [Gronner]: https://github.com/Gronner
 [bismut]: https://github.com/bismuts-werkeleien
 [smeky42]: https://github.com/smeky42/
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2023
+[Jörg]: https://github.com/jgpr-code/aoc
