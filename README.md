@@ -22,5 +22,7 @@ Only visible to members of the private leaderboard.
 
 <!-- TODO: If you are the first remove this entry it just serves as a template -->
 1. [Rust - What else ](https://github.com/Gronner/aoc-2022/blob/main/src/day1/mod.rs) by [Gronner]
+2. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
 
 [Gronner]: https://github.com/Gronner
+[bismut]: https://github.com/bismuts-werkeleien
