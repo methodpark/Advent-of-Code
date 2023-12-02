@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 2](https://adventofcode.com/2023/day/2)
+
+1. [Rust SC style (aka split and collect)](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day02/mod.rs) by [Jörg]
+
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
 1. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
@@ -38,7 +42,7 @@ Only visible to members of the private leaderboard.
 [Gronner]: https://github.com/Gronner
 [Jan]: https://github.com/JanUrf
 [Jay]: https://github.com/Scyak
-[Jörg]: https://github.com/jgpr-code/aoc
+[Jörg]: https://github.com/jgpr-code/
 [mswf]: https://github.com/Duthlet/Advent-of-Code-2023
 [smeky42]: https://github.com/smeky42/
 [Tilltheman]: https://github.com/Tilltheman
