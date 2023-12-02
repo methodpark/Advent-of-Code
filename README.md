@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 5. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day02/mod.rs) by [Jay]
 6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/02/main.rs) by [Alice]
 7. [Python, with lambda,numpy and regex](https://github.com/JanUrf/AoC_2023/blob/master/day2/CubeConundrum.py) by [Jan]
+8. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/two/mod.rs) by [Tilltheman]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
