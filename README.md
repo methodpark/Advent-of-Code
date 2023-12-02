@@ -23,8 +23,9 @@ Only visible to members of the private leaderboard.
 2. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day02/day02.py) by [bismut]
 3. [Rust, in OO](https://github.com/Gronner/aoc-2023/blob/main/src/day2/mod.rs) by [Gronner]
 4. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day02/day02.py) by [smeky42]
-5. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day02/mod.rs) by [Jay]
-
+5. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day02/mod.rs) by [Jay] 
+6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/02/main.rs) by [Alice]
+   
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
 1. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
