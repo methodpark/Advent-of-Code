@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust SC style (aka split and collect)](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day02/mod.rs) by [Jörg]
 2. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day02/day02.py) by [bismut]
+3. [Rust, in OO](https://github.com/Gronner/aoc-2023/blob/main/src/day2/mod.rs) by [Gronner]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
