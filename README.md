@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/03/main.rs) by [Alice]
 7. [Rust, Deutsche Bahn Edition](https://github.com/Gronner/aoc-2023/blob/main/src/day3/mod.rs) by [Gronner]
 8. [Python, wit masked matrices](https://github.com/JanUrf/AoC_2023/blob/master/day3/GearRatios.py) by [Jan]
+8. [Rust, but a mess](https://github.com/Scyak/aoc-2023/blob/main/src/day03/mod.rs) by [Jay]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
