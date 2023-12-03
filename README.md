@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - don't look at my gears you've been warned](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day03/mod.rs) by [Jörg]
 2. [Python, to messy](https://github.com/smeky42/adventOfCode2023/blob/main/day03/day03.py) by [smeky42]
+3. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day03/day03.py) by [bismut]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
