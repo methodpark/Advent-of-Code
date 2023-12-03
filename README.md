@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 5. [Rust - map filter reduce repeat](https://github.com/stefan0815/aoc_2023/blob/master/src/day3/mod.rs) by [Stefan]
 6. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/03/main.rs) by [Alice]
 7. [Rust, Deutsche Bahn Edition](https://github.com/Gronner/aoc-2023/blob/main/src/day3/mod.rs) by [Gronner]
+8. [Python, wit masked matrices](https://github.com/JanUrf/AoC_2023/blob/master/day3/GearRatios.py) by [Jan]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
