@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 2. [Python, to messy](https://github.com/smeky42/adventOfCode2023/blob/main/day03/day03.py) by [smeky42]
 3. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day03/day03.py) by [bismut]
 4. [Rust - please don't judge :-D](https://github.com/Tilltheman/AoC23/blob/main/src/three/mod.rs) by [Tilltheman]
+5. [Rust - map filter reduce repeat](https://github.com/stefan0815/aoc_2023/blob/master/src/day3/mod.rs) by [Stefan]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
@@ -35,6 +36,7 @@ Only visible to members of the private leaderboard.
 7. [Python, with lambda,numpy and regex](https://github.com/JanUrf/AoC_2023/blob/master/day2/CubeConundrum.py) by [Jan]
 8. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/two/mod.rs) by [Tilltheman]
 9. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%202/Program.cs) by [Jana]
+10. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day2/mod.rs) by [Stefan]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
@@ -50,6 +52,7 @@ Only visible to members of the private leaderboard.
 10. [Python, with regex](https://github.com/JanUrf/AoC_2023/blob/master/day1/trebuchet.py) by [Jan]
 11. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day1.rs) by [Lukas]
 12. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%201/Program.cs) by [Jana]
+13. [Rust, that looks like C++](https://github.com/stefan0815/aoc_2023/blob/master/src/day1/mod.rs) by [Stefan]
 
 [Alice]: https://github.com/MP-StefanKraus
 [bismut]: https://github.com/bismuts-werkeleien
@@ -63,3 +66,4 @@ Only visible to members of the private leaderboard.
 [Tilltheman]: https://github.com/Tilltheman
 [Lukas]: https://github.com/k00mi
 [Jana]: https://github.com/jana-tuerlich
+[Stefan]: https://github.com/stefan0815
