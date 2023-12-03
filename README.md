@@ -17,7 +17,7 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
-### [Day 3](https://adventofcode.com/2023/day/3)
+### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
 1. [Rust - don't look at my gears you've been warned](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day03/mod.rs) by [Jörg]
 
