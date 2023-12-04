@@ -28,6 +28,8 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day4/mod.rs) by [Stefan]
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/four/mod.rs) by [Tilltheman]
 1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day4.rs) by [Lukas]
+1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day04/day04.py) by [poschi3]
+
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
