@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_04/main.cpp) by [mswf]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day04/day04.py) by [bismut]
 1. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/04/main.rs) by [Alice]
+1. [Rust - split()s galore](https://github.com/Scyak/aoc-2023/blob/main/src/day04/mod.rs) by [Jay]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
