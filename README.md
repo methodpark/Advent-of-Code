@@ -31,6 +31,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day04/day04.py) by [poschi3]
 1. [Python, just a copy](https://github.com/smeky42/adventOfCode2023/blob/main/day04/day04.py) by [smeky42] 
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
+1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
  
 
 
