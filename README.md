@@ -30,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day4.rs) by [Lukas]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day04/day04.py) by [poschi3]
 1. [Python, just a copy](https://github.com/smeky42/adventOfCode2023/blob/main/day04/day04.py) by [smeky42] 
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
  
 
 
@@ -46,6 +47,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, but a mess](https://github.com/Scyak/aoc-2023/blob/main/src/day03/mod.rs) by [Jay]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day03/day03.py) by [poschi3]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_03/main.cpp) by [mswf]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day03.java) by [alxfhl]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
@@ -61,6 +63,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day2/mod.rs) by [Stefan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day02/day02.py) by [poschi3]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_02/main.cpp) by [mswf]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day02.java) by [alxfhl]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
@@ -78,8 +81,10 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%201/Program.cs) by [Jana]
 1. [Rust, that looks like C++](https://github.com/stefan0815/aoc_2023/blob/master/src/day1/mod.rs) by [Stefan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day01/day01.py) by [poschi3]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day01.java) by [alxfhl]
 
 [Alice]: https://github.com/MP-StefanKraus
+[alxfhl]: https://github.com/alxfhl
 [bismut]: https://github.com/bismuts-werkeleien
 [Christian]: https://github.com/HoffmannChristian
 [Gronner]: https://github.com/Gronner
