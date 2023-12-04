@@ -49,6 +49,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day03/day03.py) by [poschi3]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_03/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day03.java) by [alxfhl]
+1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%203/Program.cs) by [Jana]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
