@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - split()s galore](https://github.com/Scyak/aoc-2023/blob/main/src/day04/mod.rs) by [Jay]
 1. [Python - recursive](https://github.com/JanUrf/AoC_2023/blob/master/day4/scartchcards.py) by [Jan]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day4/mod.rs) by [Stefan]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/four/mod.rs) by [Tilltheman]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
