@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - don't scratch your head, scratchpad!](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day04/mod.rs) by [Jörg]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_04/main.cpp) by [mswf]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day04/day04.py) by [bismut]
+1. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/04/main.rs) by [Alice]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
