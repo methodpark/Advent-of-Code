@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
 1. [Rust - don't scratch your head, scratchpad!](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day04/mod.rs) by [Jörg]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_04/main.cpp) by [mswf]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
@@ -33,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Python, wit masked matrices](https://github.com/JanUrf/AoC_2023/blob/master/day3/GearRatios.py) by [Jan]
 1. [Rust, but a mess](https://github.com/Scyak/aoc-2023/blob/main/src/day03/mod.rs) by [Jay]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day03/day03.py) by [poschi3]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_03/main.cpp) by [mswf]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
@@ -47,13 +49,14 @@ Only visible to members of the private leaderboard.
 1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%202/Program.cs) by [Jana]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day2/mod.rs) by [Stefan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day02/day02.py) by [poschi3]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_02/main.cpp) by [mswf]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
 1. [Python, as usual](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day01/day01.py) by [bismut]
 1. [Python, why not](https://github.com/smeky42/adventOfCode2023/blob/main/day01/day01.py) by [smeky42]
 1. [Rust, with time](https://github.com/Gronner/aoc-2023/blob/main/src/day1/mod.rs) by [Gronner]
-1. [C++, incomplete](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_01/main.cpp) by [mswf]
+1. [C++, now complete](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_01/main.cpp) by [mswf]
 1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day01/mod.rs) by [Jörg]
 1. [Rust](https://github.com/MP-StefanKraus/aoc-2023/blob/main/src/01/main.rs) by [Alice]
 1. [Rust, for the first time](https://github.com/Scyak/aoc-2023/blob/main/src/day01/mod.rs) by [Jay]
