@@ -17,8 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
-### [Day 5](https://adventofcode.com/2023/day/5)
+### [Day 5](https://adventofcode.com/2023/day/5) 🌻
+
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_05/main.cpp) by [mswf]
+1. [Rust - lesson: don't let me plant seeds](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day05/mod.rs) by [Jörg]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
