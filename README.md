@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - lesson: don't let me plant seeds](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day05/mod.rs) by [Jörg]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day5/mod.rs) by [Stefan]
 1. [Rust - I'm not a very good farmer](https://github.com/Scyak/aoc-2023/blob/main/src/day05/mod.rs) by [Jay]
+1. [Rust, brute force farming](https://github.com/Gronner/aoc-2023/blob/main/src/day5/mod.rs) by [Gronner]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
