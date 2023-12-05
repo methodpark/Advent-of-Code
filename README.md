@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_05/main.cpp) by [mswf]
 1. [Rust - lesson: don't let me plant seeds](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day05/mod.rs) by [Jörg]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day5/mod.rs) by [Stefan]
+1. [Rust - I'm not a very good farmer](https://github.com/Scyak/aoc-2023/blob/main/src/day05/mod.rs) by [Jay]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
@@ -35,10 +36,10 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/four/mod.rs) by [Tilltheman]
 1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day4.rs) by [Lukas]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day04/day04.py) by [poschi3]
-1. [Python, just a copy](https://github.com/smeky42/adventOfCode2023/blob/main/day04/day04.py) by [smeky42] 
+1. [Python, just a copy](https://github.com/smeky42/adventOfCode2023/blob/main/day04/day04.py) by [smeky42]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
 1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
- 
+
 
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
