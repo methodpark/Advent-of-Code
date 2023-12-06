@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, racing from behind](https://github.com/Gronner/aoc-2023/blob/main/src/day6/mod.rs) by [Gronner]
 1. [Python, row row row your boat](https://github.com/smeky42/adventOfCode2023/blob/main/day06/day06.py) by [smeky42]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day06/day06.py) by [bismut]
+1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day6/boatrace.py) by [Jan]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
