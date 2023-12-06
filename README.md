@@ -34,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, brute force farming](https://github.com/Gronner/aoc-2023/blob/main/src/day5/mod.rs) by [Gronner]
 1. [Python, just throwing seeds](https://github.com/smeky42/adventOfCode2023/blob/main/day05/day05.py) by [smeky42]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day05.java) by [alxfhl]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/five/mod.rs) by [Tilltheman]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
