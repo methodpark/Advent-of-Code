@@ -48,8 +48,6 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
 1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
 
-
-
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
 1. [Rust - don't look at my gears you've been warned](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day03/mod.rs) by [Jörg]
