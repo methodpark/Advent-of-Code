@@ -29,6 +29,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - brute force racing](https://github.com/Scyak/aoc-2023/blob/main/src/day06/mod.rs) by [Jay]
 1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day6.rs) by [Lukas]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day06/day06.py) by [poschi3]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/six/mod.rs) by [Tilltheman]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
