@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day06/day06.py) by [bismut]
 1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day6/boatrace.py) by [Jan]
 1. [Rust - brute force racing](https://github.com/Scyak/aoc-2023/blob/main/src/day06/mod.rs) by [Jay]
+1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day6.rs) by [Lukas]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
@@ -39,6 +40,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day05.java) by [alxfhl]
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/five/mod.rs) by [Tilltheman]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
+1. [Rust, part 1](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day5.rs) by [Lukas]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
