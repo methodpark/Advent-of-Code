@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day06.java) by [alxfhl]
 1. [Rust - 🔢⏱🚤🏁](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day06/mod.rs) by [Jörg]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_06/main.cpp) by [mswf]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
