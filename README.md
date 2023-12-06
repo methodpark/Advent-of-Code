@@ -36,6 +36,7 @@ Only visible to members of the private leaderboard.
 1. [Python, just throwing seeds](https://github.com/smeky42/adventOfCode2023/blob/main/day05/day05.py) by [smeky42]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day05.java) by [alxfhl]
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/five/mod.rs) by [Tilltheman]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
@@ -52,6 +53,7 @@ Only visible to members of the private leaderboard.
 1. [Python, just a copy](https://github.com/smeky42/adventOfCode2023/blob/main/day04/day04.py) by [smeky42]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
 1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
@@ -68,6 +70,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_03/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day03.java) by [alxfhl]
 1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%203/Program.cs) by [Jana]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
@@ -84,6 +87,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day02/day02.py) by [poschi3]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_02/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day02.java) by [alxfhl]
+1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
