@@ -37,6 +37,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day6.rs) by [Lukas]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day06/day06.py) by [poschi3]
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/six/mod.rs) by [Tilltheman]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day06/index.ts) by [Marvin]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
@@ -50,6 +51,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/five/mod.rs) by [Tilltheman]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 1. [Rust, part 1](https://code.methodpark.de/lsbn/aoc23/-/blob/master/day5.rs) by [Lukas]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day05/index.ts) by [Marvin]
 
 ### [Day 4](https://adventofcode.com/2023/day/4) 🗒
 
@@ -67,6 +69,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day04.java) by [alxfhl]
 1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day04/index.ts) by [Marvin]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
@@ -84,6 +87,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day03.java) by [alxfhl]
 1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%203/Program.cs) by [Jana]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day03/index.ts) by [Marvin]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🧊
 
@@ -101,6 +105,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_02/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day02.java) by [alxfhl]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day02/index.ts) by [Marvin]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) 🧝
 
@@ -119,6 +124,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, that looks like C++](https://github.com/stefan0815/aoc_2023/blob/master/src/day1/mod.rs) by [Stefan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day01/day01.py) by [poschi3]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day01.java) by [alxfhl]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day01/index.ts) by [Marvin]
 
 [Alice]: https://github.com/MP-StefanKraus
 [alxfhl]: https://github.com/alxfhl
@@ -135,3 +141,4 @@ Only visible to members of the private leaderboard.
 [Lukas]: https://github.com/k00mi
 [Jana]: https://github.com/jana-tuerlich
 [Stefan]: https://github.com/stefan0815
+[Marvin]: https://github.com/wrngwrld/
