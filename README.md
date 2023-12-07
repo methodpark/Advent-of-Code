@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 7](https://adventofcode.com/2023/day/7) 🐪
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_07/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day07.java) by [alxfhl]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day07/day07.py) by [bismut]
 
 ### [Day 6](https://adventofcode.com/2023/day/6) 🏁
 
