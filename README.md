@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day07/mod.rs) by [Jay]
 1. [Python](https://github.com/smeky42/adventOfCode2023/blob/main/day07/day07.py) by [smeky42]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day07/day07.py) by [poschi3]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day07/index.ts) by [Marvin]
 
 ### [Day 6](https://adventofcode.com/2023/day/6) 🏁
 
