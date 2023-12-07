@@ -17,6 +17,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 7](https://adventofcode.com/2023/day/7) 🐪
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_07/main.cpp) by [mswf]
+
 ### [Day 6](https://adventofcode.com/2023/day/6) 🏁
 
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day06.java) by [alxfhl]
