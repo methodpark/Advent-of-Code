@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Rust + X](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day08/mod.rs) by [Jörg]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day08.java) by [alxfhl]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day8/mod.rs) by [Stefan]
+1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day08/mod.rs) by [Jay]
 
 ### [Day 7](https://adventofcode.com/2023/day/7) 🐪
 
