@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, num'bers are powerfull](https://github.com/Gronner/aoc-2023/blob/main/src/day8/mod.rs) by [Gronner]
 1. [Python, math is a helpful little thing](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day08/day08.py) by [bismut]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day08/index.ts) by [Marvin]
+1. [Rust + X](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day08/mod.rs) by [Jörg]
 
 ### [Day 7](https://adventofcode.com/2023/day/7) 🐪
 
