@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### Day 9 🏝
+
+1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day09/mod.rs) by [Jörg]
+
 ### Day 8 🗺️
 
 1. [Rust, num'bers are powerfull](https://github.com/Gronner/aoc-2023/blob/main/src/day8/mod.rs) by [Gronner]
