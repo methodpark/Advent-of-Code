@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - time for recursion](https://github.com/Scyak/aoc-2023/blob/main/src/day09/mod.rs) by [Jay]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day09/day09.py) by [poschi3]
 1. [Python, elementary school pyramids](https://github.com/smeky42/adventOfCode2023/blob/main/day09/day09.py) by [smeky42]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day09/index.ts) by [Marvin]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🗺️
 
