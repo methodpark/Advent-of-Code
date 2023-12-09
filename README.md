@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
 1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day09/mod.rs) by [Jörg]
+1. [Python, map_objects will be lists](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day09/day09.py) by [bismut]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🗺️
 
