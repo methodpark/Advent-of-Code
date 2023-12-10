@@ -78,6 +78,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/six/mod.rs) by [Tilltheman]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day06/index.ts) by [Marvin]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day6/mod.rs) by [Stefan]
+1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%206/Program.cs) by [Jana]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌻
 
