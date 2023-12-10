@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
 1. [Rust - those pipes got my Rust dirty](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day10/mod.rs) by [Jörg]
+1. [Python, appendleft, not right](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day10/day10.py) by [bismut]
 
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
