@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 10](https://adventofcode.com/2023/day/10) 😵
+
+1. [Rust - those pipes got my Rust dirty](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day10/mod.rs) by [Jörg]
+
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
 1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day09/mod.rs) by [Jörg]
