@@ -110,6 +110,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, remembering things](https://github.com/Gronner/aoc-2023/blob/main/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/HoffmannChristian/adventofcode/blob/main/2023/advent_of_code_2023.ipynb) by [Christian]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day04/index.ts) by [Marvin]
+1. [C#](https://github.com/jana-tuerlich/AoC23/blob/main/AdventOfCode%204/Program.cs) by [Jana]
 
 ### [Day 3](https://adventofcode.com/2023/day/3) ⚙
 
