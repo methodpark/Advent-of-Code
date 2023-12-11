@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Python, finally some numpy](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day11/day11.py) by [bismut]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day11/index.ts) by [Marvin]
 1. [Python](https://github.com/smeky42/adventOfCode2023/blob/main/day11/day11.py) by [smeky42]
+1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day11/day11.py) by [poschi3]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
