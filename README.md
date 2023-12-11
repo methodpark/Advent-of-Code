@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - if day >= 10 \{clean_code = false\}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day11/mod.rs) by [Jörg]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day11.java) by [alxfhl]
+1. [Python, finally some numpy](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day11/day11.py) by [bismut]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
