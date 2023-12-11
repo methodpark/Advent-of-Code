@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
 1. [Rust - if day >= 10 \{clean_code = false\}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day11/mod.rs) by [Jörg]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day11.java) by [alxfhl]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
@@ -27,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Python, appendleft, not right](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day10/day10.py) by [bismut]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day10/index.ts) by [Marvin]
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day10/mod.rs) by [Jay]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day10.java) by [alxfhl]
 
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
@@ -38,6 +40,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day09/index.ts) by [Marvin]
 1. [Rust, folding all the way](https://github.com/Gronner/aoc-2023/blob/main/src/day9/mod.rs) by [Gronner]
 1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day9/Mirage.py) by [Jan]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day09.java) by [alxfhl]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🗺️
 
