@@ -27,6 +27,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day11/day11.py) by [poschi3]
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day11/mod.rs) by [Jay]
 1. [Python, with lookup and dicts](https://github.com/JanUrf/AoC_2023/blob/master/day11/Cosmic.py) by [Jan]
+1. [Rust, moving the universe one gap at a time](https://github.com/Gronner/aoc-2023/blob/main/src/day11/mod.rs) by [Gronner]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
