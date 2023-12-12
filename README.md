@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 12](https://adventofcode.com/2023/day/12) ⛲
+
+1. [Java - divide and conquer](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day12.java) by [alxfhl]
+
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
 1. [Rust - if day >= 10 \{clean_code = false\}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day11/mod.rs) by [Jörg]
