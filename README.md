@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
 1. [Java - divide and conquer](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day12.java) by [alxfhl]
+1. [Rust, dynamic all the way down](https://github.com/Gronner/aoc-2023/blob/main/src/day12/mod.rs) by [Gronner]
 
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
