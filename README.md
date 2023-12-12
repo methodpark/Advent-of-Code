@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Java - divide and conquer](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day12.java) by [alxfhl]
 1. [Rust, dynamic all the way down](https://github.com/Gronner/aoc-2023/blob/main/src/day12/mod.rs) by [Gronner]
 1. [Rust - pls don't ask me what I'm doing here](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day12/mod.rs) by [Jörg]
+1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day12/mod.rs) by [Jay]
 
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
