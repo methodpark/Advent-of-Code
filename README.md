@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - better than yesterday!](https://github.com/jgpr-code/aoc/tree/main/2023/rust/src/day13) by [Jörg]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day13/index.ts) by [Marvin]
 1. [Rust, biting smudges away](https://github.com/Gronner/aoc-2023/blob/main/src/day13/mod.rs) by [Gronner]
+1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day13/mod.rs) by [Jay]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
