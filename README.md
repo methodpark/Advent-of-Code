@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day13/index.ts) by [Marvin]
 1. [Rust, biting smudges away](https://github.com/Gronner/aoc-2023/blob/main/src/day13/mod.rs) by [Gronner]
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day13/mod.rs) by [Jay]
+1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day13/Incidence.py) by [Jan]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
