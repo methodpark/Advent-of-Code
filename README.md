@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 14](https://adventofcode.com/2023/day/14)
+
+1. [Rust - copy code, finish in bus edition](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day14/mod.rs) by [Jörg]
+
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
 1. [Rust - better than yesterday!](https://github.com/jgpr-code/aoc/tree/main/2023/rust/src/day13) by [Jörg]
