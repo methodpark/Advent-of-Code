@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 14](https://adventofcode.com/2023/day/14)
 
 1. [Rust - copy code, finish in bus edition](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day14/mod.rs) by [Jörg]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day14/index.ts) by [Marvin]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
