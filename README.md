@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - copy code, finish in bus edition](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day14/mod.rs) by [Jörg]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day14/index.ts) by [Marvin]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day14.java) by [alxfhl]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
@@ -30,6 +31,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day13/mod.rs) by [Jay]
 1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day13/Incidence.py) by [Jan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day13/day13.py) by [poschi3]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day13.java) by [alxfhl]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
