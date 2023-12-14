@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day14/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day14.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_14/main.cpp) by [mswf]
+1. [Python, don't do this many loops at home, kids](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day14/day14.py) by [bismut]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
@@ -34,6 +35,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day13/day13.py) by [poschi3]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day13.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_13/main.cpp) by [mswf]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day13/day13.py) by [bismut]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
@@ -43,6 +45,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day12/mod.rs) by [Jay]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day12/index.ts) by [Marvin]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_12/main.cpp) by [mswf]
+1. [Python, quite messy still](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day12/day12.py) by [bismut]
 
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
