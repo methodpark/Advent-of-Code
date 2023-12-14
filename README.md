@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_14/main.cpp) by [mswf]
 1. [Python, don't do this many loops at home, kids](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day14/day14.py) by [bismut]
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day14/mod.rs) by [Jay]
+1. [Rust, tilting time!](https://github.com/Gronner/aoc-2023/blob/main/src/day14/mod.rs) by [Gronner]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
