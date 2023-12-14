@@ -17,11 +17,12 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
-### [Day 14](https://adventofcode.com/2023/day/14)
+### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
 1. [Rust - copy code, finish in bus edition](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day14/mod.rs) by [Jörg]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day14/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day14.java) by [alxfhl]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_14/main.cpp) by [mswf]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
@@ -32,6 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day13/Incidence.py) by [Jan]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day13/day13.py) by [poschi3]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day13.java) by [alxfhl]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_13/main.cpp) by [mswf]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
@@ -40,6 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - pls don't ask me what I'm doing here](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day12/mod.rs) by [Jörg]
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day12/mod.rs) by [Jay]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day12/index.ts) by [Marvin]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_12/main.cpp) by [mswf]
 
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
@@ -52,6 +55,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day11/mod.rs) by [Jay]
 1. [Python, with lookup and dicts](https://github.com/JanUrf/AoC_2023/blob/master/day11/Cosmic.py) by [Jan]
 1. [Rust, moving the universe one gap at a time](https://github.com/Gronner/aoc-2023/blob/main/src/day11/mod.rs) by [Gronner]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_11/main.cpp) by [mswf]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
@@ -61,6 +65,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day10/mod.rs) by [Jay]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day10.java) by [alxfhl]
 1. [Rust, just mathing around in circles](https://github.com/Gronner/aoc-2023/blob/main/src/day10/mod.rs) by [Gronner]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_10/main.cpp) by [mswf]
 
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
@@ -73,6 +78,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, folding all the way](https://github.com/Gronner/aoc-2023/blob/main/src/day9/mod.rs) by [Gronner]
 1. [Python](https://github.com/JanUrf/AoC_2023/blob/master/day9/Mirage.py) by [Jan]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day09.java) by [alxfhl]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_09/main.cpp) by [mswf]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🗺️
 
