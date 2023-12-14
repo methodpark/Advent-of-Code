@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day14.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_14/main.cpp) by [mswf]
 1. [Python, don't do this many loops at home, kids](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day14/day14.py) by [bismut]
+1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day14/mod.rs) by [Jay]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
