@@ -105,6 +105,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day09.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_09/main.cpp) by [mswf]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day9/mod.rs) by [Stefan]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/nine/mod.rs) by [Tilltheman]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🗺️
 
@@ -119,6 +120,7 @@ Only visible to members of the private leaderboard.
 1. [C++, should work for general input](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_08/main.cpp) by [mswf]
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day08/day08.py) by [poschi3]
 1. [Python, regex, lcm](https://github.com/JanUrf/AoC_2023/blob/master/day8/Wasteland.py) by [Jan]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/eight/mod.rs) by [Tilltheman]
 
 ### [Day 7](https://adventofcode.com/2023/day/7) 🐪
 
