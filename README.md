@@ -133,6 +133,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day07/index.ts) by [Marvin]
 1. [Rust, traits are nice, until they change](https://github.com/Gronner/aoc-2023/blob/main/src/day7/mod.rs) by [Gronner]
 1. [Python, Enum, list.sort with lambda function](https://github.com/JanUrf/AoC_2023/blob/master/day7/CamelCards.py) by [Jan]
+1. [Rust](https://github.com/Tilltheman/AoC23/blob/main/src/seven/mod.rs) by [Tilltheman]
 
 ### [Day 6](https://adventofcode.com/2023/day/6) 🏁
 
