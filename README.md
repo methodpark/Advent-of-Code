@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, reading is hard](https://github.com/Gronner/aoc-2023/blob/main/src/day15/mod.rs) by [Gronner]
 1. [Python, HESH - Helping Elf haSH](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day15/day15.py) by [bismut]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2023/src/day15/index.ts) by [Marvin]
+1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day15/mod.rs) by [Jay]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
