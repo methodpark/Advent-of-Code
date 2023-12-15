@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 15](https://adventofcode.com/2023/day/15) 📦
 
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day15/mod.rs) by [Stefan]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day15.java) by [alxfhl]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
