@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day15/mod.rs) by [Stefan]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day15.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_15/main.cpp) by [mswf]
+1. [Rust, reading is hard](https://github.com/Gronner/aoc-2023/blob/main/src/day15/mod.rs) by [Gronner]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
