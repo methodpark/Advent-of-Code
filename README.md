@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day15.java) by [alxfhl]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_15/main.cpp) by [mswf]
 1. [Rust, reading is hard](https://github.com/Gronner/aoc-2023/blob/main/src/day15/mod.rs) by [Gronner]
+1. [Python, HESH - Helping Elf haSH](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day15/day15.py) by [bismut]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
