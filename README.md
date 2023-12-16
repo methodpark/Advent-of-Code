@@ -42,6 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day14/mod.rs) by [Jay]
 1. [Rust, tilting time!](https://github.com/Gronner/aoc-2023/blob/main/src/day14/mod.rs) by [Gronner]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day14/mod.rs) by [Stefan]
+1. [python, smart caching and enum for direction](https://github.com/JanUrf/AoC_2023/blob/master/day14/Reflector.py) by [Jan]
 
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
