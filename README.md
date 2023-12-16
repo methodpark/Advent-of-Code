@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
 1. [Rust - feeling energized ;)](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day16/mod.rs) by [Jörg]
+1. [Rust, it got quite complex](https://github.com/Gronner/aoc-2023/blob/main/src/day16/mod.rs) by [Gronner]
 
 ### [Day 15](https://adventofcode.com/2023/day/15) 📦
 
