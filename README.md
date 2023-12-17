@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 17](https://adventofcode.com/2023/day/17)
+
+1. [Rust - if enum_free_again(&code) { code_to_refactor.push(&code)}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day17/mod.rs) by [Jörg]
+
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
 1. [Rust - feeling energized ;)](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day16/mod.rs) by [Jörg]
