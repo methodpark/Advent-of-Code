@@ -20,6 +20,8 @@ Only visible to members of the private leaderboard.
 ### [Day 17](https://adventofcode.com/2023/day/17) 🍜
 
 1. [Rust - if enum_free_again(&code) { code_to_refactor.push(&code)}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day17/mod.rs) by [Jörg]
+1. [Rust, doing the same thing every year and some things actually
+   change](https://github.com/Gronner/aoc-2023/blob/main/src/day17/mod.rs) by [Gronner]
 
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
