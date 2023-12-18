@@ -35,6 +35,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, it got quite complex](https://github.com/Gronner/aoc-2023/blob/main/src/day16/mod.rs) by [Gronner]
 1. [Rust - don't do recursion at home, kids](https://github.com/Scyak/aoc-2023/blob/main/src/day16/mod.rs) by [Jay]
 1. [Python - not the shortest one](https://github.com/JanUrf/AoC_2023/blob/master/day16/Floor.py) by [Jan]
+1. [Python, felt not that energized](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day16/day16.py) by [bismut]
 
 ### [Day 15](https://adventofcode.com/2023/day/15) 📦
 
