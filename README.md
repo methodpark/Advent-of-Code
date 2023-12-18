@@ -52,6 +52,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2023/blob/main/src/day15/mod.rs) by [Jay]
 1. [Rust - don't let the text fool you](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day15/mod.rs) by [Jörg]
 1. [python](https://github.com/JanUrf/AoC_2023/blob/master/day15/Lens.py) by [Jan]
+1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day15/day15.py) by [poschi3]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 📡
 
