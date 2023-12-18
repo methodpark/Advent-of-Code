@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python, discovering Gauss](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day18/day18.py) by [bismut]
 1. [Rust - tying my shoelaces](https://github.com/Scyak/aoc-2023/blob/main/src/day18/mod.rs) by [Jay]
+1. [Rust, off-by-ones are hard](https://github.com/Gronner/aoc-2023/blob/main/src/day18/mod.rs) by [Gronner]
 
 ### [Day 17](https://adventofcode.com/2023/day/17) 🍜
 
