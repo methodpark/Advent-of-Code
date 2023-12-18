@@ -17,12 +17,17 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 18](https://adventofcode.com/2023/day/17) 👟
+
+1. [Python, discovering Gauss](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day18/day18.py) by [bismut]
+
 ### [Day 17](https://adventofcode.com/2023/day/17) 🍜
 
 1. [Rust - if enum_free_again(&code) { code_to_refactor.push(&code)}](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day17/mod.rs) by [Jörg]
 1. [Rust, doing the same thing every year and some things actually
    change](https://github.com/Gronner/aoc-2023/blob/main/src/day17/mod.rs) by [Gronner]
 1. [Rust - lesson: reading is important](https://github.com/Scyak/aoc-2023/blob/main/src/day17/mod.rs) by [Jay]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day17/day17.py) by [bismut]
 
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
