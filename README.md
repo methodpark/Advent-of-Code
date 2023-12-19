@@ -18,7 +18,9 @@ Only visible to members of the private leaderboard.
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
 ### [Day 19](https://adventofcode.com/2023/day/19)
+
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_19/main.cpp) by [mswf]
+1. [Rust - dicovering completely new and irrelevant problems](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day19/mod.rs) by [Jörg]
 
 ### [Day 18](https://adventofcode.com/2023/day/17) 👟
 
