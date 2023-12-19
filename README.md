@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_19/main.cpp) by [mswf]
 1. [Rust - dicovering completely new and irrelevant problems](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day19/mod.rs) by [Jörg]
+1. [Rust - so many off-by-ones](https://github.com/Scyak/aoc-2023/blob/main/src/day19/mod.rs) by [Jay]
 
 ### [Day 18](https://adventofcode.com/2023/day/17) 👟
 
