@@ -17,6 +17,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 19](https://adventofcode.com/2023/day/19)
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_19/main.cpp) by [mswf]
+
 ### [Day 18](https://adventofcode.com/2023/day/17) 👟
 
 1. [Python, discovering Gauss](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day18/day18.py) by [bismut]
@@ -32,6 +35,7 @@ Only visible to members of the private leaderboard.
    change](https://github.com/Gronner/aoc-2023/blob/main/src/day17/mod.rs) by [Gronner]
 1. [Rust - lesson: reading is important](https://github.com/Scyak/aoc-2023/blob/main/src/day17/mod.rs) by [Jay]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day17/day17.py) by [bismut]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_17/main.cpp) by [mswf]
 
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
@@ -40,6 +44,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - don't do recursion at home, kids](https://github.com/Scyak/aoc-2023/blob/main/src/day16/mod.rs) by [Jay]
 1. [Python - not the shortest one](https://github.com/JanUrf/AoC_2023/blob/master/day16/Floor.py) by [Jan]
 1. [Python, felt not that energized](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day16/day16.py) by [bismut]
+1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_16/main.cpp) by [mswf]
 
 ### [Day 15](https://adventofcode.com/2023/day/15) 📦
 
