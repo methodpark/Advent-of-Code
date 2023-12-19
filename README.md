@@ -73,7 +73,6 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day14/mod.rs) by [Stefan]
 1. [python, smart caching and enum for direction](https://github.com/JanUrf/AoC_2023/blob/master/day14/Reflector.py) by [Jan]
 
-
 ### [Day 13](https://adventofcode.com/2023/day/13) 🔲
 
 1. [Rust - better than yesterday!](https://github.com/jgpr-code/aoc/tree/main/2023/rust/src/day13) by [Jörg]
@@ -87,7 +86,6 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day13/day13.py) by [bismut]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day13/mod.rs) by [Stefan]
 
-
 ### [Day 12](https://adventofcode.com/2023/day/12) ⛲
 
 1. [Java - divide and conquer](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day12.java) by [alxfhl]
@@ -98,7 +96,6 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_12/main.cpp) by [mswf]
 1. [Python, quite messy still](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day12/day12.py) by [bismut]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day12/mod.rs) by [Stefan]
-
 
 ### [Day 11](https://adventofcode.com/2023/day/11) 🌌
 
@@ -114,7 +111,6 @@ Only visible to members of the private leaderboard.
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_11/main.cpp) by [mswf]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day11/mod.rs) by [Stefan]
 
-
 ### [Day 10](https://adventofcode.com/2023/day/10) 😵
 
 1. [Rust - those pipes got my Rust dirty](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day10/mod.rs) by [Jörg]
@@ -125,7 +121,6 @@ Only visible to members of the private leaderboard.
 1. [Rust, just mathing around in circles](https://github.com/Gronner/aoc-2023/blob/main/src/day10/mod.rs) by [Gronner]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_10/main.cpp) by [mswf]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day10/mod.rs) by [Stefan]
-
 
 ### [Day 9](https://adventofcode.com/2023/day/9) 🏝
 
