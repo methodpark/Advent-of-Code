@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - pulse investigations](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day20/mod.rs)
 1. [Rust - press the button, Kronk!](https://github.com/Scyak/aoc-2023/blob/main/src/day20/mod.rs) by [Jay]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day20/day20.py) by [bismut]
 
 ### [Day 19](https://adventofcode.com/2023/day/19) ⚙️
 
@@ -28,6 +29,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - dicovering completely new and irrelevant problems](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day19/mod.rs) by [Jörg]
 1. [Rust - so many off-by-ones](https://github.com/Scyak/aoc-2023/blob/main/src/day19/mod.rs) by [Jay]
 1. [Rust, first you make me parse, then off-by-ones are still hard](https://github.com/Gronner/aoc-2023/blob/main/src/day19/mod.rs) by [Gronner]
+1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day19/day19.py) by [bismut]
 
 ### [Day 18](https://adventofcode.com/2023/day/17) 👟
 
