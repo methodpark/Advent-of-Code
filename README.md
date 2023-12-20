@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 20](https://adventofcode.com/2023/day/20) 📶
+
+1. [Rust - pulse investigations](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day20/mod.rs)
+
 ### [Day 19](https://adventofcode.com/2023/day/19) ⚙️
 
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_19/main.cpp) by [mswf]
