@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 20](https://adventofcode.com/2023/day/20) 📶
 
 1. [Rust - pulse investigations](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day20/mod.rs)
+1. [Rust - press the button, Kronk!](https://github.com/Scyak/aoc-2023/blob/main/src/day20/mod.rs) by [Jay]
 
 ### [Day 19](https://adventofcode.com/2023/day/19) ⚙️
 
