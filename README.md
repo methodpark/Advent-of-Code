@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Python, discovering quadratic sequences](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day21/day21.py) by [bismut]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day21.java) by [alxfhl]
 1. [Rust - part 2 brought to you by Wolfram Alpha](https://github.com/Scyak/aoc-2023/blob/main/src/day21/mod.rs) by [Jay]
+1. [Rust, method of looking a lot at the input, the output, the numbers, the ceiling, ...!](https://github.com/Gronner/aoc-2023/blob/main/src/day21/mod.rs) by [Gronner]
 
 ### [Day 20](https://adventofcode.com/2023/day/20) 📶
 
