@@ -19,7 +19,7 @@ Only visible to members of the private leaderboard.
 
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
-1.[Python, discovering quadratic sequences](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day21/day21.py) by [bismut]
+1. [Python, discovering quadratic sequences](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day21/day21.py) by [bismut]
 
 ### [Day 20](https://adventofcode.com/2023/day/20) 📶
 
