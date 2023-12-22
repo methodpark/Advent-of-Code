@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day22.java) by [alxfhl]
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day22/mod.rs) by [Stefan]
 1. [Rust - I don’t like sand. It’s coarse and rough and irritating, and it gets everywhere.](https://github.com/Scyak/aoc-2023/blob/main/src/day22/mod.rs) by [Jay]
+1. [Rust, everything is connected](https://github.com/Gronner/aoc-2023/blob/main/src/day22/mod.rs) by [Gronner]
 
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
