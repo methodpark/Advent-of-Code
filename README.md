@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 22](https://adventofcode.com/2023/day/22) 🧱
+
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day22.java) by [alxfhl]
+
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
 1. [Python, discovering quadratic sequences](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day21/day21.py) by [bismut]
