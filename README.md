@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 22](https://adventofcode.com/2023/day/22) 🧱
 
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day22.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day22/mod.rs) by [Stefan]
 
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
@@ -27,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day21.java) by [alxfhl]
 1. [Rust - part 2 brought to you by Wolfram Alpha](https://github.com/Scyak/aoc-2023/blob/main/src/day21/mod.rs) by [Jay]
 1. [Rust, method of looking a lot at the input, the output, the numbers, the ceiling, ...!](https://github.com/Gronner/aoc-2023/blob/main/src/day21/mod.rs) by [Gronner]
+1. [~~Rust~~ Println&Paint](https://github.com/stefan0815/aoc_2023/blob/master/src/day21/mod.rs) by [Stefan]
 
 ### [Day 20](https://adventofcode.com/2023/day/20) 📶
 
@@ -35,6 +37,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day20/day20.py) by [bismut]
 1. [Rust, brute force and finally EE classes paid off!](https://github.com/Gronner/aoc-2023/blob/main/src/day20/mod.rs) by [Gronner]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day20.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day20/mod.rs) by [Stefan]
 
 ### [Day 19](https://adventofcode.com/2023/day/19) ⚙️
 
@@ -44,6 +47,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, first you make me parse, then off-by-ones are still hard](https://github.com/Gronner/aoc-2023/blob/main/src/day19/mod.rs) by [Gronner]
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day19/day19.py) by [bismut]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day19.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day19/mod.rs) by [Stefan]
 
 ### [Day 18](https://adventofcode.com/2023/day/17) 👟
 
@@ -53,6 +57,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/poschi3/AdventOfCode2023/blob/main/day18/day18.py) by [poschi3]
 1. [Rust - ugly, but it works :)](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day18/mod.rs) by [Jörg]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day18.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day18/mod.rs) by [Stefan]
 
 ### [Day 17](https://adventofcode.com/2023/day/17) 🍜
 
@@ -63,6 +68,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day17/day17.py) by [bismut]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_17/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day17.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day17/mod.rs) by [Stefan]
 
 ### [Day 16](https://adventofcode.com/2023/day/16) 🔦
 
@@ -73,6 +79,7 @@ Only visible to members of the private leaderboard.
 1. [Python, felt not that energized](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day16/day16.py) by [bismut]
 1. [C++](https://github.com/Duthlet/Advent-of-Code-2023/blob/master/day_16/main.cpp) by [mswf]
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day16.java) by [alxfhl]
+1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day16/mod.rs) by [Stefan]
 
 ### [Day 15](https://adventofcode.com/2023/day/15) 📦
 
