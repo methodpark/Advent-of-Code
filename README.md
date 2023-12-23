@@ -36,6 +36,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - part 2 brought to you by Wolfram Alpha](https://github.com/Scyak/aoc-2023/blob/main/src/day21/mod.rs) by [Jay]
 1. [Rust, method of looking a lot at the input, the output, the numbers, the ceiling, ...!](https://github.com/Gronner/aoc-2023/blob/main/src/day21/mod.rs) by [Gronner]
 1. [~~Rust~~ Println&Paint](https://github.com/stefan0815/aoc_2023/blob/master/src/day21/mod.rs) by [Stefan]
+1. [Rust - what is this even, so odd...](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day21/mod.rs) by [Jörg]
 
 ### [Day 20](https://adventofcode.com/2023/day/20) 📶
 
