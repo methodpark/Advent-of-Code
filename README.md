@@ -21,7 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust, not all who wander are lost, but some definitly are](https://github.com/Gronner/aoc-2023/blob/main/src/day22/mod.rs) by [Gronner]
 1. [Rust - slow and steady wins the hike](https://github.com/Scyak/aoc-2023/blob/main/src/day23/mod.rs) by [Jay]
-1. [Rust - I like hiking](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day23/mod.rs)
+1. [Rust - I like hiking](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day23/mod.rs) by [Jörg]
 
 ### [Day 22](https://adventofcode.com/2023/day/22) 🧱
 
