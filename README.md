@@ -17,6 +17,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 23](https://adventofcode.com/2023/day/23) 🥾
+
+1. [Rust, not all who wander are lost, but some definitly are](https://github.com/Gronner/aoc-2023/blob/main/src/day22/mod.rs) by [Gronner]
+
 ### [Day 22](https://adventofcode.com/2023/day/22) 🧱
 
 1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day22.java) by [alxfhl]
