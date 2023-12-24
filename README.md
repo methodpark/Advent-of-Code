@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python - powered by lstsq and Z3](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day24/day24.py) by [bismut]
 1. [Rust, you made me do math on christmas](https://github.com/Gronner/aoc-2023/blob/main/src/day24/mod.rs) by [Gronner]
+1. [Rust - everything is relative](https://github.com/Scyak/aoc-2023/blob/main/src/day24/mod.rs) by [Jay]
 
 ### [Day 23](https://adventofcode.com/2023/day/23) 🥾
 
