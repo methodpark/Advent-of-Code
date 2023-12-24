@@ -17,11 +17,16 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 24](https://adventofcode.com/2023/day/24) 🪨
+
+1. [Python - powered by lstsq and Z3](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day24/day24.py) by [bismut]
+
 ### [Day 23](https://adventofcode.com/2023/day/23) 🥾
 
 1. [Rust, not all who wander are lost, but some definitly are](https://github.com/Gronner/aoc-2023/blob/main/src/day23/mod.rs) by [Gronner]
 1. [Rust - slow and steady wins the hike](https://github.com/Scyak/aoc-2023/blob/main/src/day23/mod.rs) by [Jay]
 1. [Rust - I like hiking](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day23/mod.rs) by [Jörg]
+1. [Python - don't climb the trees](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day23/day23.py) by [bismut]
 
 ### [Day 22](https://adventofcode.com/2023/day/22) 🧱
 
@@ -29,6 +34,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/stefan0815/aoc_2023/blob/master/src/day22/mod.rs) by [Stefan]
 1. [Rust - I don’t like sand. It’s coarse and rough and irritating, and it gets everywhere.](https://github.com/Scyak/aoc-2023/blob/main/src/day22/mod.rs) by [Jay]
 1. [Rust, everything is connected](https://github.com/Gronner/aoc-2023/blob/main/src/day22/mod.rs) by [Gronner]
+1. [Python, feeling like throwing rocks in washing machines](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day22/day22.py) by [bismut]
 
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
