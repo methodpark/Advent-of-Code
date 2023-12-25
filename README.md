@@ -20,6 +20,7 @@ Only visible to members of the private leaderboard.
 ### [Day 25](https://adventofcode.com/2023/day/25) 🔌
 
 1. [Rust, this year we also have toys!](https://github.com/Gronner/aoc-2023/blob/main/src/day25/mod.rs) by [Gronner]
+1. [Rust - discovering new things to do with graphs](https://github.com/Scyak/aoc-2023/blob/main/src/day25/mod.rs) by [Jay]
 
 ### [Day 24](https://adventofcode.com/2023/day/24) 🪨
 
