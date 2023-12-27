@@ -42,7 +42,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - I don’t like sand. It’s coarse and rough and irritating, and it gets everywhere.](https://github.com/Scyak/aoc-2023/blob/main/src/day22/mod.rs) by [Jay]
 1. [Rust, everything is connected](https://github.com/Gronner/aoc-2023/blob/main/src/day22/mod.rs) by [Gronner]
 1. [Python, feeling like throwing rocks in washing machines](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day22/day22.py) by [bismut]
-1. [Rust - disintegrated on 22nd, but available now](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day21/mod.rs) by [Jörg]
+1. [Rust - disintegrated on 22nd, but available now](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day22/mod.rs) by [Jörg]
 
 ### [Day 21](https://adventofcode.com/2023/day/21) 🌿
 
