@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust, this year we also have toys!](https://github.com/Gronner/aoc-2023/blob/main/src/day25/mod.rs) by [Gronner]
 1. [Rust - discovering new things to do with graphs](https://github.com/Scyak/aoc-2023/blob/main/src/day25/mod.rs) by [Jay]
+1. [Rust - pathfinding 101](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day25/mod.rs) by [Jörg]
 
 ### [Day 24](https://adventofcode.com/2023/day/24) 🪨
 
