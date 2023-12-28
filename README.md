@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, this year we also have toys!](https://github.com/Gronner/aoc-2023/blob/main/src/day25/mod.rs) by [Gronner]
 1. [Rust - discovering new things to do with graphs](https://github.com/Scyak/aoc-2023/blob/main/src/day25/mod.rs) by [Jay]
 1. [Rust - pathfinding 101](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day25/mod.rs) by [Jörg]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day25.java) by [alxfhl]
 
 ### [Day 24](https://adventofcode.com/2023/day/24) 🪨
 
@@ -29,6 +30,7 @@ Only visible to members of the private leaderboard.
 1. [Rust, you made me do math on christmas](https://github.com/Gronner/aoc-2023/blob/main/src/day24/mod.rs) by [Gronner]
 1. [Rust - everything is relative](https://github.com/Scyak/aoc-2023/blob/main/src/day24/mod.rs) by [Jay]
 1. [Rust - this is mathness, online Z3 to the rescue](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day24/mod.rs) by [Jörg]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day24.java) by [alxfhl]
 
 ### [Day 23](https://adventofcode.com/2023/day/23) 🥾
 
@@ -36,6 +38,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - slow and steady wins the hike](https://github.com/Scyak/aoc-2023/blob/main/src/day23/mod.rs) by [Jay]
 1. [Rust - I like hiking](https://github.com/jgpr-code/aoc/blob/main/2023/rust/src/day23/mod.rs) by [Jörg]
 1. [Python - don't climb the trees](https://github.com/bismuts-werkeleien/AoC_2023/blob/master/day23/day23.py) by [bismut]
+1. [Java](https://github.com/alxfhl/aoc2023/blob/main/src/main/java/aoc2023/Day23.java) by [alxfhl]
 
 ### [Day 22](https://adventofcode.com/2023/day/22) 🧱
 
