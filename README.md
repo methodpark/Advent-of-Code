@@ -18,6 +18,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
-### [Day 1](https://adventofcode.com/2024/day/1) ❓
+### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
-Nothing to see here yet!
+1. [Rust - This year with error
+   handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day01/mod.rs) by [Gronner]
+
+[Gronner]: https://github.com/Gronner
