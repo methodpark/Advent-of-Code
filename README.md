@@ -21,7 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
 1. [Rust - This year with error
-   handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day01/mod.rs) by [Gronner]
+   handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day1/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day1.py) by [pelma24]
 
 
