@@ -23,7 +23,9 @@ Only visible to members of the private leaderboard.
 1. [Rust - This year with error
    handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day1/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day1.py) by [pelma24]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day01/index.ts) by [Marvin]
 
 
 [Gronner]: https://github.com/Gronner
 [pelma24]: https://github.com/pelma24
+[Marvin]: https://github.com/wrngwrld
