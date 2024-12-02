@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day02.rs) by [Jay]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day2.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day02/index.ts) by [Marvin]
+1. [Zig - don't do it like this please.](https://github.com/Tilltheman/AoC24/tree/main/day2) by [Tilltheman]
 
 ### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
