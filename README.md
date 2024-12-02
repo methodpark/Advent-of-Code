@@ -18,10 +18,13 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+1. [Rust - Actually handling errors!](https://github.com/Gronner/aoc-2024/blob/master/src/day2/mod.rs) by [Gronner]
+
+### [Day 1](https://adventofcode.com/2024/day/2) ☢️
+
 ### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
-1. [Rust - This year with error
-   handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day1/mod.rs) by [Gronner]
+1. [Rust - This year with error handling!](https://github.com/Gronner/aoc-2024/blob/master/src/day1/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day1.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day01/index.ts) by [Marvin]
 1. [Zig](https://github.com/Tilltheman/AoC24/tree/main/day1) by [Tilltheman]
