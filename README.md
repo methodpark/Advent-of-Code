@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 2](https://adventofcode.com/2024/day/2) ☢️
 
 1. [Rust - Actually handling errors!](https://github.com/Gronner/aoc-2024/blob/master/src/day2/mod.rs) by [Gronner]
+1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day02.rs) by [Jay]
 
 ### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
@@ -28,9 +29,11 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day1.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day01/index.ts) by [Marvin]
 1. [Zig](https://github.com/Tilltheman/AoC24/tree/main/day1) by [Tilltheman]
+1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day01.rs) by [Jay]
 
 
 [Gronner]: https://github.com/Gronner
 [pelma24]: https://github.com/pelma24
 [Marvin]: https://github.com/wrngwrld
 [Tilltheman]: https://github.com/Tilltheman
+[Jay]: https://github.com/Scyak
