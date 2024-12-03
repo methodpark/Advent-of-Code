@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day03/index.ts) by [Marvin]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day3.py) by [pelma24]
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day03.rs) by [Jay]
+1. [Rust - changing the example in part2 is mean!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day03/src/main.rs) by [Jörg]
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ☢️
 
@@ -32,6 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day2.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day02/index.ts) by [Marvin]
 1. [Zig - don't do it like this please.](https://github.com/Tilltheman/AoC24/tree/main/day2) by [Tilltheman]
+1. [Rust - trying out TryFrom instead of From](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day02/src/main.rs) by [Jörg]
 
 ### [Day 1](https://adventofcode.com/2024/day/1) 📋
 
@@ -40,7 +42,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day01/index.ts) by [Marvin]
 1. [Zig](https://github.com/Tilltheman/AoC24/tree/main/day1) by [Tilltheman]
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day01.rs) by [Jay]
-
+1. [Rust - Workspaces are great (fast compile + easy on disk space)!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day01/src/main.rs) by [Jörg]
 
 [Gronner]: https://github.com/Gronner
 [pelma24]: https://github.com/pelma24
