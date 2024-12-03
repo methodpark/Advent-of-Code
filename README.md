@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Regex old friend, so we meet again each year](https://github.com/Gronner/aoc-2024/blob/master/src/day3/mod.rs) by [Gronner]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day03/index.ts) by [Marvin]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day3.py) by [pelma24]
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ☢️
 
