@@ -18,9 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
-1. [Rust - Regex old friend, so we meet again each year](https://github.com/Gronner/aoc-2024/blob/master/src/day3/mod.rs) by [Gronner]
-
 ### [Day 3](https://adventofcode.com/2024/day/3) 🖥️
+
+1. [Rust - Regex old friend, so we meet again each year](https://github.com/Gronner/aoc-2024/blob/master/src/day3/mod.rs) by [Gronner]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day03/index.ts) by [Marvin]
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ☢️
 
