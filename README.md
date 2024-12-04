@@ -24,6 +24,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Matrices are also back this
    year](https://github.com/Gronner/aoc-2024/blob/master/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day4.py) by [pelma24]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day04/index.ts) by [Marvin]
 
 ### [Day 3](https://adventofcode.com/2024/day/3) 🖥️
 
