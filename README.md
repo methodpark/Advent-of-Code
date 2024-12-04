@@ -33,6 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day3.py) by [pelma24]
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day03.rs) by [Jay]
 1. [Rust - changing the example in part2 is mean!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day03/src/main.rs) by [Jörg]
+1. [Part 1 bash, grep & awk, Part 2 Zig](https://github.com/Tilltheman/AoC24/tree/main/day3) by [Tilltheman]
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ☢️
 
