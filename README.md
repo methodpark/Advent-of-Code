@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 5](https://adventofcode.com/2024/day/4) 🖨️
+
+1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day05.rs) by [Jay]
+
 ### [Day 4](https://adventofcode.com/2024/day/4) 🔎
 
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day04.rs) by [Jay]
