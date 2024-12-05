@@ -23,12 +23,12 @@ Only visible to members of the private leaderboard.
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day05.rs) by [Jay]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day05/index.ts) by [Marvin]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day5.py) by [pelma24]
+1. [Rust - Sort to the rescue, could be faster though](https://github.com/Gronner/aoc-2024/blob/master/src/day5/mod.rs) by [Gronner]
 
 ### [Day 4](https://adventofcode.com/2024/day/4) 🔎
 
 1. [Rust](https://github.com/Scyak/aoc-2024/blob/main/src/days/day04.rs) by [Jay]
-1. [Rust - Matrices are also back this
-   year](https://github.com/Gronner/aoc-2024/blob/master/src/day4/mod.rs) by [Gronner]
+1. [Rust - Matrices are also back this year](https://github.com/Gronner/aoc-2024/blob/master/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day4.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day04/index.ts) by [Marvin]
 
