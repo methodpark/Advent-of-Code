@@ -22,6 +22,8 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - time for 'cargo run --release'](https://github.com/Scyak/aoc-2024/blob/main/src/days/day06.rs) by [Jay]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day6.py) by [pelma24]
+1. [Rust - Solid Snake would enjoy all the boxes](https://github.com/Gronner/aoc-2024/blob/master/src/day6/mod.rs) by [Gronner]
+
 
 ### [Day 5](https://adventofcode.com/2024/day/5) 🖨️
 
