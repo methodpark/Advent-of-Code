@@ -21,7 +21,8 @@ Only visible to members of the private leaderboard.
 ### [Day 7](https://adventofcode.com/2024/day/7) 🌉
 
 1. [Rust - (re)curse this bridge](https://github.com/Scyak/aoc-2024/blob/main/src/days/day07.rs) by [Jay]
-2. [Rust - Unnecessarily learning about functional analysis](https://github.com/Gronner/aoc-2024/blob/master/src/day7/mod.rs) by [Gronner]
+1. [Rust - Unnecessarily learning about functional analysis](https://github.com/Gronner/aoc-2024/blob/master/src/day7/mod.rs) by [Gronner]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day7.py) by [pelma24]
 
 ### [Day 6](https://adventofcode.com/2024/day/6) 👮
 
