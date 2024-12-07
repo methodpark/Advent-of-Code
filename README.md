@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 7](https://adventofcode.com/2024/day/7) 🌉
+
+1. [Rust - (re)curse this bridge](https://github.com/Scyak/aoc-2024/blob/main/src/days/day07.rs) by [Jay]
+
 ### [Day 6](https://adventofcode.com/2024/day/6) 👮
 
 1. [Rust - time for 'cargo run --release'](https://github.com/Scyak/aoc-2024/blob/main/src/days/day06.rs) by [Jay]
