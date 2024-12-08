@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 8](https://adventofcode.com/2024/day/8) 📡
 
 1. [Rust - featuring some unnecessary work](https://github.com/Scyak/aoc-2024/blob/main/src/days/day08.rs) by [Jay]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day08/index.ts) by [Marvin]
 
 ### [Day 7](https://adventofcode.com/2024/day/7) 🌉
 
