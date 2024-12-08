@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - featuring some unnecessary work](https://github.com/Scyak/aoc-2024/blob/main/src/days/day08.rs) by [Jay]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day08/index.ts) by [Marvin]
+1. [Rust - Train solutions are never good](https://github.com/Gronner/aoc-2024/blob/master/src/day8/mod.rs) by [Gronner]
 
 ### [Day 7](https://adventofcode.com/2024/day/7) 🌉
 
