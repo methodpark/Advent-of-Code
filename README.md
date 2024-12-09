@@ -23,6 +23,7 @@ Only visible to members of the private leaderboard.
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day9.py) by [pelma24]
 1. [Rust - inefficient but it works](https://github.com/Scyak/aoc-2024/blob/main/src/days/day09.rs) by [Jay]
+1. [Rust - Yes, files could be represented smarter, yes finding empty and original blocks could be better, but ..](https://github.com/Gronner/aoc-2024/blob/master/src/day9/mod.rs) by [Gronner]
 
 ### [Day 8](https://adventofcode.com/2024/day/8) 📡
 
