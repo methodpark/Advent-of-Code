@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 9](https://adventofcode.com/2024/day/9) 💿
 
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day9.py) by [pelma24]
+1. [Rust - inefficient but it works](https://github.com/Scyak/aoc-2024/blob/main/src/days/day09.rs) by [Jay]
 
 ### [Day 8](https://adventofcode.com/2024/day/8) 📡
 
