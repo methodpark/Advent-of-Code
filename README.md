@@ -26,6 +26,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - just hike](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day10/src/main.rs) by [Jörg]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day10.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day10/index.ts) by [Marvin]
+1. [Rust - Pathfinder: Wrath of the Hiker](https://github.com/Gronner/aoc-2024/blob/master/src/day10/mod.rs) by [Gronner]
 
 ### [Day 9](https://adventofcode.com/2024/day/9) 💿
 
