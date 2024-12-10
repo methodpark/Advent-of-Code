@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 10](https://adventofcode.com/2024/day/10) 🥾
 
 1. [Rust - just hike](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day10/src/main.rs) by [Jörg]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day10.py) by [pelma24]
 
 ### [Day 9](https://adventofcode.com/2024/day/9) 💿
 
