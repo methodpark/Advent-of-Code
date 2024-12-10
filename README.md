@@ -18,6 +18,9 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 10](https://adventofcode.com/2024/day/10) 🥾
+
+1. [Rust - just hike](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day10/src/main.rs) by [Jörg]
 
 ### [Day 9](https://adventofcode.com/2024/day/9) 💿
 
@@ -25,6 +28,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - inefficient but it works](https://github.com/Scyak/aoc-2024/blob/main/src/days/day09.rs) by [Jay]
 1. [Rust - Yes, files could be represented smarter, yes finding empty and original blocks could be better, but ..](https://github.com/Gronner/aoc-2024/blob/master/src/day9/mod.rs) by [Gronner]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day09/index.ts) by [Marvin]
+1. [Rust - don't let me do operating systems I guess :)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day09/src/main.rs) by [Jörg]
 
 ### [Day 8](https://adventofcode.com/2024/day/8) 📡
 
@@ -53,6 +57,7 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day05/index.ts) by [Marvin]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day5.py) by [pelma24]
 1. [Rust - Sort to the rescue, could be faster though](https://github.com/Gronner/aoc-2024/blob/master/src/day5/mod.rs) by [Gronner]
+1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day05/src/main.rs) by [Jörg]
 
 ### [Day 4](https://adventofcode.com/2024/day/4) 🔎
 
@@ -60,6 +65,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Matrices are also back this year](https://github.com/Gronner/aoc-2024/blob/master/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day4.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day04/index.ts) by [Marvin]
+1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day04/src/main.rs) by [Jörg]
 
 ### [Day 3](https://adventofcode.com/2024/day/3) 🖥️
 
