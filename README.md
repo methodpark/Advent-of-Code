@@ -18,10 +18,14 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 10](https://adventofcode.com/2024/day/11) 🪨
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day11/index.ts) by [Marvin]
+
 ### [Day 10](https://adventofcode.com/2024/day/10) 🥾
 
 1. [Rust - just hike](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day10/src/main.rs) by [Jörg]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day10.py) by [pelma24]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day10/index.ts) by [Marvin]
 
 ### [Day 9](https://adventofcode.com/2024/day/9) 💿
 
