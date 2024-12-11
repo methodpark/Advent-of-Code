@@ -18,7 +18,7 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
-### [Day 10](https://adventofcode.com/2024/day/11) 🪨
+### [Day 11](https://adventofcode.com/2024/day/11) 🪨
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day11/index.ts) by [Marvin]
 
 ### [Day 10](https://adventofcode.com/2024/day/10) 🥾
