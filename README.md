@@ -18,7 +18,12 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 12](https://adventofcode.com/2024/day/12) 🧑‍🌾
+
+1. [Rust - Implementing twice, having to think around corners](https://github.com/Gronner/aoc-2024/blob/master/src/day12/mod.rs) by [Gronner]
+
 ### [Day 11](https://adventofcode.com/2024/day/11) 🪨
+
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day11/index.ts) by [Marvin]
 1. [Rust - Same procedure as every year?](https://github.com/Gronner/aoc-2024/blob/master/src/day11/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day11.py) by [pelma24]
