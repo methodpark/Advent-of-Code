@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 13](https://adventofcode.com/2024/day/13) 🕹️
+
+1. [Rust - I'll never gonna need that, you said in school](https://github.com/Gronner/aoc-2024/blob/master/src/day13/mod.rs) by [Gronner]
+
 ### [Day 12](https://adventofcode.com/2024/day/12) 🧑‍🌾
 
 1. [Rust - Implementing twice, having to think around corners](https://github.com/Gronner/aoc-2024/blob/master/src/day12/mod.rs) by [Gronner]
