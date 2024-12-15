@@ -33,6 +33,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - I'll never gonna need that, you said in school](https://github.com/Gronner/aoc-2024/blob/master/src/day13/mod.rs) by [Gronner]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day13.java) by [alxfhl]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day13/index.ts) by [Marvin]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day13.py) by [pelma24]
 
 ### [Day 12](https://adventofcode.com/2024/day/12) 🧑‍🌾
 
