@@ -22,11 +22,13 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - Input was so cool I handle it twice](https://github.com/Gronner/aoc-2024/blob/master/src/day15/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day15.py) by [pelma24]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day15/index.ts) by [Marvin]
 
 ### [Day 14](https://adventofcode.com/2024/day/14) 🚽
 
 1. [Rust - Slow sample input hides fast input](https://github.com/Gronner/aoc-2024/blob/master/src/day14/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day14.py) by [pelma24]
+1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day14/index.ts) by [Marvin]
 
 ### [Day 13](https://adventofcode.com/2024/day/13) 🕹️
 
