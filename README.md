@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 16](https://adventofcode.com/2024/day/16) 🦌
+
+1. [Rust - Bag full of nice stary places](https://github.com/Gronner/aoc-2024/blob/master/src/day16/mod.rs) by [Gronner]
+
 ### [Day 15](https://adventofcode.com/2024/day/15) 📦
 
 1. [Rust - Input was so cool I handle it twice](https://github.com/Gronner/aoc-2024/blob/master/src/day15/mod.rs) by [Gronner]
