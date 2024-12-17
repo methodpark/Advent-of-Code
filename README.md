@@ -51,6 +51,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Implementing twice, having to think around corners](https://github.com/Gronner/aoc-2024/blob/master/src/day12/mod.rs) by [Gronner]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day12.java) by [alxfhl]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day12/index.ts) by [Marvin]
+1. [Python - only part 1 so far](https://github.com/pelma24/AdventOfCode/blob/master/2024/day12.py) by [pelma24]
 
 ### [Day 11](https://adventofcode.com/2024/day/11) 🪨
 
