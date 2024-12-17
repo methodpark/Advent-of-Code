@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 17](https://adventofcode.com/2024/day/17) 🖥️
 
 1. [Rust - I'm sorry, Dave. I'm afraid I can't do that](https://github.com/Gronner/aoc-2024/blob/master/src/day17/mod.rs) by [Gronner]
+1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day17.py) by [pelma24]
 
 ### [Day 16](https://adventofcode.com/2024/day/16) 🦌
 
