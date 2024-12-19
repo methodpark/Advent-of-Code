@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 19](https://adventofcode.com/2024/day/19) 🧖‍♀️
+
+1. [Rust - Counting, Summing with an Option](https://github.com/Gronner/aoc-2024/blob/master/src/day19/mod.rs) by [Gronner]
+
 ### [Day 18](https://adventofcode.com/2024/day/18) 🐏
 
 1. [Rust - Expectations were luckily not met](https://github.com/Gronner/aoc-2024/blob/master/src/day18/mod.rs) by [Gronner]
