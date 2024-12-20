@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 20](https://adventofcode.com/2024/day/20) 🏁
+
+1. [Rust - First time cheating in AoC](https://github.com/Gronner/aoc-2024/blob/master/src/day20/mod.rs) by [Gronner]
+
 ### [Day 19](https://adventofcode.com/2024/day/19) 🧖‍♀️
 
 1. [Rust - Counting, Summing with an Option](https://github.com/Gronner/aoc-2024/blob/master/src/day19/mod.rs) by [Gronner]
