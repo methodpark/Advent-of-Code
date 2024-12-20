@@ -81,7 +81,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Same procedure as every year?](https://github.com/Gronner/aoc-2024/blob/master/src/day11/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day11.py) by [pelma24]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day11.java) by [alxfhl]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day11/src/main.rs) by [Jörg]
+1. [Rust - can you blink faster?](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day11/src/main.rs) by [Jörg]
 
 ### [Day 10](https://adventofcode.com/2024/day/10) 🥾
 
@@ -99,7 +99,6 @@ Only visible to members of the private leaderboard.
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day09/index.ts) by [Marvin]
 1. [Rust - don't let me do operating systems I guess :)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day09/src/main.rs) by [Jörg]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day09.java) by [alxfhl]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day09/src/main.rs) by [Jörg]
 
 ### [Day 8](https://adventofcode.com/2024/day/8) 📡
 
@@ -108,7 +107,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Train solutions are never good](https://github.com/Gronner/aoc-2024/blob/master/src/day8/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day8.py) by [pelma24]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day08.java) by [alxfhl]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day08/src/main.rs) by [Jörg]
+1. [Rust - simulating germany](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day08/src/main.rs) by [Jörg]
 
 ### [Day 7](https://adventofcode.com/2024/day/7) 🌉
 
@@ -117,7 +116,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day7.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day07/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day07.java) by [alxfhl]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day07/src/main.rs) by [Jörg]
+1. [Rust - happy solving](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day07/src/main.rs) by [Jörg]
 
 ### [Day 6](https://adventofcode.com/2024/day/6) 👮
 
@@ -126,7 +125,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Solid Snake would enjoy all the boxes](https://github.com/Gronner/aoc-2024/blob/master/src/day6/mod.rs) by [Gronner]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day06/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day06.java) by [alxfhl]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day06/src/main.rs) by [Jörg]
+1. [Rust - I made a big mistake - don't look at the history of this file pls ;)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day06/src/main.rs) by [Jörg]
 
 ### [Day 5](https://adventofcode.com/2024/day/5) 🖨️
 
@@ -143,7 +142,7 @@ Only visible to members of the private leaderboard.
 1. [Rust - Matrices are also back this year](https://github.com/Gronner/aoc-2024/blob/master/src/day4/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day4.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day04/index.ts) by [Marvin]
-1. [Rust](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day04/src/main.rs) by [Jörg]
+1. [Rust meets XMAS](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day04/src/main.rs) by [Jörg]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day04.java) by [alxfhl]
 
 ### [Day 3](https://adventofcode.com/2024/day/3) 🖥️
