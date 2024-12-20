@@ -21,37 +21,44 @@ Only visible to members of the private leaderboard.
 ### [Day 20](https://adventofcode.com/2024/day/20) 🏁
 
 1. [Rust - First time cheating in AoC](https://github.com/Gronner/aoc-2024/blob/master/src/day20/mod.rs) by [Gronner]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day20.java) by [alxfhl]
 
 ### [Day 19](https://adventofcode.com/2024/day/19) 🧖‍♀️
 
 1. [Rust - Counting, Summing with an Option](https://github.com/Gronner/aoc-2024/blob/master/src/day19/mod.rs) by [Gronner]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day19.java) by [alxfhl]
 
 ### [Day 18](https://adventofcode.com/2024/day/18) 🐏
 
 1. [Rust - Expectations were luckily not met](https://github.com/Gronner/aoc-2024/blob/master/src/day18/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day18.py) by [pelma24]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day18.java) by [alxfhl]
 
 ### [Day 17](https://adventofcode.com/2024/day/17) 🖥️
 
 1. [Rust - I'm sorry, Dave. I'm afraid I can't do that](https://github.com/Gronner/aoc-2024/blob/master/src/day17/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day17.py) by [pelma24]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day17.java) by [alxfhl]
 
 ### [Day 16](https://adventofcode.com/2024/day/16) 🦌
 
 1. [Rust - Bag full of nice stary places](https://github.com/Gronner/aoc-2024/blob/master/src/day16/mod.rs) by [Gronner]
 1. [Rust - b <= a, instead of a <= b are the best bugs!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day16/src/main.rs) by [Jörg]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day16.java) by [alxfhl]
 
 ### [Day 15](https://adventofcode.com/2024/day/15) 📦
 
 1. [Rust - Input was so cool I handle it twice](https://github.com/Gronner/aoc-2024/blob/master/src/day15/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day15.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day15/index.ts) by [Marvin]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day15.java) by [alxfhl]
 
 ### [Day 14](https://adventofcode.com/2024/day/14) 🚽
 
 1. [Rust - Slow sample input hides fast input](https://github.com/Gronner/aoc-2024/blob/master/src/day14/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day14.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day14/index.ts) by [Marvin]
+1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day14.java) by [alxfhl]
 
 ### [Day 13](https://adventofcode.com/2024/day/13) 🕹️
 
