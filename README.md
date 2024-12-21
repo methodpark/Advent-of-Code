@@ -56,6 +56,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day15.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day15/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day15.java) by [alxfhl]
+1. [Rust - introducing a_box (because box is a keyword)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day15/src/main.rs) by [Jörg]
 
 ### [Day 14](https://adventofcode.com/2024/day/14) 🚽
 
@@ -63,6 +64,7 @@ Only visible to members of the private leaderboard.
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day14.py) by [pelma24]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day14/index.ts) by [Marvin]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day14.java) by [alxfhl]
+1. [Rust - my assumptions about the task were very wrong](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day14/src/main.rs) by [Jörg]
 
 ### [Day 13](https://adventofcode.com/2024/day/13) 🕹️
 
@@ -70,6 +72,7 @@ Only visible to members of the private leaderboard.
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day13.java) by [alxfhl]
 1. [TypeScript](https://github.com/wrngwrld/advent-of-code/blob/master/aoc2024/src/day13/index.ts) by [Marvin]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day13.py) by [pelma24]
+1. [Rust - Still somewhat able to math something by hand :)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day13/src/main.rs) by [Jörg]
 
 ### [Day 12](https://adventofcode.com/2024/day/12) 🧑‍🌾
 
