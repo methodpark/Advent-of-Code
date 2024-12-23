@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 23](https://adventofcode.com/2024/day/23) 🖥️
+
+1. [Rust - Searching for triangle cliques is hard, searching for big ones not?!](https://github.com/Gronner/aoc-2024/blob/master/src/day23/mod.rs) by [Gronner]
+
 ### [Day 22](https://adventofcode.com/2024/day/22) 🍌
 
 1. [Rust - 16113920 is not 16777216](https://github.com/Gronner/aoc-2024/blob/master/src/day22/mod.rs) by [Gronner]
