@@ -34,23 +34,27 @@ Only visible to members of the private leaderboard.
 
 1. [Rust - First time cheating in AoC](https://github.com/Gronner/aoc-2024/blob/master/src/day20/mod.rs) by [Gronner]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day20.java) by [alxfhl]
+1. [Rust - grid is getting into my common lib for next year!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day20/src/main.rs) by [Jörg]
 
 ### [Day 19](https://adventofcode.com/2024/day/19) 🧖‍♀️
 
 1. [Rust - Counting, Summing with an Option](https://github.com/Gronner/aoc-2024/blob/master/src/day19/mod.rs) by [Gronner]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day19.java) by [alxfhl]
+1. [Rust - Regex you failed me!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day19/src/main.rs) by [Jörg]
 
 ### [Day 18](https://adventofcode.com/2024/day/18) 🐏
 
 1. [Rust - Expectations were luckily not met](https://github.com/Gronner/aoc-2024/blob/master/src/day18/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day18.py) by [pelma24]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day18.java) by [alxfhl]
+1. [Rust - slow is still fast enough :)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day18/src/main.rs) by [Jörg]
 
 ### [Day 17](https://adventofcode.com/2024/day/17) 🖥️
 
 1. [Rust - I'm sorry, Dave. I'm afraid I can't do that](https://github.com/Gronner/aoc-2024/blob/master/src/day17/mod.rs) by [Gronner]
 1. [Python](https://github.com/pelma24/AdventOfCode/blob/master/2024/day17.py) by [pelma24]
 1. [Java](https://github.com/alxfhl/aoc2024/blob/main/src/main/java/aoc2024/Day17.java) by [alxfhl]
+1. [Rust - reading assembler, bit by bit](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day17/src/main.rs) by [Jörg]
 
 ### [Day 16](https://adventofcode.com/2024/day/16) 🦌
 
