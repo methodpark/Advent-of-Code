@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 24](https://adventofcode.com/2024/day/24) ⛩️
+
+1. [Rust - Today, I'm happy for suffering through electronics I & II](https://github.com/Gronner/aoc-2024/blob/master/src/day24/mod.rs) by [Gronner]
+
 ### [Day 23](https://adventofcode.com/2024/day/23) 🖥️
 
 1. [Rust - Searching for triangle cliques is hard, searching for big ones not?!](https://github.com/Gronner/aoc-2024/blob/master/src/day23/mod.rs) by [Gronner]
