@@ -18,6 +18,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 25](https://adventofcode.com/2024/day/25) 🔑
+
+1. [Rust - The key to AoC is persistence and sometimes brute force](https://github.com/Gronner/aoc-2024/blob/master/src/day25/mod.rs) by [Gronner]
+
 ### [Day 24](https://adventofcode.com/2024/day/24) ⛩️
 
 1. [Rust - Today, I'm happy for suffering through electronics I & II](https://github.com/Gronner/aoc-2024/blob/master/src/day24/mod.rs) by [Gronner]
