@@ -25,6 +25,7 @@ Only visible to members of the private leaderboard.
 ### [Day 24](https://adventofcode.com/2024/day/24) ⛩️
 
 1. [Rust - Today, I'm happy for suffering through electronics I & II](https://github.com/Gronner/aoc-2024/blob/master/src/day24/mod.rs) by [Gronner]
+1. [Manual inspection - with a lot of additional Rust code](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day24/src/main.rs) by [Jörg]
 
 ### [Day 23](https://adventofcode.com/2024/day/23) 🖥️
 
