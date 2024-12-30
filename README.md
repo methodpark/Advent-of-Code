@@ -21,6 +21,7 @@ Only visible to members of the private leaderboard.
 ### [Day 25](https://adventofcode.com/2024/day/25) 🔑
 
 1. [Rust - The key to AoC is persistence and sometimes brute force](https://github.com/Gronner/aoc-2024/blob/master/src/day25/mod.rs) by [Gronner]
+1. [Rust - Unlocked reading the story now :)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day25/src/main.rs) by [Jörg]
 
 ### [Day 24](https://adventofcode.com/2024/day/24) ⛩️
 
@@ -30,14 +31,17 @@ Only visible to members of the private leaderboard.
 ### [Day 23](https://adventofcode.com/2024/day/23) 🖥️
 
 1. [Rust - Searching for triangle cliques is hard, searching for big ones not?!](https://github.com/Gronner/aoc-2024/blob/master/src/day23/mod.rs) by [Gronner]
+1. [Rust - Who needs LAN-Partys when you can have a clone party instead ;)](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day23/src/main.rs) by [Jörg]
 
 ### [Day 22](https://adventofcode.com/2024/day/22) 🍌
 
 1. [Rust - 16113920 is not 16777216](https://github.com/Gronner/aoc-2024/blob/master/src/day22/mod.rs) by [Gronner]
+1. [Rust - Monkey business](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day22/src/main.rs) by [Jörg]
 
 ### [Day 21](https://adventofcode.com/2024/day/21) 🔒
 
 1. [Rust - When local optimas work for the sample, but not for your input](https://github.com/Gronner/aoc-2024/blob/master/src/day21/mod.rs) by [Gronner]
+1. [Rust - Please never use this system in real life!](https://github.com/jgpr-code/aoc/blob/main/2024/rust/day21/src/main.rs) by [Jörg]
 
 ### [Day 20](https://adventofcode.com/2024/day/20) 🏁
 
