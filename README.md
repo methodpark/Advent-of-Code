@@ -22,5 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 1](https://adventofcode.com/2025/day/1) ⏲️
 
 1. [Rust - Round and round we go](https://github.com/Gronner/aoc-2025/blob/main/src/day1.rs) by [Gronner]
+2. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day01/day01.py) by [bismut]
 
 [Gronner]: https://github.com/Gronner
+[bismut]: https://github.com/bismuts-werkeleien
