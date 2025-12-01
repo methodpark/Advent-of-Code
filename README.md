@@ -18,3 +18,9 @@ Only visible to members of the private leaderboard.
 🌟 [By Stars](https://adventofcode.com/2025/leaderboard/private/view/635843?order=stars)
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
+
+### [Day 1](https://adventofcode.com/2025/day/1) ⏲️
+
+1. [Rust - Round and round we go](https://github.com/Gronner/aoc-2025/blob/main/src/day1.rs) by [Gronner]
+
+[Gronner]: https://github.com/Gronner
