@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 2](https://adventofcode.com/2025/day/2) 🏷️
 
 1. [Rust - Why think a little, when computer can think a lot!](https://github.com/Gronner/aoc-2025/blob/main/src/day2.rs) by [Gronner]
+2. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day02/day02.py) by [bismut]
 
 ### [Day 1](https://adventofcode.com/2025/day/1) ⏲️
 
