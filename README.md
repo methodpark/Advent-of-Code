@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 3](https://adventofcode.com/2025/day/3) 🔋
+
+1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day03/day03.py) by [bismut]
+
 ### [Day 2](https://adventofcode.com/2025/day/2) 🏷️
 
 1. [Rust - Why think a little, when computer can think a lot!](https://github.com/Gronner/aoc-2025/blob/main/src/day2.rs) by [Gronner]
