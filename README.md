@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 3](https://adventofcode.com/2025/day/3) 🔋
 
 1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day03/day03.py) by [bismut]
+1. [Rust - e-AoC](https://github.com/Gronner/aoc-2025/blob/main/src/day3.rs) by [Gronner]
 
 ### [Day 2](https://adventofcode.com/2025/day/2) 🏷️
 
