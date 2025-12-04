@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 4](https://adventofcode.com/2025/day/4) 🧻
+
+1. [Rust - They had me in the first half](https://github.com/Gronner/aoc-2025/blob/main/src/day4.rs) by [Gronner]
+
 ### [Day 3](https://adventofcode.com/2025/day/3) 🔋
 
 1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day03/day03.py) by [bismut]
