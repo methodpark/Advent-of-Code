@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 5](https://adventofcode.com/2025/day/5) 🫑
 
 1. [python - sets could have been nice without OOM Killer](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day05/day05.py) by [bismut]
+1. [Rust - There is a range of things to do](https://github.com/Gronner/aoc-2025/blob/main/src/day5.rs) by [Gronner]
 
 ### [Day 4](https://adventofcode.com/2025/day/4) 🧻
 
