@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 5](https://adventofcode.com/2025/day/5) 🫑
+
+1. [python - sets could have been nice without OOM Killer](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day05/day05.py) by [bismut]
+
 ### [Day 4](https://adventofcode.com/2025/day/4) 🧻
 
 1. [Rust - They had me in the first half](https://github.com/Gronner/aoc-2025/blob/main/src/day4.rs) by [Gronner]
