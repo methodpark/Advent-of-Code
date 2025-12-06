@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 6](https://adventofcode.com/2025/day/6) 🧮
 
 1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day06/day06.py) by [bismut]
+1. [Rust - Don't make me write parsers so early](https://github.com/Gronner/aoc-2025/blob/main/src/day6.rs) by [Gronner]
 
 ### [Day 5](https://adventofcode.com/2025/day/5) 🫑
 
