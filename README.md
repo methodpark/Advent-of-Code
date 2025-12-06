@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 6](https://adventofcode.com/2025/day/6) 🧮
+
+1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day06/day06.py) by [bismut]
+
 ### [Day 5](https://adventofcode.com/2025/day/5) 🫑
 
 1. [python - sets could have been nice without OOM Killer](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day05/day05.py) by [bismut]
