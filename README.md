@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 7](https://adventofcode.com/2025/day/7) ☄️
 
 1. [Rust - Close Up, this looks like the dark side of the moon](https://github.com/Gronner/aoc-2025/blob/main/src/day7.rs) by [Gronner]
+2. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day07/day07.py) by [bismut]
 
 ### [Day 6](https://adventofcode.com/2025/day/6) 🧮
 
