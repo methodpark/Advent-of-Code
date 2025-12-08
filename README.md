@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 8](https://adventofcode.com/2025/day/8) 🔌
 
 1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day08/day08.py) by [bismut]
+1. [Rust - Safety Moment: Don't chain-connect to many lights](https://github.com/Gronner/aoc-2025/blob/main/src/day8.rs) by [Gronner]
 
 ### [Day 7](https://adventofcode.com/2025/day/7) ☄️
 
