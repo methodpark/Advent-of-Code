@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 9](https://adventofcode.com/2025/day/9) 🎭
+
+1. [python - too many for loops](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day09/day09.py) by [bismut]
+
 ### [Day 8](https://adventofcode.com/2025/day/8) 🔌
 
 1. [python](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day08/day08.py) by [bismut]
