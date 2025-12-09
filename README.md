@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 9](https://adventofcode.com/2025/day/9) 🎭
 
 1. [python - too many for loops](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day09/day09.py) by [bismut]
+1. [Rust - There is only so much light one can cast](https://github.com/Gronner/aoc-2025/blob/main/src/day9.rs) by [Gronner]
 
 ### [Day 8](https://adventofcode.com/2025/day/8) 🔌
 
