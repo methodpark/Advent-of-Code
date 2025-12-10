@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 10](https://adventofcode.com/2025/day/10) 🐩
 
 1. [python - deepcopy and round to the rescue](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day10/day10.py) by [bismut]
+1. [Rust - Now we solve algos!](https://github.com/Gronner/aoc-2025/blob/main/src/day10.rs) by [Gronner]
 
 ### [Day 9](https://adventofcode.com/2025/day/9) 🎭
 
