@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ### [Day 11](https://adventofcode.com/2025/day/11) 🌐
 
 1. [python - I don't care which paths you take](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day11/day11.py) by [bismut]
+1. [Rust - Even faster with a little help](https://github.com/Gronner/aoc-2025/blob/main/src/day11.rs) by [Gronner]
 
 ### [Day 10](https://adventofcode.com/2025/day/10) 🐩
 
