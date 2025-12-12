@@ -22,6 +22,7 @@ Only visible to members of the private leaderboard.
 ## [Day 12](https://adventofcode.com/2025/day/12) 🎄
 
 1. [python - The correct answer sometimes lies in the middle](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day12/day12.py) by [bismut]
+1. [Rust - Okay ... aha ...  AHHHHHHHH .. oh ... WTF .. -.-](https://github.com/Gronner/aoc-2025/blob/main/src/day12.rs) by [Gronner]
 
 ### [Day 11](https://adventofcode.com/2025/day/11) 🌐
 
