@@ -19,6 +19,10 @@ Only visible to members of the private leaderboard.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+## [Day 12](https://adventofcode.com/2025/day/12) 🎄
+
+1. [python - multiple solutions for input, none for test data](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day12/day12.py) by [bismut]
+
 ### [Day 11](https://adventofcode.com/2025/day/11) 🌐
 
 1. [python - I don't care which paths you take](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day11/day11.py) by [bismut]
