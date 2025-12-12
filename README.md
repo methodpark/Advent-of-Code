@@ -21,7 +21,7 @@ Only visible to members of the private leaderboard.
 
 ## [Day 12](https://adventofcode.com/2025/day/12) 🎄
 
-1. [python - multiple solutions for input, none for test data](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day12/day12.py) by [bismut]
+1. [python - The correct answer sometimes lies in the middle](https://github.com/bismuts-werkeleien/AoC_2025/blob/master/day12/day12.py) by [bismut]
 
 ### [Day 11](https://adventofcode.com/2025/day/11) 🌐
 
